@@ -19,15 +19,7 @@ rows.forEach(element => {
     shipdatadict[display] = new Ship(chars, names, namesdisplay);
 });
 
-let table = document.getElementById("shipTable");
-let first_row = table.insertRow();
-first_row.className = "header";
-let first_cell = first_row.insertCell();
-first_cell.outerHTML = "<th>Ship</th>";
-first_cell.style = "width:30%;";
-let second_cell = first_row.insertCell();
-second_cell.outerHTML = "<th>Names</th>";
-second_cell.style = "width:70%;";
+populateTable("-!-")
 
 function populateTable(search) {
     search = search.toLowerCase();
@@ -40,13 +32,13 @@ function populateTable(search) {
     first_row.className = "header";
     let first_cell = first_row.insertCell();
     first_cell.outerHTML = "<th>Ship</th>";
-    first_cell.style = "width:30%;";
+    first_cell.style = "width:40%;";
     let second_cell = first_row.insertCell();
     second_cell.outerHTML = "<th>Names</th>";
-    second_cell.style = "width:65%;";
+    second_cell.style = "width:59%;";
     let third_cell = first_row.insertCell();
     third_cell.outerHTML = "<th></th>";
-    third_cell.style = "width:5%;";
+    third_cell.style = "width:1%;";
     Object.entries(shipdatadict).forEach(([key, ship]) => {
         let matches = 0;
         matchloop:

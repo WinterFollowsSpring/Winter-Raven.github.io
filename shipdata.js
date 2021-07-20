@@ -3177,7 +3177,136 @@ Li Ren/Maria: Lotus Skull
 Henry Marigold/Terra Cotta-Arc: Gold Pottery
 Sienna Khan/Maria: Eight Lives
 Vernal/Maria: Spring Reaping
-Saphron Cotta-Arc/Terra Cotta-Arc: Stone Arch;Argus Living2 Winters/2 Ironwood/2 Cinder/2 Weiss/2 Qrows/1 Jaune: Jaune's Ark
+Saphron Cotta-Arc/Terra Cotta-Arc: Stone Arch;Argus LivingAdam/Cinder/Ruby: Blood Pact
+Adam/Blake/Sun: Crimsun Eclipse
+Adam/Sun/Yang: Blake Screwed Us Over
+Amber/Jaune/Pyrrha: Beyond Two Souls
+Amber/Cinder/Jaune: Jaune's Maidens
+Blake/Yang/Neo: Harlequinn Bees
+Blake/Yang/Sun: Sunnybees
+Blake/Summer/Raven: A MIdsummer's night dream
+Blake/Emerald/Ruby: Purrloined Petals
+Blake/Cardin/Yang: Birds and Bees
+Blake/Coco/Bed: Dreamin' of a Cat-Nap
+Blake/Neo/Yang: Neopollination
+Blake/Neon/Tukson: Cat-Trick
+Blake/Penny/Ruby: Mechanical Ladybug
+Blake/Pyrrha/Yang: Greek Honeys
+Blake/Pyrrha/Jaune: Darkos
+Blake/Ruby/Weiss: Newspaper
+Blake/Ruby/Yang: Bumblebug
+Blake/Ruby/Velvet: Cherry Leather
+Blake/Weiss/Yang: Bees Schnees
+Blake/Velvet/Weiss: Frappuchino
+Blake/Velvet/Yang: At it like Rabbits
+Blake/Neon/Yang: Cat-Fight
+Blake/May/Neon: Commewnist Party
+Blake/Pyrrha/Ruby: Purruby
+Blake/Emerald/Yang: Synthetic Honey
+Blake/Raven/Yang: The Bird and the Bees
+Blake/Roman/Yang: Criminal Bees
+Blake/Cinder/Pyrrha: Hot Pussy Magnet
+Blake/Mercury/Yang: Robo-Bee
+Blake/Jaune/Yang: Stung Knight
+Blake/Ilia/Sun: Menage a Trois
+Cardin/Jaune/Port: Santa and his elves
+Cardin/Jaune/Ren: Knights of Ren
+Ciel/Flynt/Ozpin: 3/4 Time
+Cinder/Ruby/Weiss: Corrupting Innocence and Expectations
+Cinder/Coco/Ruby: Hot Chocolate Strawberries
+Cinder/Yang/Pyrrha: Carbon Subnitride
+Cinder/Pyrrha/Jaune: Arkos on Fire
+Cinder/Ruby/Jaune: Fueled by Roses
+Cinder/Ruby/Pyrrha: Scarlet Trio
+Cinder/Ruby/Emerald: Crowned Jewels
+Cinder/Glynda/Winter: CinGlynWin
+Cinder/Coco/Velvet: Hot Lava Cake
+Cinder/Emerald/Neo: Mint Chip Spice Cream
+Cinder/Neopolitan/Salem: Candy Corpse On Fire
+Coco/Jaune/Velvet: Knight in the Crosshares
+Coco/Nora/Neo: Shocklatt� Ice Cream
+Coco/Weiss/Yang: Venti Cafeolae.
+Coco/Velvet/Yang: Hot Cross Buns
+Coco/Neo/Velvet: Dessert Party
+Coco/Ruby/Yang: Hot Cherry Shots
+Coco/Velvet/Weiss: Chocolate Dust Bunny
+Dew/Sage/Emerald: Gang Green
+Dr Watts/Jacques/Port: Staches
+Emerald/Pyrrha/Ruby: Greek Gems
+Emerald/Ruby/Sky: Wonderful World
+Emerald/Ruby/Weiss: Gem Queen
+Emerald/May/Ruby: Gen III
+Emerald/Neo/Velvet: Mint Chip Rabbit
+Glynda/Ironwood/Ozpin: Ozlumini-naughty
+Ironwood/Ozpin/Qrow: Woodpecker
+Jaune/Yang/Sun: 3 Blondes No Cup
+Jaune/Yang/Cinder: Arc Reactor
+Jaune/Nora/Pyrrha: Nora's Arkos
+Jaune/Ren/Sun: Lie/Cheat/Steal
+Jaune/Nora/Ren: Feast of Lies
+Jaune/Ruby/Weiss: War of the Roses
+Jaune/Pyrrha/Ruby: Rose Gold
+Jaune/Neptune/Sage: Pasta El Pasto
+Jaune/Pyrrha/Weiss: A Man Can Dream
+Jaune/Qrow/Weiss: Knight's Watch
+Jaune/Sun/Taiyang: Natural Blonds
+Jaune/Penny/Ruby: 2 Dorks and a Half
+Jaune/Ren/Ruby: Liecaster
+Jaune/Neptune/Scarlet: Noah's Pirate Arc
+Jaune/Pyrrha/Ren: Martial Arkos
+Jaune/Neptune/Weiss: ARCtic Ocean
+Jaune/Oscar/Ruby: Breaking in the new Kid
+Jaune/Yang/Weiss: I like Yellow Snow
+Junior/Melanie/Militades: Job Perks
+Melanie/Miltiades/Ruby: Red M&Ms
+Melanie/Militades/Sage: Spiced Candy Cane
+Melanie/Militades/Yang: Yellow M&Ms
+Melanie/Militades/Reese: Reese's Cups
+Melanie/Militades/Weiss: Song & Dance
+Mercury/Ren/Yang: Dance Dance Amputation
+Milita/Melanie/Neo: Dippin' Dots
+Neo/Ruby/Weiss: Strawberry Swirl
+Neo/Pyrrha/Blake: Creamed Pussy Magnet
+Neo/Roman/Ruby: Creaminal Rose
+Neo/Roman/Sun: Gelato to the West
+Neo/Neon/Yang: Burnout
+Neo/Raven/Ren: Silent Treatment
+Neo/Raven/Yang: Overbaked Alaska
+Neo/Ruby/Yang: Strawberry Sundae Breast
+Neo/Salem/Taiyang: The Lion, The Witch, The Wardrobe
+Neon/Nora/Penny: Electric Avenue
+Neptune/Ruby/Sun: Sailor's Delight
+Neptune/Sage/Sun: Seasuning
+Neptune/Sage/Shopkeeper: Seaweed Cabbages
+Neptune/Velvet/Weiss: Weissberg Lettuce
+Nora/Penny/Yang: Beep, Boop! Explosion!
+Nora/Pyrrha/Ruby: Maple Sugar Rush
+Nora/Qrow/Raven: Thunderbirds
+Nora/Penny/Ruby: Rosequartz Hammer
+Oobleck/Port/Yang: Edgy Moustache Humour
+Penny/Roman/Pyrrha: Deadheads
+Penny/Pyrrha/Ruby: Cinnamon Rolls
+Penny/Ruby/Weiss: Dolts and Bolts
+Penny/Mercury/Yang: Quadraplegic
+Pyrrha/Neo/Weiss: Greek Fro-Yo
+Pyrrha/Ruby/Weiss: Platinum Rose
+Pyrrha/Weiss/Yang: Permafrost;Global Warming
+Pyrrha/Ruby/Sun: Olympics
+Qrow/Raven/Summer: Odin
+Qrow/Raven/Winter: Three Eyed Raven
+Raven/Summer/Taiyang: A Family Again
+Roman/Ruby/Summer: Bouquetwick
+Ruby/Weiss/Winter: Crimson Blizzard
+Ruby/Taiyang/Yang: Daddy's little girls
+Ruby/Weiss/Yang: Strawberry Shortcake
+Ruby/Weiss/Zwei: Zweit Rose
+Ruby/Velvet/Yang: Wildflower Hare
+Taiyang/Weiss/Winter: Icy Fire
+Yang/Weiss/Yang: Twinkie
+Blake/Weiss/Kali: Oreo
+Weiss/Blake/Winter: Reverse Oreo
+Li Ren/Yatsu/Li Ren: Ryuu Ga Waga Teki Wo Kurau
+2 Winters/2 Ironwood/2 Cinder/2 Weiss/2 Qrows/1 Jaune: Jaune's Ark
 Adam/Cinder/Ironwood/Qrow/Raven: The Non-Teen Titans
 Arslan/Bolin/Reese/Nadir: Lion's Pride
 Arslan/Adam/Adam/Adam: The Lion and Three Bulls
@@ -3238,133 +3367,4 @@ Yang/Blake/Ruby/Weiss/Melanie/Miltiades/Velvet/Coco/Pyrrha/Raven: The Dragon's H
 Yang/Junior/White Fang LT/Yatsuhashi: Goldilocks and the Three Bears
 Yang/Yang/Yang/Yang: YangBang
 Yang/Sun/Ilia/Blake: Sunshine and Rainbows
-Blake/Adam/Yang/Ilia/Su: Blake's Harem
-Adam/Cinder/Rub: Blood Pact
-Adam/Blake/Su: Crimsun Eclipse
-Adam/Sun/Yan: Blake Screwed Us Over
-Amber/Jaune/Pyrrh: Beyond Two Souls
-Amber/Cinder/Jaun: Jaune's Maidens
-Blake/Yang/Ne: Harlequinn Bees
-Blake/Yang/Su: Sunnybees
-Blake/Summer/Rave: A MIdsummer's night dream
-Blake/Emerald/Rub: Purrloined Petals
-Blake/Cardin/Yan: Birds and Bees
-Blake/Coco/Be: Dreamin' of a Cat-Nap
-Blake/Neo/Yan: Neopollination
-Blake/Neon/Tukso: Cat-Trick
-Blake/Penny/Rub: Mechanical Ladybug
-Blake/Pyrrha/Yan: Greek Honeys
-Blake/Pyrrha/Jaun: Darkos
-Blake/Ruby/Weis: Newspaper
-Blake/Ruby/Yan: Bumblebug
-Blake/Ruby/Velve: Cherry Leather
-Blake/Weiss/Yan: Bees Schnees
-Blake/Velvet/Weis: Frappuchino
-Blake/Velvet/Yan: At it like Rabbits
-Blake/Neon/Yan: Cat-Fight
-Blake/May/Neo: Commewnist Party
-Blake/Pyrrha/Rub: Purruby
-Blake/Emerald/Yan: Synthetic Honey
-Blake/Raven/Yan: The Bird and the Bees
-Blake/Roman/Yan: Criminal Bees
-Blake/Cinder/Pyrrh: Hot Pussy Magnet
-Blake/Mercury/Yan: Robo-Bee
-Blake/Jaune/Yan: Stung Knight
-Blake/Ilia/Su: Menage a Trois
-Cardin/Jaune/Por: Santa and his elves
-Cardin/Jaune/Re: Knights of Ren
-Ciel/Flynt/Ozpi: 3/4 Time
-Cinder/Ruby/Weis: Corrupting Innocence and Expectations
-Cinder/Coco/Rub: Hot Chocolate Strawberries
-Cinder/Yang/Pyrrh: Carbon Subnitride
-Cinder/Pyrrha/Jaun: Arkos on Fire
-Cinder/Ruby/Jaun: Fueled by Roses
-Cinder/Ruby/Pyrrh: Scarlet Trio
-Cinder/Ruby/Emeral: Crowned Jewels
-Cinder/Glynda/Winte: CinGlynWin
-Cinder/Coco/Velve: Hot Lava Cake
-Cinder/Emerald/Ne: Mint Chip Spice Cream
-Cinder/Neopolitan/Sale: Candy Corpse On Fire
-Coco/Jaune/Velve: Knight in the Crosshares
-Coco/Nora/Ne: Shocklatt� Ice Cream
-Coco/Weiss/Yan: Venti Cafeolae.
-Coco/Velvet/Yan: Hot Cross Buns
-Coco/Neo/Velve: Dessert Party
-Coco/Ruby/Yan: Hot Cherry Shots
-Coco/Velvet/Weis: Chocolate Dust Bunny
-Dew/Sage/Emeral: Gang Green
-Dr Watts/Jacques/Por: Staches
-Emerald/Pyrrha/Rub: Greek Gems
-Emerald/Ruby/Sk: Wonderful World
-Emerald/Ruby/Weis: Gem Queen
-Emerald/May/Rub: Gen III
-Emerald/Neo/Velve: Mint Chip Rabbit
-Glynda/Ironwood/Ozpi: Ozlumini-naughty
-Ironwood/Ozpin/Qro: Woodpecker
-Jaune/Yang/Su: 3 Blondes No Cup
-Jaune/Yang/Cinde: Arc Reactor
-Jaune/Nora/Pyrrh: Nora's Arkos
-Jaune/Ren/Su: Lie/Cheat/Steal
-Jaune/Nora/Re: Feast of Lies
-Jaune/Ruby/Weis: War of the Roses
-Jaune/Pyrrha/Rub: Rose Gold
-Jaune/Neptune/Sag: Pasta El Pasto
-Jaune/Pyrrha/Weis: A Man Can Dream
-Jaune/Qrow/Weis: Knight's Watch
-Jaune/Sun/Taiyan: Natural Blonds
-Jaune/Penny/Rub: 2 Dorks and a Half
-Jaune/Ren/Rub: Liecaster
-Jaune/Neptune/Scarle: Noah's Pirate Arc
-Jaune/Pyrrha/Re: Martial Arkos
-Jaune/Neptune/Weis: ARCtic Ocean
-Jaune/Oscar/Rub: Breaking in the new Kid
-Jaune/Yang/Weis: I like Yellow Snow
-Junior/Melanie/Militade: Job Perks
-Melanie/Miltiades/Rub: Red M&Ms
-Melanie/Militades/Sag: Spiced Candy Cane
-Melanie/Militades/Yan: Yellow M&Ms
-Melanie/Militades/Rees: Reese's Cups
-Melanie/Militades/Weis: Song & Dance
-Mercury/Ren/Yan: Dance Dance Amputation
-Milita/Melanie/Ne: Dippin' Dots
-Neo/Ruby/Weis: Strawberry Swirl
-Neo/Pyrrha/Blak: Creamed Pussy Magnet
-Neo/Roman/Rub: Creaminal Rose
-Neo/Roman/Su: Gelato to the West
-Neo/Neon/Yan: Burnout
-Neo/Raven/Re: Silent Treatment
-Neo/Raven/Yan: Overbaked Alaska
-Neo/Ruby/Yan: Strawberry Sundae Breast
-Neo/Salem/Taiyan: The Lion, The Witch, The Wardrobe
-Neon/Nora/Penn: Electric Avenue
-Neptune/Ruby/Su: Sailor's Delight
-Neptune/Sage/Su: Seasuning
-Neptune/Sage/Shopkeepe: Seaweed Cabbages
-Neptune/Velvet/Weis: Weissberg Lettuce
-Nora/Penny/Yan: Beep, Boop! Explosion!
-Nora/Pyrrha/Rub: Maple Sugar Rush
-Nora/Qrow/Rave: Thunderbirds
-Nora/Penny/Rub: Rosequartz Hammer
-Oobleck/Port/Yan: Edgy Moustache Humour
-Penny/Roman/Pyrrh: Deadheads
-Penny/Pyrrha/Rub: Cinnamon Rolls
-Penny/Ruby/Weis: Dolts and Bolts
-Penny/Mercury/Yan: Quadraplegic
-Pyrrha/Neo/Weis: Greek Fro-Yo
-Pyrrha/Ruby/Weis: Platinum Rose
-Pyrrha/Weiss/Yan: Global Warming
-Pyrrha/Ruby/Su: Olympics
-Qrow/Raven/Summe: Odin
-Qrow/Raven/Winte: Three Eyed Raven
-Raven/Summer/Taiyan: A Family Again
-Roman/Ruby/Summe: Bouquetwick
-Ruby/Weiss/Winte: Crimson Blizzard
-Ruby/Taiyang/Yan: Daddy's little girls
-Ruby/Weiss/Yan: Strawberry Shortcake
-Ruby/Weiss/Zwe: Zweit Rose
-Ruby/Velvet/Yan: Wildflower Hare
-Taiyang/Weiss/Winte: Icy Fire
-Yang/Weiss/Yan: Twinkie
-Blake/Weiss/Kal: Oreo
-Weiss/Blake/Winte: Reverse Oreo
-Li Ren/Yatsu/Li Re: Ryuu Ga Waga Teki Wo Kurau`;
+Blake/Adam/Yang/Ilia/Su: Blake's Harem`;
