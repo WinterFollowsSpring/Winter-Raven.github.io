@@ -43,7 +43,10 @@ function populateTable(search) {
     first_cell.style = "width:30%;";
     let second_cell = first_row.insertCell();
     second_cell.outerHTML = "<th>Names</th>";
-    second_cell.style = "width:70%;";
+    second_cell.style = "width:65%;";
+    let third_cell = first_row.insertCell();
+    third_cell.outerHTML = "<th></th>";
+    third_cell.style = "width:5%;";
     Object.entries(shipdatadict).forEach(([key, ship]) => {
         let matches = 0;
         matchloop:
@@ -70,6 +73,13 @@ function populateTable(search) {
             let namescell = row.insertCell();
             let text2 = document.createTextNode(ship.namesdisplay);
             namescell.appendChild(text2);
+            let suggestcell = row.insertCell();
+            let a = document.createElement('a');
+            let link = document.createTextNode("*");
+            a.appendChild(link);
+            a.title = "Suggest a name for " + key;
+            a.href = "https://docs.google.com/forms/d/e/1FAIpQLScVaXvrx-dHQIigk5CHL94fJSuWRQaYWq4L6m1QxT0ae6Ou4w/viewform?usp=pp_url&entry.1666039153=" + key;
+            suggestcell.appendChild(a);
         }
     });
 
