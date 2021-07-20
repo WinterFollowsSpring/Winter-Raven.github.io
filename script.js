@@ -7,6 +7,10 @@ function search(e) {
 	}
 }
 
+function parseShips() {
+	
+}
+
 function searchTable() {
 	// Declare variables
 	var inp, inputNamesList, inputName, filter, table, tr, td, namesList, name, i, txtValue, matches;
