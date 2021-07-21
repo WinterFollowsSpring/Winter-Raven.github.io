@@ -3266,5 +3266,5 @@ Yang/Yang/Yang/Yang: YangBang
 Yang/Sun/Ilia/Blake: Sunshine and Rainbows
 Blake/Adam/Yang/Ilia/Sun: Blake's Harem
 Winter/Robyn: Snowbyrd
-Robyn/Fiona/May Marigold/Joanna: Very Happy Huntresses
+Robyn/Fiona/May Marigold/Joanna: Very Happy Huntresses;Direct Action
 Winter/May Marigold: Black Ice
