@@ -3265,6 +3265,13 @@ Yang/Junior/White Fang LT/Yatsuhashi: Goldilocks and the Three Bears
 Yang/Yang/Yang/Yang: YangBang
 Yang/Sun/Ilia/Blake: Sunshine and Rainbows
 Blake/Adam/Yang/Ilia/Sun: Blake's Harem
-Winter/Robyn: Snowbyrd
+Winter/Robyn: Snowbyrd;Icebyrd;Schneewood Forest
 Robyn/Fiona/May Marigold/Joanna: Very Happy Huntresses;Direct Action
-Winter/May Marigold: Black Ice`;
+Winter/May Marigold: Black Ice
+Winter/Robyn/Fiona/May Marigold/Joanna: Frosty Happy Huntresses
+May Marigold/Joanna: Goldleaf
+May Marigold/Robyn: Invisibird
+May Marigold/Fiona: Maythyme
+Fiona/Marrow: Sheepdog
+Fiona/Joanna: Fianna
+Robyn/Fiona: Springthyme`;
