@@ -1020,7 +1020,7 @@ Russel/Kali: Thrash the Thrush
 Russel/Henry Marigold: Boys in Blue
 Russel/Sienna Khan: Tiger Thrush
 Russel/Vernal: Thrush Tattoo
-Dove/Dove: The 2nd Day;Full name: The 2nd day of Chrismas
+Dove/Dove: The 2nd Day;Full name
 Dove/Sky: Soaring;Flying;There's not a star in heaven that we can't reach;(I'm not sorry -Saber)
 Dove/Sun: See no Evil
 Dove/Scarlet: Marooned
@@ -3265,3 +3265,6 @@ Yang/Junior/White Fang LT/Yatsuhashi: Goldilocks and the Three Bears
 Yang/Yang/Yang/Yang: YangBang
 Yang/Sun/Ilia/Blake: Sunshine and Rainbows
 Blake/Adam/Yang/Ilia/Sun: Blake's Harem
+Winter/Robyn: Snowbyrd
+Robyn/Fiona/May Marigold/Joanna: Very Happy Huntresses
+Winter/May Marigold: Black Ice
