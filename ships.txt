@@ -1,63 +1,63 @@
 Ruby/Ruby: Bouquet;Watering the Roses
-Ruby/Weiss: White Rose;Combat Skirts;Ice Flowers;Reiss;Rice;Osiria ;Pink (Lightish Red);Candy Cane;Red Snow;York;Dust Til Dawn
-Ruby/Blake: Ladybug;Black Rose;Rainbow Snow
-Ruby/Yang: Enabler;Strawberry Sunrise (platonic);Burning Rose;Rose Before Bows;Orange;Yellow Rose;Puns and Roses;Lannister;Maroon
-Ruby/Jaune: Lancaster
-Ruby/Nora: Sugar Rush;Heavy Weapons;Communism;Rosehammer;Sugar Shock;Hammer and Sickle;Pink Rose;Comrade of Skirts;Red Queen;Dorks
-Ruby/Pyrrha: Milk and Cereal
-Ruby/Ren: Crimson Lotus;Lotus Petals;Crimson Dragon;Red Lotus;Flower Bouquet;Mulan Rogue;Cherry Blossum;Crimson Lotus;Smol Red/Tol Red
-Ruby/Coco: Cherry Cordial;Chocolate Milk;Strawberry Chocolate;Guns and Roses;Kung Fu Fighting
-Ruby/Fox: Vulpes;Scarlet Fox;Blind Bullet;Madra Rua;Fleetfoot;Cherry Cordial
-Ruby/Velvet: Scarlet Rose;Scarlet Rabbit;Red Velvet;Affogoto
-Ruby/Yatsuhashi: Sweetie Pie;Compensating;Buns and Roses
-Ruby/Cardin: Crimson Wings
+Ruby/Weiss: White Rose;Combat Skirts;Ice Flowers;Reiss;Rice;Osiria;Pink (Lightish Red);Candy Cane;Red Snow;York;Lightish Red
+Ruby/Blake: Ladybug;Black Rose;Maroon
+Ruby/Yang: Enabler;Strawberry Sunrise (platonic);Burning Rose;Rose Before Bows;Orange;Yellow Rose;Puns and Roses;Lannister
+Ruby/Jaune: Lancaster;Crater Face;Rose Knight;Rosy Arc;Lunar Rose;Dork Knight;Dorks;York
+Ruby/Nora: Sugar Rush;Heavy Weapons;Communism;Rosehammer;Sugar Shock;Hammer and Sickle;Pink Rose;Comrade of Skirts;Red Queen;Crimson Bolt
+Ruby/Pyrrha: Milk and Cereal;Scarlet Duo;Victory Rose;Pole Control;Scarlet fever;Destiny's Child;Milk and Cookies;Red Autumn;Marshmellows;Magnetic Rose;Smol Red/Tol Red
+Ruby/Ren: Crimson Lotus;Lotus Petals;Crimson Dragon;Red Lotus;Flower Bouquet;Mulan Rogue;Cherry Blossum
+Ruby/Coco: Cherry Cordial;Chocolate Milk;Strawberry Chocolate;Guns and Roses;Passion
+Ruby/Fox: Vulpes;Scarlet Fox;Blind Bullet;Madra Rua;Fleetfoot;Fox On The Run
+Ruby/Velvet: Scarlet Rose;Scarlet Rabbit;Red Velvet;Buns and Roses
+Ruby/Yatsuhashi: Sweetie Pie;Compensating;Vantage Point
+Ruby/Cardin: Crimson Wings;50 Shades of Red
 Ruby/Russel: Rosebush
-Ruby/Dove: Gilded Rose
-Ruby/Sky: Rosey Sky
-Ruby/Sun: Sunset
-Ruby/Scarlet: Scarlet Rose;Shades of Red;Mother and Sun
-Ruby/Sage: Danshen;Sugar and Spice;Christmas;Cinnabar
-Ruby/Neptune: Red Tide;Red Sea;Rosewater;Roll Tide;Crimson Tide;Whirlwind
-Ruby/Penny: Nuts and Dolts;"Just Friends";Mechanical Rose;Roboflower;Wrong Tree
-Ruby/Ciel Soleil: Stopwatch;Red vs BLue;Nutcracker
-Ruby/Whitley: Wild Rose;Rose Medow;Time is a state of Mind
-Ruby/Oscar: Rose Garden;Silver Avacodo;Rose Farm;Redwood;RosePine;Mile a Minute
-Ruby/Salem: Blood Magic;Witch Blood;No Pipsqueaks in here
-Ruby/Cinder: Falling Petals;Fire Flower;Haunted Harvest;Fallen Petals;CinderCreep;CinderRuby;Witch's Blood
-Ruby/Mercury: Quicksilver;Poisonous Rose;The Spring and The Fall
-Ruby/Emerald: Gemstone;Alexandrite;Jewelry Thief;Sonic Speed
-Ruby/Neopolitan: Strawberry Shortcake
-Ruby/Roman: Rosewick;Candy Cane;R&R Connection;Clockwork Rose;Rosemary;Candy Cane;R&R Connection;Clockwork Rose
-Ruby/Adam: Red Bull;Seeing Red;Enchanted Rose;Scatter and Wilt;Roman Khandle
+Ruby/Dove: Gilded Rose;Oh Hummingbird
+Ruby/Sky: Rosey Sky;Sunset
+Ruby/Sun: Sunset;Red Sun;Suns and Roses;Strawbana
+Ruby/Scarlet: Scarlet Rose;Shades of Red
+Ruby/Sage: Danshen;Sugar and Spice;Christmas;Paprika
+Ruby/Neptune: Red Tide;Red Sea;Rosewater;Roll Tide;Crimson Tide;Gun and Moses
+Ruby/Penny: Guts and Dolts
+Ruby/Ciel Soleil: Stopwatch;Red vs BLue;Mile a Minute
+Ruby/Whitley: Wild Rose;Rose Medow;Country Rose
+Ruby/Oscar: Rose Garden;Silver Avacodo;Rose Farm;Redwood;RosePine;Country Rose
+Ruby/Salem: Blood Magic;Witch Blood;Witch's Blood
+Ruby/Cinder: Falling Petals;Fire Flower;Haunted Harvest;Fallen Petals;CinderCreep;CinderRuby;Mother's Warmth
+Ruby/Mercury: Quicksilver;Poisonous Rose;Sonic Speed
+Ruby/Emerald: Gemstone;Alexandrite;Jewelry Thief;Blood Mint
+Ruby/Neopolitan: Strawberry Shortcake;Strawberry Swirl;Strawberry Ice Cream;Blood Rose;Red October;Cassata;Cookies and Cream;Rosemary
+Ruby/Roman: Rosewick;Candy Cane;R&R Connection;Clockwork Rose;Torched Rose
+Ruby/Adam: Red Bull;Seeing Red;Enchanted Rose;Scatter and Wilt;Kujata
 Ruby/Hazel: Novice
 Ruby/Tyrian: Toxic Petals;Catch and Release
 Ruby/Dr Watts: Red Light
 Ruby/Junior: Pedobear;Fake ID
 Ruby/Melanie: Version 2;Wilted Rose
 Ruby/Miltiades: Prototype
-Ruby/White Fang LT: Pruning;Rose Cutting;Kujata
+Ruby/White Fang LT: Pruning;Rose Cutting;Cutting Crew
 Ruby/Dr Merlot: Gamay
-Ruby/Glynda: Hoodwitch;Magenta Magica;Red Mage;Ruby Slippers;Milf and Cookies;Cutting Crew
-Ruby/Ozpin: Simple Souls;Cookies and Cocoa
-Ruby/Port: Professor Poop;Fortified Wine;Rose Quartz;Grey Rainbows
-Ruby/Oobleck: Cream & 5 Sugars;Rubleck;Mach 5;Rose Quartz
-Ruby/Summer: Bloody Roses;Oedipus;Special Eyes;A GENIUS!
-Ruby/Taiyang: Daddy's Little Girl;DILF and Cookies;Maiden Names
-Ruby/Raven: Flying Petals
-Ruby/Qrow: Harvest Moon;Scythes R Us;Silver Samurai
-Ruby/Ironwood: Redwoods
-Ruby/Winter: Frozen Rose;Red Snow;Winter Rose;Platinum Rose
+Ruby/Glynda: Hoodwitch;Magenta Magica;Red Mage;Ruby Slippers;Milf and Cookies
+Ruby/Ozpin: Simple Souls;Cookies and Cocoa;Clockwork Rose
+Ruby/Port: Professor Poop;Fortified Wine;Rose Quartz
+Ruby/Oobleck: Cream & 5 Sugars;Rubleck;Mach 5;Speedracer
+Ruby/Summer: Bloody Roses;Oedipus;Special Eyes;Electra
+Ruby/Taiyang: Daddy's Little Girl;DILF and Cookies;Sugar Daddy
+Ruby/Raven: Flying Petals;Red Feather;Next Best Thing;Silver Samurai
+Ruby/Qrow: Harvest Moon;Scythes R Us;Twin Reaper
+Ruby/Ironwood: Redwoods;Rust
+Ruby/Winter: Frozen Rose;Red Snow;Winter Rose;Platinum Rose;Frosen
 Ruby/Jacques: Royal Rose;Trophy Wife
 Ruby/Klein: Dopey;Baked Goods
 Ruby/Lionheart: Rose Lion
 Ruby/Arslan: Simba
 Ruby/Bolin: Crescent Rain
-Ruby/Reese: Speed Demons;Unsafe at any speed;Pride Halfpipe
+Ruby/Reese: Speed Demons;Unsafe at any speed;Safety Pads Needed
 Ruby/Nadir: Valentine's Day
 Ruby/Brawnz: Medals
 Ruby/Roy: Mustang
 Ruby/Nolan: Mulberry
-Ruby/May: Happy Campers;Quickscope;RoZedong;Plugged In
+Ruby/May: Happy Campers;Quickscope;RoZedong;Long Distance
 Ruby/Nebula: Red Dwarf
 Ruby/Dew: Code Red;Sailor's Warning
 Ruby/Gwen: Metal Petals
@@ -66,11 +66,11 @@ Ruby/Flynt Coal: Red Onion
 Ruby/Neon Katt: Rainbow Rose;Red Lights District
 Ruby/Tukson: Speed Reading;Best Day Ever
 Ruby/Lisa Lavender: AG Report;Potpurri
-Ruby/Amber: Imperial Topaz;Rose Malt
-Ruby/Zwei: Red Rocket
-Ruby/Shopkeeper: My Hero
-Ruby/Kali: Blackrose
-Ruby/Ghira: Mowgli
+Ruby/Amber: Imperial Topaz;Rose Malt;Legends
+Ruby/Zwei: Red Rocket;Puppy Love
+Ruby/Shopkeeper: My Hero;Subway;Dust Til Dawn;Dust til Dawn
+Ruby/Kali: Milf and Cookies
+Ruby/Ghira: Mowgli 
 Ruby/Ilia: Chasing Rainbows
 Ruby/An Ren: Water Rose
 Ruby/Li Ren: Tracer
@@ -80,36 +80,36 @@ Ruby/Fennec Albain: Small Fox
 Ruby/Sienna Khan: Red Stripes
 Ruby/Vernal: Spring Bloom
 Ruby/Maria: The Silver Reapers;Silver Eyed
-Weiss/Weiss: Mirror Image
-Weiss/Blake: Monochrome;Checkmate;Bliss;Tweiss
-Weiss/Yang: Freezerburn;A Song of Weiss and Fire;Snowdragon;Little Miss Tsunshine;White Gold;The Concordat
-Weiss/Jaune: White Knight;Weissgold;Snow Angel;Natural Blond;Schnarc;Yellow Snow;Re-Jeckted;York
-Weiss/Nora: Nordic Winter;Frozen Heart;Crimson Bolt
-Weiss/Pyrrha: North Pole;White Gold;Schneekos;Smol Red/Tol Red
+Weiss/Weiss: Mirror Image;Frozen Mirror;HAP HAP;Mirror Mirror;Tweiss
+Weiss/Blake: Monochrome;Checkmate;Bliss;Snow Clones
+Weiss/Yang: Freezerburn;A Song of Weiss and Fire;Snowdragon;Little Miss Tsunshine;White Gold;The Concordat;Weiss Crispies
+Weiss/Jaune: White Knight;Weissgold;Snow Angel;Natural Blond;Schnarc;Yellow Snow;Re-Jeckted;Daisy
+Weiss/Nora: Nordic Winter;Frozen Heart;Crushed Ice
+Weiss/Pyrrha: North Pole;White Gold;Schneekos;Star Students
 Weiss/Ren: White Lotus;Combat Sleeves
 Weiss/Coco: White Chocolate
 Weiss/Fox: Snow Dive;Arctic Fox
-Weiss/Velvet: Dust Bunny
+Weiss/Velvet: Dust Bunny;Snow Bunny
 Weiss/Yatsuhashi: Mochi;Mt Everest
-Weiss/Cardin: Pride and Prejudice
+Weiss/Cardin: Pride and Prejudice;Holy Ice;Prep Team
 Weiss/Russel: Dust Bowl
 Weiss/Dove: White Bird
 Weiss/Sky: Overcast
-Weiss/Sun: Arctic Monkey;Sunscreen;Strawbana
-Weiss/Scarlet: Light Red
+Weiss/Sun: Arctic Monkey;Sunscreen;Yeti
+Weiss/Scarlet: Light Red;Pixie Dust
 Weiss/Sage: Conifer
-Weiss/Neptune: Iceberg
-Weiss/Penny: Refigerator;Cold Hard Cash;Icebox;Cold Steel;Dust Mechanics;Dry Ice
-Weiss/Ciel Soleil: Time Freeze
-Weiss/Whitley: Snowblind
-Weiss/Oscar: Snow Pines;Mirror Mirror;Country Rose
+Weiss/Neptune: Iceberg;Neiss;Under the Schnee;Arctic Waters;Icy Waters;Dry Ice
+Weiss/Penny: Refigerator;Cold Hard Cash;Icebox;Cold Steel;Dust Mechanics;Heatsink
+Weiss/Ciel Soleil: Time Freeze;Blue Ice
+Weiss/Whitley: Snowblind;Babysitting
+Weiss/Oscar: Snow Pines;Mirror Mirror;Crop Dusting
 Weiss/Salem: Black Ice;Grimm Royalty
-Weiss/Cinder: White Ash;Ice Queen;Frozen Ash;Mother's Warmth
-Weiss/Mercury: Daddy Shoes
-Weiss/Emerald: Family Jewels;Snowflake in the Rough;Diamond;Princess and the Pauper;Blood Mint
-Weiss/Neopolitan: Weiss cream;Vanilla Ice;Dairy Queen;Rosemary
+Weiss/Cinder: White Ash;Ice Queen;Frozen Ash;SnowFall
+Weiss/Mercury: Daddy Shoes;Negatives;Cold Feet;Daddy Issues
+Weiss/Emerald: Family Jewels;Snowflake in the Rough;Diamond;Princess and the Pauper;Precious Snowflake
+Weiss/Neopolitan: Weiss cream;Vanilla Ice;Dairy Queen;Brain Freeze
 Weiss/Roman: From Dust Til Dawn;Schneesar
-Weiss/Adam: Albino Bull;Frostbite;The Bitch and the Beast;Brain Freeze
+Weiss/Adam: Albino Bull;Frostbite;The Bitch and the Beast;Mirror's Edge
 Weiss/Hazel: Cold Exterior
 Weiss/Tyrian: Icy Smile
 Weiss/Dr Watts: Tesla
@@ -118,41 +118,41 @@ Weiss/Melanie: What once was
 Weiss/Miltiades: Chisle
 Weiss/White Fang LT: Ice Sculpting
 Weiss/Dr Merlot: Chenin Blanc
-Weiss/Glynda: White Witch
+Weiss/Glynda: White Witch;Ice Witch;Cool Whip
 Weiss/Ozpin: Frozen in Time;Mithrandir
 Weiss/Port: Fame and Fortune
 Weiss/Oobleck: Iced Coffee
 Weiss/Summer: Melting Ice
 Weiss/Taiyang: Ruby's Leader
-Weiss/Raven: Cold Exterior;Jackpot
-Weiss/Qrow: Scotch on the Rocks;A Dusty old Qrow;White Russian;Weissky;Twin Reaper
-Weiss/Ironwood: Snow Patrol
-Weiss/Winter: Special Snowflakes;Schneenanigans;Winter is Coming;Gesundheit;Ice Queens;Ironweiss
+Weiss/Raven: Jackpot
+Weiss/Qrow: Scotch on the Rocks;A Dusty old Qrow;White Russian;Weissky;Broken Mirror
+Weiss/Ironwood: Snow Patrol;Birch;Frozen Metal;Whitedaddy;Ironweiss
+Weiss/Winter: Special Snowflakes;Schneenanigans;Winter is Coming;Gesundheit;Ice Queens
 Weiss/Jacques: Cut Off;Daddy Knows Best
 Weiss/Klein: Happy
 Weiss/Lionheart: Ice Lion
 Weiss/Arslan: Scar
 Weiss/Bolin: Snowfall
-Weiss/Reese: Snowboarding
-Weiss/Nadir: Stuck in Place
+Weiss/Reese: Snowboarding;Reeses' Weisses
+Weiss/Nadir: Cold Feet
 Weiss/Brawnz: Schni
-Weiss/Roy: Ice Saw;White Stallion
+Weiss/Roy: White Stallion
 Weiss/Nolan: Cold Shock
 Weiss/May: Useless Lesbians
-Weiss/Nebula: Quasar
+Weiss/Nebula: Quasar;Stardust
 Weiss/Dew: Frost
 Weiss/Gwen: ICE Card
 Weiss/Octavia: Sword of Fire and Ice
-Weiss/Flynt Coal: Cool Jazz;Opera;White Noise;Whirlwind
-Weiss/Neon Katt: Snow Bright;Sherbert;SnowCone
+Weiss/Flynt Coal: Cool Jazz;Opera;White Noise;Ice Coal'd
+Weiss/Neon Katt: Snow Bright;Sherbert;SnowCone;Opposites Attract
 Weiss/Tukson: Blank Page
 Weiss/Lisa Lavender: Blizzard Watch
 Weiss/Amber: Cryotubes
-Weiss/Zwei: Balto
+Weiss/Zwei: Balto;ZWEISS
 Weiss/Shopkeeper: Card Declined
 Weiss/Kali: Snow Leopard
 Weiss/Ghira: Polar Bear
-Weiss/Ilia: Rainbow Dust
+Weiss/Ilia: Rainbow Dust;Rainbow Ice;No Suns Allowed;Blizzard Lizards;Prismatic Ponytails;Rainbow Snow
 Weiss/An Ren: Frost Flowers
 Weiss/Li Ren: Meinzo
 Weiss/Henry Marigold: Arctic Waters
@@ -162,38 +162,38 @@ Weiss/Sienna Khan: White Tiger
 Weiss/Vernal: Schnee Snatcher
 Weiss/Maria: Mirrored Eyes
 Blake/Blake: Copy Cat;Shadows
-Blake/Yang: BumbleBY;Bumblebee;Burning Shadows;Blang;Hypersonic Lion Tamer;Longcat;Snow Clones
-Blake/Jaune: Dark Knight
-Blake/Nora: Thundercats;Fiction Fans;Catnip;Sword and Sheath
-Blake/Pyrrha: Purrha
-Blake/Ren: Ninjas of Love;Wallflower;Watermelon;Library
-Blake/Coco: Dark Chocolate
+Blake/Yang: BumbleBY;Bumblebee;Burning Shadows;Blang;Hypersonic Lion Tamer;Longcat;BMBLB
+Blake/Jaune: Dark Knight;Yellow Mellow;Feline Sick;Knightshade;Sword and Sheath
+Blake/Nora: Thundercats;Fiction Fans;Catnip;Pussy Pounder
+Blake/Pyrrha: Purrha;Apex Lesbians;Pussy Magnet
+Blake/Ren: Ninjas of Love;Wallflower;Watermelon;Library;Catnap
+Blake/Coco: Dark Chocolate;Cat Walk;Purrse;Catling
 Blake/Fox: Predators;Balls and Fix
-Blake/Velvet: Black Velvet;Predator & Prey;Scarlet Kitten;Like Mammals;Catling
+Blake/Velvet: Black Velvet;Predator & Prey;Scarlet Kitten;Like Mammals;Magic Trick
 Blake/Yatsuhashi: Catnip;Liquorice
 Blake/Cardin: Cat caught the Cardin;The Hunt
 Blake/Russel: Poetry
 Blake/Dove: Sufferin Succotash
 Blake/Sky: Midnight
-Blake/Sun: Black Sun
+Blake/Sun: Solar Eclipse
 Blake/Scarlet: Maroon;Quest for Booty
-Blake/Sage: Tea Leaves
+Blake/Sage: Tea Leaves;Catnip;Pepper
 Blake/Neptune: Seakitties;Catfish
-Blake/Penny: Combat Kitty;Playing With String;Electronyaa~;Double Bow;Cat's Cradle;Heatsink
+Blake/Penny: Combat Kitty;Playing With String;Electronyaa~;Double Bow;Cat's Cradle;Voltron
 Blake/Ciel Soleil: Night Time
-Blake/Whitley: Selina
-Blake/Oscar: Deadly Nightshade;Blake Pine;Voltron
+Blake/Whitley: Selina 
+Blake/Oscar: Deadly Nightshade;Blake Pine;The Man With Two Souls
 Blake/Salem: Black Cat
-Blake/Cinder: Familiar
-Blake/Mercury: Kuros;Maltese;50 Shades;Daddy Issues
+Blake/Cinder: Familiar;Cougar and the Cat;Hellcat
+Blake/Mercury: Kuros;Maltese;50 Shades;Puss in Boots
 Blake/Emerald: Cat Burgler
-Blake/Neopolitan: Calico
-Blake/Roman: Cat in the Hat;Sephora;Creamed Pussy
-Blake/Adam: Tauradonna;Beauty and the Beast;Nightshade Rose;Animal Abuse;Mirror's Edge
+Blake/Neopolitan: Calico;Kitty Cream;Creamed Pussy
+Blake/Roman: Cat in the Hat;Sephora;Catcalls
+Blake/Adam: Animal Abuse
 Blake/Hazel: Bearcat;F8F
 Blake/Tyrian: Skin the Cat
 Blake/Dr Watts: Vet
-Blake/Junior: Fur Coat;Black Bear;Nightshade Rose;Black Bear
+Blake/Junior: Fur Coat;Black Bear;Kit Cat Bar
 Blake/Melanie: Starry Night
 Blake/Miltiades: Cat Claws
 Blake/White Fang LT: Replacement;Slice and Dice
@@ -201,11 +201,11 @@ Blake/Dr Merlot: Zinfandel
 Blake/Glynda: Black Magic;Cheshire Cat
 Blake/Ozpin: Teacher's Pet;Silence
 Blake/Port: Whiskers
-Blake/Oobleck: Green Tea;BartholoMEW;Speedracer
+Blake/Oobleck: Green Tea;BartholoMEW;Speed Reading
 Blake/Summer: Summer Night
 Blake/Taiyang: Yellow Jacket
-Blake/Raven: Nevermore;Black Birds;Silver Samurai
-Blake/Qrow: Night Cap
+Blake/Raven: Nevermore;Black Birds;Runaways
+Blake/Qrow: Night Cap;Omens
 Blake/Ironwood: Darkwood;Steel Pussy
 Blake/Winter: Snow Leopard
 Blake/Jacques: Slave Labour
@@ -213,81 +213,81 @@ Blake/Klein: Bashful
 Blake/Lionheart: Scaredy Cat
 Blake/Arslan: Cat Scratch
 Blake/Bolin: Scratching Post
-Blake/Reese: Skater Cat
+Blake/Reese: Skater Cat;Blackboard
 Blake/Nadir: Wallflower
 Blake/Brawnz: Bronze Cat
 Blake/Roy: Alphonse
 Blake/Nolan: The Dark Knight
 Blake/May: Black Bullet
-Blake/Nebula: Blake Hole
-Blake/Dew: Moist
+Blake/Nebula: Blake Hole;Gcat
+Blake/Dew: Moist;Wet Pussy
 Blake/Gwen: Pride and Prejudice and Kitties
 Blake/Octavia: Shadowfire
-Blake/Flynt Coal: Cool Cat
-Blake/Neon Katt: Nyan Cat
+Blake/Flynt Coal: Cool Cat;Jazzcats
+Blake/Neon Katt: Nyan Cat;Reading Rainbow
 Blake/Tukson: Running Away
-Blake/Lisa Lavender: Fluff Reporting
+Blake/Lisa Lavender: Fluff Reporting 
 Blake/Amber: Black Flame
-Blake/Zwei: Unrequited Love
+Blake/Zwei: Unrequited Love;Fur Fight;Unauthorized Cuddles
 Blake/Shopkeeper: Fishy Noodles;Black Market
-Blake/Kali: Kitty Litter
+Blake/Kali: Meowdipus
 Blake/Ghira: Kitten's Cream
-Blake/Ilia: Changing Colors;Paint it Blake;Camo Cat;Reading Rainbow;From Shadows;Rainbow Snow
+Blake/Ilia: Changing Colors;Paint it Blake;Camo Cat;Reading Rainbow;From Shadows;Catmeleon
 Blake/An Ren: Black Lotus
-Blake/Li Ren: Doing Nothing
+Blake/Li Ren: Doing Nothing;Crouching Tiger
 Blake/Henry Marigold: Black Gold
 Blake/Corsac Albain: Cat Fox
 Blake/Fennec Albain: Night Fox
-Blake/Sienna Khan: Feline Love
+Blake/Sienna Khan: Friskies
 Blake/Vernal: The Runaways
 Yang/Yang: Disco Inferno;Double Barrel
-Yang/Jaune: Dragon Slayer;Firewall;Vomit Boy;Dragoon;Icarus;Sword and Sheath
-Yang/Nora: Pink Lemonade;Positive Reinforcement;Berserkers;Team Collateral Damage;Napalm;Explosions;Nidhogg;Pussy Pounder
-Yang/Pyrrha: Greek Fire;Chariots of Fire;Crimson Flame ;Flameshipping;Pyrrhomaniacs;Helios;Victorious Conquest;Funeral Pyre;Pussy Magnet
-Yang/Ren: Sunflowyr
+Yang/Jaune: Dragon Slayer;Firewall;Vomit Boy;Dragoon;Icarus;Arc Welder
+Yang/Nora: Pink Lemonade;Positive Reinforcement;Berserkers;Team Collateral Damage;Napalm;Explosions;Nidhogg;We'll Break Their Legs
+Yang/Pyrrha: Greek Fire;Chariots of Fire;Crimson Flame ;Flameshipping;Pyrrhomaniacs;Helios;Victorious Conquest;Funeral Pyre
+Yang/Ren: Sunflowyr;Dragon;Double Dragon;Sunflower;Way of the Dragon;Lyang
 Yang/Coco: Hot Chocolate;Hot Shots
 Yang/Fox: Blind Fury;Firefox
-Yang/Velvet: Scarlet Fever;Shotbunning;Honey Bunny;18 Carrot Gold;Rabbit Punch;BunPun;Magic Trick
-Yang/Yatsuhashi: Fried Rice;Yatsuyang;Vantage Point
+Yang/Velvet: Scarlet Fever;Shotbunning;Honey Bunny;18 Carrot Gold;Rabbit Punch;BunPun;Yanglet
+Yang/Yatsuhashi: Fried Rice;Yatsuyang;Fireball
 Yang/Cardin: Sucker Punch;Burned at the Stake
 Yang/Russel: Ursa Ursa
 Yang/Dove: Fried Chicken
 Yang/Sky: Dawn
-Yang/Sun: Solarflare;Super Saiyan;Midnight Sun
-Yang/Scarlet: Chili
-Yang/Sage: Forest Fire;Wise Dragon;Spicy;Pepper
-Yang/Neptune: Combat Goggles;Bluefire;Seadragon;Hot Waters;Hot Springs;Scald;Boiled Water;Dry Ice
-Yang/Penny: Blacksmith
+Yang/Sun: Solarflare;Super Saiyan;Sunburn
+Yang/Scarlet: Red Sun
+Yang/Sage: Forest Fire;Wise Dragon;Spicy;Sunny Grass
+Yang/Neptune: Combat Goggles;Bluefire;Seadragon;Hot Waters;Hot Springs;Scald;Boiled Water;Ocean Flare
+Yang/Penny: Blacksmith;Overclocked
 Yang/Ciel Soleil: It's Yang Time
 Yang/Whitley: Hot Ice
 Yang/Oscar: Summer Sun Harvest
-Yang/Salem: Burning Witch
-Yang/Cinder: Wildfire;Through Fire and Flames;Firearms;Hellcat
-Yang/Mercury: Disabler;The Gauntlets and The Greaves;Shotgun 
-Yang/Emerald: Lemon and Lime
-Yang/Neopolitan: Baked Alaska;Sundae;Lemon Sorbet;Sundae Breast;Creamed Pussy
+Yang/Salem: Watching The World Burn
+Yang/Cinder: Wildfire;Through Fire and Flames;Firearms;Liar Liar Pants on Fire
+Yang/Mercury: Combat Boots;Gauntlets and Greaves
+Yang/Emerald: Sunstone
+Yang/Neopolitan: Baked Alaska;Sundae;Lemon Sorbet;Sundae Breast;Melted Icecream
 Yang/Roman: Roman Candle;Fireworks
-Yang/Adam: Raging Bull
+Yang/Adam: Roadkill
 Yang/Hazel: Too Hot
 Yang/Tyrian: Eye for an Arm
 Yang/Dr Watts: Ion Bomb
-Yang/Junior: Call me SIR;Just Right;Forest Fire;Golden Bull
+Yang/Junior: Call me SIR;Just Right;Forest Fire;Nutcracker
 Yang/Melanie: Kickboxing
 Yang/Miltiades: Boxing
 Yang/White Fang LT: Chainsaw Smoker
 Yang/Dr Merlot: Sunspot
-Yang/Glynda: Burn the Witch;Yearn To Learn;Detention;Double Ds;Bust Ship;Cool Whip
+Yang/Glynda: Burn the Witch;Yearn To Learn;Detention;Double Ds;Bust Ship;Kinky Boots
 Yang/Ozpin: Hot Coffee;GoldiClocks
 Yang/Port: Moustache Ride
-Yang/Oobleck: Steaming Espresso;Hot for Teacher;Boobleck;Kinky Boots
-Yang/Summer: July
-Yang/Taiyang: Twin Suns
-Yang/Raven: Xiaodipus;Firebird;Abandonment Issues;Phoenix;Yangry Birds
-Yang/Qrow: Phoenix
-Yang/Ironwood: Firepoker;Iron Fist;Ironweiss
-Yang/Winter: Nuclear Winter;Shipping Sisters;Boob Monsters;Running Hot and Cold;Snow Dragon;Panzer
+Yang/Oobleck: Steaming Espresso;Hot for Teacher;Boobleck
+Yang/Summer: July;Unabler
+Yang/Taiyang: Twin Suns;Golden Dragon;Double Dragon;Into The Garden;Xiao Schlong
+Yang/Raven: Xiaodipus;Firebird;Abandonment Issues;Phoenix;Yangry Birds;Mommy Issues
+Yang/Qrow: Ho-oh
+Yang/Ironwood: Firepoker;Iron Fist;Arm Dealer
+Yang/Winter: Nuclear Winter;Shipping Sisters;Boob Monsters;Running Hot and Cold;Snow Dragon;Panzer;Elderburn
 Yang/Jacques: Global Warming
-Yang/Klein: Grumpy
+Yang/Klein: Grumpy;Yangry
 Yang/Lionheart: Yellow Streak
 Yang/Arslan: Iron Fists
 Yang/Bolin: Double Yellow
@@ -296,21 +296,21 @@ Yang/Nadir: Down 'n' Out
 Yang/Brawnz: Hot Cast
 Yang/Roy: Saw It
 Yang/Nolan: Marquee Moose
-Yang/May: Firearm
+Yang/May: Firearm;Smoking Barrels
 Yang/Nebula: Crash Nebula
-Yang/Dew: Petrichor
+Yang/Dew: Petrichor;Epic Bedhead
 Yang/Gwen: Hot Streak
 Yang/Octavia: Controlled Blaze
 Yang/Flynt Coal: Clubmix
-Yang/Neon Katt: Nyang Cat
-Yang/Tukson: Burning Books
+Yang/Neon Katt: Nyang Cat;Beat Beatdown
+Yang/Tukson: Burning Books;Fahrenheit 451
 Yang/Lisa Lavender: Breaking News
 Yang/Amber: Bottled Rage
 Yang/Zwei: Hot Dog;Sparky
 Yang/Shopkeeper: Spicy Noodles
 Yang/Kali: Tabby Cat
 Yang/Ghira: Smokey Bear
-Yang/Ilia: Lava Lamp;Komodo Dragon;Hot Colors
+Yang/Ilia: Lava Lamp;Komodo Dragon;Hot Colors;Salamander
 Yang/An Ren: Hot Lotus
 Yang/Li Ren: Doomfist
 Yang/Henry Marigold: Scald
@@ -318,51 +318,51 @@ Yang/Corsac Albain: Burned Foxy
 Yang/Fennec Albain: Nightmare Foxy
 Yang/Sienna Khan: Fear the Flames
 Yang/Vernal: Raven's Wards
-Jaune/Jaune: Blonde Ambition
-Jaune/Nora: Nora's Arc;Vikings;Electric Feel
-Jaune/Pyrrha: Arkos
-Jaune/Ren: Martial Arcs;Lie and Cheat;York;Spin the Bottle;Lotus Arc;Lyang
-Jaune/Coco: French Roast;Strut and Stumble;Blondie Roast;Catling
-Jaune/Fox: Zatoichi;The Fox and the Hound Dog (????)
-Jaune/Velvet: Scarlet Knight
+Jaune/Jaune: Blonde Ambition;Vomit Boy
+Jaune/Nora: Nora's Arc;Vikings;Electric Feel;Smite
+Jaune/Pyrrha: Arkos;Legends
+Jaune/Ren: Martial Arcs;Lie and Cheat;York;Spin the Bottle;Lotus Arc;Martial Arcade
+Jaune/Coco: French Roast;Strut and Stumble;Blondie Roast;Darque Chocolate
+Jaune/Fox: Zatoichi;The Fox and the Hound Dog
+Jaune/Velvet: Scarlet Knight;Bunoculars;Caerbannog;Golden Bunny;Pumpkin Pete
 Jaune/Yatsuhashi: Silk Road;Marco Polo
-Jaune/Cardin: Heresy;Archester;Prep Team
+Jaune/Cardin: Heresy ;Archester;Conviction
 Jaune/Russel: Big Ursa
 Jaune/Dove: Soul Defender
 Jaune/Sky: Free Falling
-Jaune/Sun: Day and Knight
+Jaune/Sun: Day and Knight;Cheat and Steal
 Jaune/Scarlet: Seasick
-Jaune/Sage: Fennel
-Jaune/Neptune: Noah's Arc
-Jaune/Penny: Circuit Breaker;Fleshlight;Arc Reactor;Lost Change;JcPenny;Robotic Knights;BlueJ
-Jaune/Ciel Soleil: Straight Outta Time
-Jaune/Whitley: Corporate Fraud
-Jaune/Oscar: Compost King;Shovel Knight
+Jaune/Sage: Fennel;Gold and Myrrh
+Jaune/Neptune: Noah's Arc;Floaties;BlueJ
+Jaune/Penny: Circuit Breaker;Fleshlight;Arc Reactor;Lost Change;JcPenny;Robotic Knights;Arculus Rift
+Jaune/Ciel Soleil: Straight Outta Time;Chevaliers Du Ciel
+Jaune/Whitley: Corporate Fraud;Weiss's Nightmare Pt 2
+Jaune/Oscar: Hedge Knight
 Jaune/Salem: At the Stake
-Jaune/Cinder: Arc Furnace;Sword and Bow in Accord;Arcfall;Knightfall;Arcin
-Jaune/Mercury: Melted Metal;Male Bees;Comic Buddies
-Jaune/Emerald: Topaz;Topaz;Link;Heat and Hallucinations
-Jaune/Neopolitan: Silent Knight
+Jaune/Cinder: Arc welding
+Jaune/Mercury: Melted Metal;Male Bees;Comic Buddies;Silver and Steel
+Jaune/Emerald: Topaz;Link;Lightning Thief
+Jaune/Neopolitan: Mountain Climber;Awkward Silence
 Jaune/Roman: Smooth Criminal;Dapper Dancers
-Jaune/Adam: Matador;Farm Boy;Dead Weight
+Jaune/Adam: Dead Weight
 Jaune/Hazel: Hazelnuts
-Jaune/Tyrian: Burning the World
+Jaune/Tyrian: Two Gods
 Jaune/Dr Watts: Electric Angel
 Jaune/Junior: Honey
 Jaune/Melanie: Foot Soldier
 Jaune/Miltiades: Curved Claws
 Jaune/White Fang LT: Cutting Close
 Jaune/Dr Merlot: Electrolysis
-Jaune/Glynda: Transcripts;Excalibur;French Vanilla
+Jaune/Glynda: Transcripts;Excalibur;Professor Arc
 Jaune/Ozpin: Wasted Energy;Battle Mage
-Jaune/Port: A Gentleman's Wager
+Jaune/Port: A Gentleman's Wager;Crying Wolf
 Jaune/Oobleck: Extra credit
-Jaune/Summer: Momma's Boy;Arc Angel;Summer's Knight Dream
+Jaune/Summer: Summer Guardian;Arc Angel;Summer's Knight Dream
 Jaune/Taiyang: Lost Lovers;Blond Bastards
-Jaune/Raven: Knight Flight;Knightingale;Canary;Crimson Knight
-Jaune/Qrow: Jaundice
-Jaune/Ironwood: Tin Armor
-Jaune/Winter: Winter Knight
+Jaune/Raven: Knightingale;Canary;Crimson Knight
+Jaune/Qrow: Jaundice;Plume
+Jaune/Ironwood: Tin Armor;Commander-In-Chief
+Jaune/Winter: Winter Knight;December Knight;You Know Nothing
 Jaune/Jacques: Weiss's Nightmare
 Jaune/Klein: Sneezy
 Jaune/Lionheart: Fearless
@@ -376,13 +376,13 @@ Jaune/Nolan: Electric Shock
 Jaune/May: Berthier
 Jaune/Nebula: Yellow Giant
 Jaune/Dew: Dewdrop
-Jaune/Gwen: Seven Swords
+Jaune/Gwen: Swords & Daggers
 Jaune/Octavia: Bladed Brethren
 Jaune/Flynt Coal: All That Jazz;Sword and Stone
 Jaune/Neon Katt: Rainbow Arc;Knight Life
 Jaune/Tukson: Comic Club
 Jaune/Lisa Lavender: Sob Story
-Jaune/Amber: Heartache;One Job
+Jaune/Amber: Autumn Knights
 Jaune/Zwei: Underdog
 Jaune/Shopkeeper: Customer Service;New Job
 Jaune/Kali: Faune Arc
@@ -397,31 +397,31 @@ Jaune/Sienna Khan: Religious Leaders
 Jaune/Vernal: Rogue Knight
 Jaune/Maria: Skull Knight
 Nora/Nora: SMASHING
-Nora/Pyrrha: Electromagnetism;Love & War;Fastball Special;Valkros;Legion of Boop;Smite
-Nora/Ren: ReNora
-Nora/Coco: Loco;Chocolate Thunder;Calming Storm
+Nora/Pyrrha: Electromagnetism;Love & War;Fastball Special;Valkros;Legion of Boop;Farabae
+Nora/Ren: ReNora;Noren;SlothFlower;Boop;Sloths;Flower Power;Watermelon;Calming Storm
+Nora/Coco: Loco;Chocolate Thunder;Shocklate
 Nora/Fox: Jolteon;Thunderfox
 Nora/Velvet: Energizer Bunny;Quik
-Nora/Yatsuhashi: Uchide no kozuchi
-Nora/Cardin: Break his Legs
+Nora/Yatsuhashi: Uchide no kozuchi;Arm and Hammer
+Nora/Cardin: Break his Legs;Whack-a-Mole;Disability;Blunt Trauma
 Nora/Russel: Amy Rose
 Nora/Dove: Hugin
 Nora/Sky: Tyr
-Nora/Sun: Heavenly Warriors;Lightning Beam;Blunt Trauma
+Nora/Sun: Heavenly Warriors;Lightning Beam;Hammer of the Dawn
 Nora/Scarlet: Boopty
-Nora/Sage: Spiced Static
-Nora/Neptune: Aegir;Stormy Seas;Pool Party;BlueJ
-Nora/Penny: Gingersnaps;Stress Testing;Thunderbolts;Arculus Rift
+Nora/Sage: Spiced Static;HammerThyme
+Nora/Neptune: Aegir;Stormy Seas;Pool Party;Rogue Wave
+Nora/Penny: Gingersnaps;Stress Testing;Thunderbolts;Beep Boop
 Nora/Ciel Soleil: Hammer Time!
 Nora/Whitley: Loki
-Nora/Oscar: Valhalla;Oinecakes;The Man With Two Souls
+Nora/Oscar: Valhalla;Oinecakes;Thunder Pine
 Nora/Salem: Ragnarok
-Nora/Cinder: Explosive;Ragnarekt;Invasion of Helheim;Knightfall
-Nora/Mercury: Silver Hammer
-Nora/Emerald: Lightning Thief;Hammer and Sickle
-Nora/Neopolitan: Ice Cream Pancakes;Dairy Queen;Shortcake;Pounding Brainfreeze
+Nora/Cinder: Explosive;Ragnarekt;Invasion of Helheim;Anvil
+Nora/Mercury: Silver Hammer;Sugarfoot;Jupiter;THUNDER THIGHS;Broken Legs
+Nora/Emerald: Streetrats!!;Thunderstone
+Nora/Neopolitan: Ice Cream Pancakes;Dairy Queen;Shortcake;Pounding Brainfreeze;Laughing Gas
 Nora/Roman: Candy Cane;Sugar Cane
-Nora/Adam: Rodeo;An Eye for An Eye (???)
+Nora/Adam: Rodeo;An Eye for An Eye
 Nora/Hazel: Koalah
 Nora/Tyrian: Shock Therapy
 Nora/Dr Watts: 1.21 Gigawatts
@@ -430,14 +430,14 @@ Nora/Melanie: Electric Slide
 Nora/Miltiades: Electric Avenue
 Nora/White Fang LT: Massacre
 Nora/Dr Merlot: Frankenstein
-Nora/Glynda: Of Might and Magic;Psynora;Professor Arc
+Nora/Glynda: Of Might and Magic;Psynora;Bippity Boppity BOOP
 Nora/Ozpin: Butterscotch
 Nora/Port: Spitting Maul
 Nora/Oobleck: Hyperactive;Monster Energy
 Nora/Summer: Thorsday
 Nora/Taiyang: Hopeless Romantics
-Nora/Raven: Raven Song;Thunderbird;Zapdos;Mommy Issue
-Nora/Qrow: Hammered;Dusty Hammer
+Nora/Raven: Zapdos
+Nora/Qrow: Munin
 Nora/Ironwood: Lightning Rod
 Nora/Winter: Nords;Frostbolt
 Nora/Jacques: Ymir
@@ -449,13 +449,13 @@ Nora/Reese: Ride the Lightning
 Nora/Nadir: Lightning in the Black
 Nora/Brawnz: In Full Swing
 Nora/Roy: Saw off the Legs
-Nora/Nolan: Charge Up;Nolan Norse
+Nora/Nolan: Charge Up;Nolan Norse;Plugged In
 Nora/May: Railgun
 Nora/Nebula: Bifrost
 Nora/Dew: Twister
 Nora/Gwen: Aim for the Heart
 Nora/Octavia: Raging Fire
-Nora/Flynt Coal: Thunderstruck
+Nora/Flynt Coal: Thunderstruck;Conductor;Crescendo
 Nora/Neon Katt: Valkyries;Sugar Crash
 Nora/Tukson: Skald
 Nora/Lisa Lavender: Storm Warning
@@ -464,7 +464,7 @@ Nora/Zwei: Fenrir
 Nora/Shopkeeper: Banned from Buffet
 Nora/Kali: Cat Video
 Nora/Ghira: Jaga
-Nora/Ilia: Rainbows and Pancakes;Teeth and Bones;Boop;Salamander
+Nora/Ilia: Rainbows and Pancakes;Teeth and Bones;Boop;Rainbow Pancakes
 Nora/An Ren: There goes the Village
 Nora/Li Ren: Savior Complex
 Nora/Henry Marigold: Rheingold
@@ -474,31 +474,31 @@ Nora/Sienna Khan: Thunder Tiger
 Nora/Vernal: Lightning Strike;Crazy Thursday
 Nora/Maria: Broken Skull
 Pyrrha/Pyrrha: Hallelujah
-Pyrrha/Ren: Lotus Eaters;Honor Roll;Lotus Island;Calming Storm
+Pyrrha/Ren: Lotus Eaters;Honor Roll;Lotus Island;Teakettle
 Pyrrha/Coco: Cappuccino;Aged Bronze
 Pyrrha/Fox: Spartan Fox
-Pyrrha/Velvet: Victory Rabbit;Scarlathena;Protein Poisoning;Pumpkin Pete
+Pyrrha/Velvet: Victory Rabbit;Scarlathena;Protein Poisoning;Hoplites
 Pyrrha/Yatsuhashi: Swords and Spears;Honor Bound
 Pyrrha/Cardin: Poor Sap
 Pyrrha/Russel: Bird on the Spear
 Pyrrha/Dove: Eirene
 Pyrrha/Sky: Polydamas
-Pyrrha/Sun: Nikong;Golden Ape;Hammer of the Dawn
+Pyrrha/Sun: Nikong;Golden Ape;Helios
 Pyrrha/Scarlet: Better Red Than Dead
 Pyrrha/Sage: Gyro Seasoning
-Pyrrha/Neptune: High Tide
-Pyrrha/Penny: PvP;Ancient Technology;Target Practice;Death Flag;Axles and Greeces;Iron Maiden;Making Change;P-Squared;Change;Thrinacia
-Pyrrha/Ciel Soleil: The Place You Rest
+Pyrrha/Neptune: High Tide;Atlantis;Thrinacia
+Pyrrha/Penny: PvP;Ancient Technology;Target Practice;Death Flag;Axles and Greeces;Iron Maiden;Making Change;P-Squared;Change;Quarters
+Pyrrha/Ciel Soleil: The Place You Rest;Clock Tower
 Pyrrha/Whitley: Magnets are cool too
-Pyrrha/Oscar: Buried Deep
-Pyrrha/Salem: Pawn Promotion
-Pyrrha/Cinder: Achilles' Heels
+Pyrrha/Oscar: Buried Deep;Remember Me
+Pyrrha/Salem: Pawn Promotion;Trojan War
+Pyrrha/Cinder: Cupid
 Pyrrha/Mercury: Pole Dancing;Achilles' Heel
-Pyrrha/Emerald: Emerald Eyes;Gaslighting
-Pyrrha/Neopolitan: Cherry Jubilee
-Pyrrha/Roman: 300;Ancient History;Catcalls
-Pyrrha/Adam: Minotaur
-Pyrrha/Hazel: Callisto;Dust to Dust
+Pyrrha/Emerald: Chrismas Tree
+Pyrrha/Neopolitan: Cherry Jubilee;Greek Yogurt;Gone With The Wind;Dust in the Wind
+Pyrrha/Roman: 300;Ancient History;Pumpkin Spice
+Pyrrha/Adam: Minotaur;Khalkotauroi
+Pyrrha/Hazel: Callisto ;Dust to Dust
 Pyrrha/Tyrian: Orion
 Pyrrha/Dr Watts: EMP
 Pyrrha/Junior: Red Panda
@@ -506,8 +506,8 @@ Pyrrha/Melanie: Nikee
 Pyrrha/Miltiades: Marathon
 Pyrrha/White Fang LT: Super Soldier
 Pyrrha/Dr Merlot: Invincible
-Pyrrha/Glynda: Extracurriclar Activities
-Pyrrha/Ozpin: Star Student;Olive Branch;Time's Up;Green with Victory;Clockwork Rose
+Pyrrha/Glynda: Extracurriclar Activities;Circe
+Pyrrha/Ozpin: Star Student;Olive Branch;Time's Up;Green with Victory;Stuff of Legends
 Pyrrha/Port: Naval Army;Mavrodafni
 Pyrrha/Oobleck: Victory Rush;Herodotus
 Pyrrha/Summer: Greek Summer
@@ -540,7 +540,7 @@ Pyrrha/Zwei: War Dog
 Pyrrha/Shopkeeper: Good Samaritan;Greecy Spoon
 Pyrrha/Kali: Pyrrfect
 Pyrrha/Ghira: Furrocious
-Pyrrha/Ilia: Trojan Lizard;Iliad;Stuff of Legends
+Pyrrha/Ilia: Trojan Lizard;Iliad;Iris
 Pyrrha/An Ren: Kindred Spirits
 Pyrrha/Li Ren: Line of Duty
 Pyrrha/Henry Marigold: Died for Nothing
@@ -549,19 +549,19 @@ Pyrrha/Fennec Albain: Listen to Your Heart
 Pyrrha/Sienna Khan: Martyrs
 Pyrrha/Vernal: Lost Purpose
 Pyrrha/Saphron Cotta-Arc: Lesbos
-Ren/Ren: Twin Dragons
+Ren/Ren: Twin Dragons;Why the F You Lie Ren
 Ren/Coco: Green Tea Latte;Chocolate Lotus
 Ren/Fox: Toph;Renard
-Ren/Velvet: Moon Rabbit
-Ren/Yatsuhashi: Zen Master
+Ren/Velvet: Moon Rabbit;Velvetea
+Ren/Yatsuhashi: Zen Master;Meibutsu
 Ren/Cardin: Shogi;Watermelon
 Ren/Russel: Bassian
 Ren/Dove: Jiu
 Ren/Sky: Tian
 Ren/Sun: Lie and Steal
-Ren/Scarlet: Ching Shih
+Ren/Scarlet: Ching Shih;Ninjas vs Pirates
 Ren/Sage: Star Anise
-Ren/Neptune: Water Lillies;Blue Lotus;Thrinacia
+Ren/Neptune: Water Lillies;Blue Lotus;Calm Waters
 Ren/Penny: Cyber Dragon;Made in China
 Ren/Ciel Soleil: Zen Time
 Ren/Whitley: Lotus Cold Cream
@@ -588,9 +588,9 @@ Ren/Oobleck: Flower Tea
 Ren/Summer: Warm Forest
 Ren/Taiyang: Photosynthesis
 Ren/Raven: Lueduo
-Ren/Qrow: Paper Cranes;Drunk Master;Calm Waters;Drunk Master
+Ren/Qrow: Paper Cranes;Drunk Master
 Ren/Ironwood: Steel Samurai
-Ren/Winter: Dongzhi Festival;Frozen Lotus
+Ren/Winter: Frozen Lotus
 Ren/Jacques: Prince and Pauper
 Ren/Klein: Calm Down
 Ren/Lionheart: Lieon
@@ -606,7 +606,7 @@ Ren/Nebula: Father's Bow
 Ren/Dew: Inner Peace
 Ren/Gwen: Iron Sharpen Iron
 Ren/Octavia: Fire Flower
-Ren/Flynt Coal: Forest Flower;Angel's Trumpet;Wild Flower;Crescendo
+Ren/Flynt Coal: Forest Flower;Angel's Trumpet;Wild Flower;Kung Fu Fighting
 Ren/Neon Katt: Tokio Funka
 Ren/Tukson: Book Club
 Ren/Lisa Lavender: Cooking Channel
@@ -622,15 +622,15 @@ Ren/Henry Marigold: Renry
 Ren/Corsac Albain: Year of the Fox
 Ren/Fennec Albain: Huli Jing
 Ren/Sienna Khan: Bai Hu
-Ren/Vernal: Spring Lilly
+Ren/Vernal: Spring Lilly 
 Coco/Coco: Chanel;Cocopebbles
-Coco/Fox: Shades and Blades;Designer Shades;Good Hustle;Fox On The Run
-Coco/Velvet: Crosshares
-Coco/Yatsuhashi: Kit-Kat Tea;Large Compensation
+Coco/Fox: Shades and Blades;Designer Shades;Good Hustle;Cookie Crisp
+Coco/Velvet: Crosshares;Nesquik;Chocolate Bunny;Easter Bunny;Combat Totes
+Coco/Yatsuhashi: Matcha Chocolate
 Coco/Cardin: Cooler Than You
 Coco/Russel: Supersonic
 Coco/Dove: Chockatoo
-Coco/Sky: Sky Bar
+Coco/Sky: Chocolate Sky
 Coco/Sun: Chocolate Banana;Chocolate Monkey
 Coco/Scarlet: Fashion Statement;Maraschino Cherry
 Coco/Sage: Nutmeg
@@ -640,12 +640,12 @@ Coco/Ciel Soleil: Coffee Time;Beret Club
 Coco/Whitley: Milk Chocolate
 Coco/Oscar: Coffee Beans
 Coco/Salem: Witch's Brew
-Coco/Cinder: Fashionistas;Firecrackers;Hot Chocolate;Cinders and Ashes
+Coco/Cinder: Fashionistas;Firecrackers;Hot Chocolate;Hot Shots
 Coco/Mercury: Poisioned Chocolate
 Coco/Emerald: Mint Chocolate;Mint Cappucino
 Coco/Neopolitan: Chocolate Sundae;Fudge Sundae
 Coco/Roman: Ferrero Rocher
-Coco/Adam: Chocolate Milk
+Coco/Adam: Chocolate Bull
 Coco/Hazel: Cokoalah
 Coco/Tyrian: Cuckoo for Coco
 Coco/Dr Watts: Fully Automatic
@@ -659,27 +659,27 @@ Coco/Ozpin: Decaf
 Coco/Port: Old Navy
 Coco/Oobleck: Double Espresso
 Coco/Summer: Citrus Berry Passion
-Coco/Taiyang: Coco Pops;Amazing Race
+Coco/Taiyang: Coco Pops;Amazing Race;Golden Ticket
 Coco/Raven: Birds and Beans
 Coco/Qrow: Irish Coffee;Feather Boa
 Coco/Ironwood: Cocobolo;Full Metal Fashion
-Coco/Winter: Frappuccino;Iced Latte;You Know Nothing
+Coco/Winter: Frappuccino;Iced Latte;Iced Coffee
 Coco/Jacques: Fashion Line
 Coco/Klein: Hot Drink Service
 Coco/Lionheart: Inverted Fashion
 Coco/Arslan: Inner Strength
 Coco/Bolin: Stick to em
-Coco/Reese: Reese's Puffs
+Coco/Reese: Espresso Shots
 Coco/Nadir: Fashion Fiend
 Coco/Brawnz: Bronze is the new Black
 Coco/Roy: Weed Whackers
 Coco/Nolan: Fashion Disaster
 Coco/May: Wardrobe;High Calibre
-Coco/Nebula: Milky Way
+Coco/Nebula: Starcrossed
 Coco/Dew: Swiss Water
 Coco/Gwen: Femme Fatales
 Coco/Octavia: Reheated
-Coco/Flynt Coal: Speakeasy
+Coco/Flynt Coal: Speakeasy;Jazz Club;All That Jazz;Jazz Cafe;Hello
 Coco/Neon Katt: Tie Dye
 Coco/Tukson: Maxim
 Coco/Lisa Lavender: Coffee Break
@@ -688,7 +688,7 @@ Coco/Zwei: Fashion Animal
 Coco/Shopkeeper: Favourite Customer
 Coco/Kali: Kalifornia Girl
 Coco/Ghira: Ghiradeli Chocolate
-Coco/Ilia: Colorful Style;Special Blend;Colour Coordinated;Iris
+Coco/Ilia: Colour Coordinated
 Coco/An Ren: Whoopers
 Coco/Li Ren: Bastion
 Coco/Henry Marigold: Designer Style
@@ -697,7 +697,7 @@ Coco/Fennec Albain: Smashed Buildings
 Coco/Sienna Khan: Tiger Print
 Coco/Vernal: Bandit Girls
 Fox/Fox: Skulk
-Fox/Velvet: Zootopia;Forest Animals;Blind Rutting;Combat Totes
+Fox/Velvet: Zootopia;Forest Animals;Blind Rutting;The Fox and the Hare
 Fox/Yatsuhashi: Keeping It Simple
 Fox/Cardin: Blind Faith
 Fox/Russel: Fussy
@@ -706,16 +706,16 @@ Fox/Sky: Cloudy Skies
 Fox/Sun: Blinded by the Light
 Fox/Scarlet: Eyepatch
 Fox/Sage: Sriracha;Spicy Trickster
-Fox/Neptune: FoxSea
+Fox/Neptune: Thresher Shark;Vaporeon
 Fox/Penny: Electric Eye
 Fox/Ciel Soleil: Look at the Time
 Fox/Whitley: Revontulet
 Fox/Oscar: Hen House
-Fox/Salem: The Pale Fox
-Fox/Cinder: Firefox;Fennekin
+Fox/Salem: Umbreon
+Fox/Cinder: Flareon;Fennekin
 Fox/Mercury: Disabled
-Fox/Emerald: Kitsune;See No Evil
-Fox/Neopolitan: Orange Sorbert;Orange Sherbet/Sherbert Blind Love;Communication Error;Dust in the Wind
+Fox/Emerald: Espeon
+Fox/Neopolitan: Orange Sorbert;Orange Sherbet/Sherbert Blind Love;Communication Error;Affogoto
 Fox/Roman: Fantastic Mr Fox
 Fox/Adam: One Hit KO
 Fox/Hazel: Red Panda
@@ -726,7 +726,7 @@ Fox/Melanie: Opening Kicks
 Fox/Miltiades: Scratch Marks
 Fox/White Fang LT: Animal Instincts
 Fox/Dr Merlot: Wounds of the Past
-Fox/Glynda: Braille Teacher
+Fox/Glynda: Sylveon
 Fox/Ozpin: Scarred Student
 Fox/Port: Big Game Hunting
 Fox/Oobleck: Quick Brown Fox
@@ -735,7 +735,7 @@ Fox/Taiyang: Betrayed Past
 Fox/Raven: Blind Ambition
 Fox/Qrow: Fox River
 Fox/Ironwood: Grey Fox
-Fox/Winter: Arctic Fox
+Fox/Winter: Glaceon
 Fox/Jacques: Blind Profit
 Fox/Klein: The Lorax
 Fox/Lionheart: Foxheart
@@ -748,7 +748,7 @@ Fox/Roy: Fox Hunter
 Fox/Nolan: Lightning Paw
 Fox/May: Blind Shot
 Fox/Nebula: Star Fox
-Fox/Dew: Storm-Blind
+Fox/Dew: Leafeon
 Fox/Gwen: Multistrike
 Fox/Octavia: Black Forest Party
 Fox/Flynt Coal: What does the Fox Say
@@ -767,38 +767,38 @@ Fox/Corsac Albain: Double Fox
 Fox/Fennec Albain: Tall Neck Tie
 Fox/Sienna Khan: Blind Tiger
 Fox/Vernal: Fox Cub
-Velvet/Velvet: Multiplication
-Velvet/Yatsuhashi: Cinnabun;Splitting Hares;Stuffed Rabbit;Carrot Cake;Box Cutter
-Velvet/Cardin: Bullying;Holy Bun;Cardinal and the Hare;Animal Abuse;Cardinal Sin;Blunt Trauma
+Velvet/Velvet: Lopunny;Buneary
+Velvet/Yatsuhashi: Cinnabun;Splitting Hares;Stuffed Rabbit;Carrot Cake;Box Cutter;Gentle Giant
+Velvet/Cardin: Bullying;Holy Bun;Cardinal and the Hare;Animal Abuse;Cardinal Sin;Bird and Bunny
 Velvet/Russel: Cream the Rabbit
 Velvet/Dove: Cinnabuns
 Velvet/Sky: Flying Buns
-Velvet/Sun: Shutterbun;Bunanas;Bird and Bunny
-Velvet/Scarlet: Watership Down
+Velvet/Sun: Shutterbun;Bunanas;Chinese Zodiac
+Velvet/Scarlet: Watership Down;Red Velvet;Golden Carrot;Scarlet Fever
 Velvet/Sage: Clove
 Velvet/Neptune: Seabunny;Blue Velvet
-Velvet/Penny: Full Metal Alchemist;Rabbot;Wireframe;Quarters
+Velvet/Penny: Full Metal Alchemist;Rabbot;Wireframe;Energizer Bunny
 Velvet/Ciel Soleil: White Rabbit
 Velvet/Whitley: Wolpertinger
 Velvet/Oscar: Carrot Field
-Velvet/Salem: Magic Rabbit
-Velvet/Cinder: Burnt Cloth
+Velvet/Salem: Magic Rabbit;Rabbit's Foot
+Velvet/Cinder: Burnt Cloth;Rabbit of Caerbannog;Lapin Au Vin;Dust Bunny
 Velvet/Mercury: Here's the Kicker;Bunboats
 Velvet/Emerald: Jade Rabbit;Stolen Silk
-Velvet/Neopolitan: Icecream Cake;Easter Sundae;Cold Mystery;Dust Bunny
+Velvet/Neopolitan: Icecream Cake;Easter Sundae;Cold Mystery;Creamy Buns
 Velvet/Roman: Hat Trick
-Velvet/Adam: Horned Hare
+Velvet/Adam: Jackalope
 Velvet/Hazel: Cute and Cuddley
 Velvet/Tyrian: March Hare
 Velvet/Dr Watts: AC-DC
 Velvet/Junior: Club Hopping
-Velvet/Melanie: Copied Chorography
+Velvet/Melanie: Stilettos
 Velvet/Miltiades: Bunny Claws
 Velvet/White Fang LT: Rabbit Season
 Velvet/Dr Merlot: Photographic Memory
-Velvet/Glynda: Whipped Scarlet
+Velvet/Glynda: Whipped Scarlet;Teacher's Pet
 Velvet/Ozpin: Grey Hares
-Velvet/Port: Peter Cottontail
+Velvet/Port: Peter Cottontail;Rabbit Season
 Velvet/Oobleck: Energizer
 Velvet/Summer: Family Photos
 Velvet/Taiyang: Warren Elder
@@ -830,23 +830,23 @@ Velvet/Zwei: Predator and Prey
 Velvet/Shopkeeper: Off the Menu
 Velvet/Kali: Velvet Ears
 Velvet/Ghira: Chaotic Harmony
-Velvet/Ilia: Ultraviolet
+Velvet/Ilia: Ultraviolet;Polaroid
 Velvet/Li Ren: Symmetra
-Velvet/Henry Marigold: Playboy
+Velvet/Henry Marigold: Lopunny
 Velvet/Corsac Albain: Fox and the Hare
 Velvet/Fennec Albain: Predator and Prey
 Velvet/Sienna Khan: Adapting to Survive
 Velvet/Vernal: March Hare
 Yatsuhashi/Yatsuhashi: Too Sweet
-Yatsuhashi/Cardin: Punisher
+Yatsuhashi/Cardin: Punisher;Pocky
 Yatsuhashi/Russel: What a Thrush
 Yatsuhashi/Dove: Peaceful Protector
 Yatsuhashi/Sky: Falling Sky
 Yatsuhashi/Sun: Sunrise Land
 Yatsuhashi/Scarlet: Wokou
-Yatsuhashi/Sage: Sword Bros
+Yatsuhashi/Sage: Sword Bros;Green with Bara
 Yatsuhashi/Neptune: Jiuzhaigou
-Yatsuhashi/Penny: Iron Giant
+Yatsuhashi/Penny: Iron Giant;Mainframe
 Yatsuhashi/Ciel Soleil: Big Ben
 Yatsuhashi/Whitley: Ice Capped Mountain
 Yatsuhashi/Oscar: Rice Plantation
@@ -910,7 +910,7 @@ Cardin/Cardin: Douche Patrol
 Cardin/Russel: Jocks
 Cardin/Dove: Team Kill
 Cardin/Sky: Preppy
-Cardin/Sun: Do no Evil;Muscles;Chinese Zodiac
+Cardin/Sun: Do no Evil;Muscles
 Cardin/Scarlet: Hanging Trial
 Cardin/Sage: Saffron
 Cardin/Neptune: Internet Explorer
@@ -934,6 +934,7 @@ Cardin/Miltiades: Red Copper Bullies
 Cardin/White Fang LT: Clash of the Titans
 Cardin/Glynda: Disciplinary Action
 Cardin/Ozpin: Detentionare
+Cardin/Port: thik boiz;Disciplinary Action
 Cardin/Oobleck: Tin Can;How To
 Cardin/Summer: Cardinal Rememberence
 Cardin/Taiyang: Burning Stakes
@@ -944,7 +945,7 @@ Cardin/Winter: Kardinal
 Cardin/Jacques: Double Dick
 Cardin/Klein: Cardin Klein
 Cardin/Lionheart: Bullied
-Cardin/Arslan: Pride and Prejudice
+Cardin/Arslan: Antiquity Hunter
 Cardin/Bolin: Yellow Streak
 Cardin/Reese: Skate Park Bully
 Cardin/Nadir: New Bully
@@ -965,13 +966,13 @@ Cardin/Ghira: Bully and the Beast;Claws and Mace
 Cardin/Ilia: Broken Teeth
 Cardin/Henry Marigold: False Confidence
 Cardin/Sienna Khan: Hunting the Poacher;Violent Tactics
-Cardin/Vernal: Unnecessary Violence;Wasted Potential;Roman Khandle
+Cardin/Vernal: Unnecessary Violence;Wasted Potential;Bullied Position
 Russel/Russel: Tumble
 Russel/Dove: Nest
 Russel/Sky: Arcus
 Russel/Sun: Say no Evil
 Russel/Scarlet: Keelhauled
-Russel/Sage: Bay Leaf
+Russel/Sage: Bayleef
 Russel/Neptune: Sea Thrush
 Russel/Penny: All Daggers
 Russel/Ciel Soleil: Training Time
@@ -1019,13 +1020,13 @@ Russel/Kali: Thrash the Thrush
 Russel/Henry Marigold: Boys in Blue
 Russel/Sienna Khan: Tiger Thrush
 Russel/Vernal: Thrush Tattoo
-Dove/Dove: The 2nd Day
-Dove/Sky: Soaring;Flying;There's not a star in heaven that we can't reach
+Dove/Dove: The 2nd Day;Full name: The 2nd day of Chrismas
+Dove/Sky: Soaring;Flying;There's not a star in heaven that we can't reach;(I'm not sorry -Saber)
 Dove/Sun: See no Evil
 Dove/Scarlet: Marooned
 Dove/Sage: Chives
 Dove/Neptune: Peace at Sea
-Dove/Penny: Steel Wings
+Dove/Penny: Steel Wings;The Peacekeeper
 Dove/Ciel Soleil: Hour of Peace
 Dove/Whitley: Minion
 Dove/Oscar: Barn Dove
@@ -1062,7 +1063,7 @@ Dove/Nebula: Columba
 Dove/Dew: Bronze Wind
 Dove/Gwen: Peace Card
 Dove/Octavia: Burning Dove
-Dove/Flynt Coal: Singer
+Dove/Flynt Coal: Song Bird
 Dove/Neon Katt: Chasing Birds
 Dove/Tukson: Lonesome Dove
 Dove/Lisa Lavender: Peace Update
@@ -1082,7 +1083,7 @@ Sky/Scarlet: Clear Horizon
 Sky/Sage: Borage
 Sky/Neptune: Sea and Sky
 Sky/Penny: Skynet
-Sky/Ciel Soleil: Sky Clock
+Sky/Ciel Soleil: Air Time
 Sky/Whitley: North Star
 Sky/Oscar: Texas Skies
 Sky/Salem: Dark Skies
@@ -1092,11 +1093,11 @@ Sky/Emerald: Emerald Skies
 Sky/Neopolitan: Silence
 Sky/Roman: Hijacked Sky
 Sky/Adam: Sky Bull
-Sky/Hazel: Sky High Strike;Muddy Skies;(I'm not sorry -Saber);Muddy Skies
-Sky/Tyrian: Clouded Mind
+Sky/Hazel: Sky High Strike;Muddy Skies
+Sky/Tyrian: Clouded Mind;Scorpion Fly
 Sky/Dr Watts: Lightning
 Sky/Junior: Sky Bar
-Sky/White Fang LT: Blood Splattered Sky
+Sky/White Fang LT: Bloody Sky
 Sky/Glynda: Expelled
 Sky/Ozpin: Gets the Cane
 Sky/Port: Airport
@@ -1128,25 +1129,25 @@ Sky/Zwei: Duckhunt
 Sky/Shopkeeper: Sky Mall
 Sky/Kali: Leaping Cat
 Sky/An Ren: Heaven Sky
-Sky/Li Ren: Sky Song
+Sky/Li Ren: Sky Song;Sky Code
 Sky/Henry Marigold: Painted Sky
 Sky/Sienna Khan: Sky Stripes
 Sky/Vernal: Spring Time Canvas
-Sun/Sun: Suncest
-Sun/Scarlet: Red Sun;Team Nice Dynamite;Scarlet Fever
-Sun/Sage: Rosemary
-Sun/Neptune: Sea Monkeys;Junior Detectives
-Sun/Penny: Optimus Primate;Optimus Primal;Solar Panel;Sundial
-Sun/Ciel Soleil: Double Sun
+Sun/Sun: Suncest;High Noon | SOLAR FLARE;Double Sun Power;Double Sun Day
+Sun/Scarlet: Red Sun;Team Nice Dynamite;Banana Pepper
+Sun/Sage: Rosemary;Abs for Eternity;Sundial
+Sun/Neptune: 165 Years
+Sun/Penny: Optimus Primate;Optimus Primal;Solar Panel;Microsystems
+Sun/Ciel Soleil: Double Sun;Solar Powered
 Sun/Whitley: Cold Sun
 Sun/Oscar: Perfect Weather
 Sun/Salem: Flying Monkey
 Sun/Cinder: Supernova
 Sun/Mercury: 88 Days
-Sun/Emerald: Thieves' Company;No Lies;Sunstone
+Sun/Emerald: Kryptonite;Sunstone
 Sun/Neopolitan: Banana Split
-Sun/Roman: Monkey Business;Donkey Kong;Sunwick
-Sun/Adam: The Sun Also Rises;Masked Monkey;Sunnybull;Crimsun
+Sun/Roman: Roman Wukong
+Sun/Adam: Crimsun;Sunnybull
 Sun/Hazel: Hunky Monkey
 Sun/Tyrian: Monkey Madness
 Sun/Dr Watts: Clockwork Monkey
@@ -1157,37 +1158,37 @@ Sun/White Fang LT: Faunus Fight
 Sun/Dr Merlot: Bright Eyes
 Sun/Glynda: Detention
 Sun/Ozpin: Silver and Gold
-Sun/Port: Stowaway
+Sun/Port: Stowaway;Team Crazy Mad;Chunky Monkey
 Sun/Oobleck: Asian Latte
 Sun/Summer: Summer Sun
-Sun/Taiyang: Dual Sun
+Sun/Taiyang: Dual Sun;Binary Stars
 Sun/Raven: Icarus
-Sun/Qrow: Drunken Monkey
+Sun/Qrow: Seeing Double
 Sun/Ironwood: Monkey Wrench
-Sun/Winter: Song of Sun and Ice
+Sun/Winter: Song of Sun and Ice;Apricity
 Sun/Jacques: Sunless Outlook
 Sun/Klein: 7 Dwarven Transformations
 Sun/Lionheart: Sun Lion;King of the Jungle
-Sun/Arslan: Blazing Mane
-Sun/Bolin: Staff Buddies;Sunshower;Yeoui
+Sun/Arslan: Monkey Style
+Sun/Bolin: Sunshower;Yeoui
 Sun/Reese: Hijacked Ride
 Sun/Nadir: First Time Stowaway
 Sun/Brawnz: Brass Monkey
 Sun/Roy: Lone Stallion
-Sun/Nolan: Stunned Monkey
+Sun/Nolan: Yeoui
 Sun/May: Blinded Position
 Sun/Nebula: Starbirth
 Sun/Dew: Spring Morning
 Sun/Gwen: Monkey Dance
 Sun/Octavia: Burning Sun
 Sun/Flynt Coal: Walking on Sunshine;Brass Monkey
-Sun/Neon Katt: Rainbow Monkeys;Funky Monkeys;Sunshine & Rainbows
+Sun/Neon Katt: FNKI Business;Funky Monkeys;Sunshine & Rainbows
 Sun/Tukson: Journey to the West
 Sun/Lisa Lavender: Sunny Forecast
 Sun/Amber: Settling Sun
 Sun/Zwei: Animal Attraction
 Sun/Shopkeeper: Customer Security
-Sun/Kali: Sunny Kalifornia;Kalifornia Sun;Cat and the Cardle;Cougar Monkey;Stacy's Mom;Blakey's Mom;Kalifornication;Dust til Dawn
+Sun/Kali: Sunny Kalifornia;Kalifornia Sun;Cat and the Cardle;Cougar Monkey;Stacy's Mom;Blakey's Mom;Kalifornication;Mother and Sun
 Sun/Ghira: Sun 'n' Law;Can't Let Them Get Away
 Sun/Ilia: Shock the Monkey
 Sun/An Ren: Quiet Monkey
@@ -1204,7 +1205,7 @@ Scarlet/Whitley: Privateer
 Scarlet/Oscar: Waitrose
 Scarlet/Salem: Scarlet Witch
 Scarlet/Cinder: Crimson
-Scarlet/Mercury: Pegleg;Wot if ur legs..;Broken Legs
+Scarlet/Mercury: Pegleg;Wot if ur legs..;Cinnabar
 Scarlet/Emerald: Ropes and Chains
 Scarlet/Neopolitan: Cherry Vanilla
 Scarlet/Roman: Blood Orange
@@ -1251,7 +1252,7 @@ Scarlet/Zwei: Bloody Bark
 Scarlet/Shopkeeper: Grape Sale
 Scarlet/Kali: Mary Read
 Scarlet/Ghira: Blackbeard
-Scarlet/Ilia: Invisible Pirate
+Scarlet/Ilia: The Beads
 Scarlet/An Ren: Scarlet Dusk
 Scarlet/Li Ren: Red Arrow
 Scarlet/Henry Marigold: Pirated Pirate
@@ -1260,7 +1261,7 @@ Scarlet/Vernal: Land Pirates
 Sage/Sage: Parsnip
 Sage/Neptune: Seaweed;Seaside Travellers
 Sage/Penny: Spice
-Sage/Ciel Soleil: Thyme
+Sage/Ciel Soleil: Time Piece
 Sage/Whitley: Corporate Meditation
 Sage/Oscar: Green Thumb;Pine Tree
 Sage/Salem: Sage Trials;Double Sa's
@@ -1291,7 +1292,7 @@ Sage/Winter: Ice Spice
 Sage/Jacques: Incense Office
 Sage/Klein: Calm as Can be
 Sage/Lionheart: Leonotis
-Sage/Arslan: Masala Chai;Parental Supervision;7 Colored Dwarves
+Sage/Arslan: Masala Chai;Parental Supervision
 Sage/Bolin: Pickerelweed
 Sage/Reese: Skatesword
 Sage/Nadir: In Bloom
@@ -1300,7 +1301,7 @@ Sage/Roy: Horse Tail
 Sage/Nolan: Lilac
 Sage/May: Elephant Grass
 Sage/Nebula: Sumac
-Sage/Dew: Blown Away
+Sage/Dew: Blown Away;Petrichor;Whirlwind
 Sage/Gwen: Knife Rack
 Sage/Octavia: Incense
 Sage/Flynt Coal: Sugar Magonila
@@ -1318,20 +1319,20 @@ Sage/Henry Marigold: Artifical Flavour
 Sage/Sienna Khan: Canna
 Sage/Vernal: Spring Thyme
 Sage/Maria: Elder's Wisdom
-Neptune/Neptune: FLooding;FUCK YEAH SEA KING
+Neptune/Neptune: FLooding;FUCK YEAH SEA KING;High Tide
 Neptune/Penny: Sync or Swim
 Neptune/Ciel Soleil: Waterclock
 Neptune/Whitley: Ice Water
 Neptune/Oscar: Watering Can
 Neptune/Salem: Sea Witch
-Neptune/Cinder: Laguna Colorada;Laguna Colorada
-Neptune/Mercury: Silver Surfer
+Neptune/Cinder: Laguna Colorada
+Neptune/Mercury: Battleship
 Neptune/Emerald: Pearls of Love
 Neptune/Neopolitan: Sea Salt Ice Cream;Blueberries
 Neptune/Roman: Acheron
 Neptune/Adam: Minos
 Neptune/Hazel: Brutal Sea
-Neptune/Tyrian: Poison The Waterhole
+Neptune/Tyrian: Acid Rain
 Neptune/Dr Watts: Electric Personalities
 Neptune/Junior: Pruinosus
 Neptune/Melanie: Turned Down
@@ -1344,10 +1345,10 @@ Neptune/Port: Leviathan
 Neptune/Oobleck: Wave Runner
 Neptune/Summer: Beach Day
 Neptune/Taiyang: Islander
-Neptune/Raven: Albatross;Lugia
-Neptune/Qrow: Seagulls
+Neptune/Raven: Lugia
+Neptune/Qrow: Seagulls;Qoseidon;Jackdaw
 Neptune/Ironwood: Driftwood
-Neptune/Winter: Frozen Ocean;Walking on Ice;Jackdaw
+Neptune/Winter: Frozen Ocean;Walking on Ice;Ice In Their Veins
 Neptune/Jacques: Yacht Club
 Neptune/Klein: First Impressions
 Neptune/Lionheart: Aquaphobia
@@ -1368,26 +1369,26 @@ Neptune/Neon Katt: Rain Drop
 Neptune/Tukson: Dead Sea
 Neptune/Lisa Lavender: Flood Warning
 Neptune/Amber: Quiet Seas
-Neptune/Zwei: Sea Dog
+Neptune/Zwei: Dogfish
 Neptune/Shopkeeper: Roadside Affair
 Neptune/Kali: Kalimari
 Neptune/Ghira: Catfish
-Neptune/Ilia: Look Cool and Blend
+Neptune/Ilia: Look Cool and Blend;Cool Colors;Wrong Tree
 Neptune/Henry Marigold: (Almost) Mirror Images;Tweedledee & Tweedledum
-Neptune/Sienna Khan: Sea Tiger
+Neptune/Sienna Khan: Tigerfish;Tiger Shark
 Neptune/Vernal: April Shower;Sea Pirates
 Penny/Penny: 2 Cents
 Penny/Ciel Soleil: Digital Clock;Clock-Rate
-Penny/Whitley: Penny Hoarder
+Penny/Whitley: Broken Machines;Broken Machine;Beta Testers
 Penny/Oscar: Render Farm
 Penny/Salem: Cortana;Master of Puppets
-Penny/Cinder: Firewall;Robo-Revolution;Heater;Dust Bunny
+Penny/Cinder: Firewall;Robo-Revolution;Heater;Pennies into Quarters
 Penny/Mercury: Handicapped
 Penny/Emerald: Stolen Tech
 Penny/Neopolitan: Cream Machine;Penny Cones
-Penny/Roman: Red Head Redemption
+Penny/Roman: Terminator
 Penny/Adam: Mechanical Bull
-Penny/Hazel: Tilt
+Penny/Hazel: Tilt;Out of Order;Nutcracker
 Penny/Tyrian: Death Metal
 Penny/Dr Watts: Electromechanical
 Penny/Junior: Techno Music
@@ -1401,10 +1402,10 @@ Penny/Port: USB Port
 Penny/Oobleck: Javascript;Coffee Machine
 Penny/Summer: My Daughter's Friend;Ghost Machine
 Penny/Taiyang: Solar Powered
-Penny/Raven: Robot Chicken
+Penny/Raven: Portal 2;GLADoS
 Penny/Qrow: Sucking Pennies;Bender
 Penny/Ironwood: Metalheads
-Penny/Winter: Pfennig;Maiden (Made In) Atlas
+Penny/Winter: Maiden (Made In) Atlas;Toy Soldiers;Freezer;Cold Steel
 Penny/Jacques: Small Changed
 Penny/Klein: No Strings on Me
 Penny/Lionheart: Terrible Liars
@@ -1429,7 +1430,7 @@ Penny/Zwei: Bladewolf
 Penny/Shopkeeper: Auto-Mechanic
 Penny/Kali: Kaliculations
 Penny/Ghira: Grinding my Ghiras
-Penny/Ilia: Mood Ring
+Penny/Ilia: Python
 Penny/An Ren: Falling Apart
 Penny/Li Ren: Zenyatta
 Penny/Henry Marigold: Technology Dud;RMA
@@ -1439,14 +1440,14 @@ Ciel Soleil/Ciel Soleil: Timekeeper
 Ciel Soleil/Whitley: Time Is Money
 Ciel Soleil/Oscar: Timely Harvest
 Ciel Soleil/Salem: Witching Hour
-Ciel Soleil/Cinder: Chaos and Order
+Ciel Soleil/Cinder: Fall Equinox
 Ciel Soleil/Mercury: Killing Time
 Ciel Soleil/Emerald: Stolen Time
 Ciel Soleil/Neopolitan: Always On Time
 Ciel Soleil/Roman: Crime Time
 Ciel Soleil/Adam: Chaos Control
 Ciel Soleil/Hazel: Stopped Clock
-Ciel Soleil/Tyrian: Poison Hour
+Ciel Soleil/Tyrian: Poison Hour;Tick Tock Tick Tock;Time is a state of Mind
 Ciel Soleil/Dr Watts: Atomic Clock
 Ciel Soleil/Junior: Closing Hour
 Ciel Soleil/Melanie: Out of Time
@@ -1478,7 +1479,7 @@ Ciel Soleil/Nebula: Star Date
 Ciel Soleil/Dew: Tornado Season;Wind Clock
 Ciel Soleil/Gwen: Quarter Spin
 Ciel Soleil/Octavia: Burning Time;Candle
-Ciel Soleil/Flynt Coal: Metronome
+Ciel Soleil/Flynt Coal: SolarCoal
 Ciel Soleil/Neon Katt: Party Time
 Ciel Soleil/Tukson: Once upon a Time
 Ciel Soleil/Lisa Lavender: Evening News
@@ -1491,16 +1492,16 @@ Ciel Soleil/An Ren: Scales of Time
 Ciel Soleil/Li Ren: It's High Noon
 Ciel Soleil/Henry Marigold: False Time
 Ciel Soleil/Sienna Khan: Precious Time
-Ciel Soleil/Vernal: Spring Time;Spring Equinox
+Ciel Soleil/Vernal: Spring Equinox
 Whitley/Whitley: Weaker Sibling
-Whitley/Oscar: Rich Farmers
+Whitley/Oscar: Snowpine;Cash Cow
 Whitley/Salem: One is Evil, One is Salem;Dark Desires
 Whitley/Cinder: White Flame
-Whitley/Mercury: Hired Hitman;Mercenary
+Whitley/Mercury: Hired Hitman;Mercenary;Getting their kicks
 Whitley/Emerald: Whispering Illusion
 Whitley/Neopolitan: Ice Cream Served Cold
 Whitley/Roman: Posterboys
-Whitley/Adam: Nothing But Bull
+Whitley/Adam: BullSh!t
 Whitley/Hazel: Polar Bear
 Whitley/Tyrian: Toxic Tongue
 Whitley/Dr Watts: Sub Zero Electrics
@@ -1522,9 +1523,9 @@ Whitley/Winter: When Hell Freezes Over
 Whitley/Jacques: Mini Me
 Whitley/Klein: The Help
 Whitley/Lionheart: White Cub
-Whitley/Arslan: Ice Mane
+Whitley/Arslan: Ice Mane 
 Whitley/Bolin: Hail
-Whitley/Reese: Expensive Ride
+Whitley/Reese: Expensive Ride;Classic Car Club
 Whitley/Nadir: Precious Boy
 Whitley/Brawnz: Cold Claw
 Whitley/Roy: Horse Riding
@@ -1551,7 +1552,7 @@ Oscar/Oscar: Spring in Step
 Oscar/Salem: Bad Harvest
 Oscar/Cinder: Harvest
 Oscar/Mercury: Butcher and Baker
-Oscar/Emerald: Free Food;A Couple of Grouches
+Oscar/Emerald: Emerald City
 Oscar/Neopolitan: Dairy Farm
 Oscar/Roman: Opium
 Oscar/Adam: Farm Animal
@@ -1564,13 +1565,13 @@ Oscar/Miltiades: Bad Romance
 Oscar/White Fang LT: Lumberjack
 Oscar/Dr Merlot: Back to the Future
 Oscar/Glynda: Reverse Position
-Oscar/Ozpin: The Man With Two Souls
+Oscar/Ozpin: The Man With Two Souls;Next Generation;Time Crash;Time Crossed Lovers
 Oscar/Port: Vineyard
 Oscar/Oobleck: Coffee-Colored Eyes
 Oscar/Summer: 2 Ghosts 1 Boy
 Oscar/Taiyang: Homestead
 Oscar/Raven: What He'll Never Be
-Oscar/Qrow: Moonshine;Drinking Buddies;Jackdaw
+Oscar/Qrow: Moonshine;Drinking Buddies;No Pipsqueaks in here
 Oscar/Ironwood: Iron Pine
 Oscar/Winter: Wintergarten
 Oscar/Jacques: Undercover Boss
@@ -1606,32 +1607,32 @@ Oscar/Fennec Albain: Burnt Forest
 Oscar/Sienna Khan: Sucessor
 Oscar/Vernal: Planting Time
 Salem/Salem: The End
-Salem/Cinder: East and West
+Salem/Cinder: Burnt at the Stake
 Salem/Mercury: Double Black
 Salem/Emerald: Toil and Trouble
 Salem/Neopolitan: Grimm Silence
-Salem/Roman: Tartarus
+Salem/Roman: Roman Reigns
 Salem/Adam: Moloch
 Salem/Hazel: Witch Hazel
-Salem/Tyrian: Serket;Deathstalker;Mindless Worship;Time is a state of Mind
+Salem/Tyrian: Serket;Deathstalker;Mindless Worship;Cult
 Salem/Dr Watts: Witch Doctor
 Salem/Junior: Blacklight Dancefloor
 Salem/Melanie: Ash White
 Salem/Miltiades: Blood Red
 Salem/White Fang LT: Grimm Influence
 Salem/Dr Merlot: Dr. Grimm
-Salem/Glynda: Witch Hunt
-Salem/Ozpin: Narration;Stalemate;Erebus;Grandmasters;Marriage Counselling ;Nasty Breakup;Against All Gods;Tradegy;Together Forever;Knight & Princess;Time Crossed Lovers
+Salem/Glynda: Witch Hunt;Wicked Witches;Spellbook;Witch Trials
+Salem/Ozpin: Narration ;Stalemate;Erebus;Grandmasters;Marriage Counselling ;Nasty Breakup;Against All Gods;Tradegy;Together Forever;Knight & Princess;False Deities
 Salem/Port: Cerberus
 Salem/Oobleck: Black Coffee
-Salem/Summer: Season of the Witch
+Salem/Summer: Preserving Flowers
 Salem/Taiyang: Eclipse
 Salem/Raven: Behind Red Eyes
 Salem/Qrow: Wicked
-Salem/Ironwood: Thanatos
+Salem/Ironwood: Thanatos;Iron Queen
 Salem/Winter: Winterhexe
 Salem/Jacques: Dark Deals
-Salem/Klein: Split
+Salem/Klein: Split;Underground
 Salem/Lionheart: The Puppetmistress
 Salem/Arslan: Black Lion
 Salem/Bolin: Dark Rain
@@ -1651,7 +1652,7 @@ Salem/Tukson: Grimoire
 Salem/Lisa Lavender: Prophet
 Salem/Amber: Grimm Maiden
 Salem/Zwei: Beowulf
-Salem/Shopkeeper: The Gates of Hell
+Salem/Shopkeeper: Demon Deals
 Salem/Kali: Shadow Cat
 Salem/Ghira: Corrupted Chieftan
 Salem/Ilia: Darkened Hues
@@ -1663,29 +1664,29 @@ Salem/Fennec Albain: Ambassador of Darkness
 Salem/Sienna Khan: Death Stripes
 Salem/Vernal: Grimm Spring
 Cinder/Cinder: Ashes
-Cinder/Mercury: Thermometer
-Cinder/Emerald: Chaos Emerald;Emberald;Blazing Saddles;Blood Emerald
-Cinder/Neopolitan: Melted;Smoke and Mirrors;Dairy Queen;Naughty Nurses;Fried Ice Cream;Creamy Buns
-Cinder/Roman: Torchfall;Roman Candle;Romancin';476 ad;Sunwick
-Cinder/Adam: Taurus Fire;Bleeding Red;Hot Crime Parents
+Cinder/Mercury: Thermometer;Legs4Days;Smoke
+Cinder/Emerald: Chaos Emerald;Emberald;Blazing Saddles;Blood Emerald;Cimerald
+Cinder/Neopolitan: Melted;Smoke and Mirrors;Dairy Queen;Naughty Nurses;Fried Ice Cream;Spice Cream
+Cinder/Roman: Torchfall;Roman Candle;Romancin';476 ad;Hot Crime Parents
+Cinder/Adam: Taurus Fire;Bleeding Red;Tartarus
 Cinder/Hazel: Fallen Leaves
-Cinder/Tyrian: Fall Laughter
+Cinder/Tyrian: Fall Laughter;Tynder
 Cinder/Dr Watts: Electric Fire
 Cinder/Junior: Burlesque;Hot Toddy
 Cinder/Melanie: Ballroom
 Cinder/Miltiades: Moulin Rouge
 Cinder/White Fang LT: Pyramid Scheme
 Cinder/Dr Merlot: Mulled
-Cinder/Glynda: BadWitch;An Old Flame;Glynder;Wicked Witch;Witch Trials
+Cinder/Glynda: Burn the Witch
 Cinder/Ozpin: Witch Doctor;Eternal Flame
 Cinder/Port: Dragons
 Cinder/Oobleck: Flash Fire;Roasted
-Cinder/Summer: Autumn
-Cinder/Taiyang: Sunburn
-Cinder/Raven: Hellbirds;Dark Portals;Match Maiden Heaven;Tinder
-Cinder/Qrow: Fallen Crow
-Cinder/Ironwood: Forest Fire
-Cinder/Winter: Temperature Play;A Song of Ice and Fire;Ice In Their Veins
+Cinder/Summer: Autumn;Decaying Petals;Summer Heat
+Cinder/Taiyang: Well, Hello 'LoveDaddy';Tinder;The Third Fall
+Cinder/Raven: Firebird;Moltres
+Cinder/Qrow: Fallen Crow;Queen has Pawns
+Cinder/Ironwood: Forest Fire;Iron Maiden;Phoenix;Qrowstead
+Cinder/Winter: Snowfall;Black Ice
 Cinder/Jacques: Stock Crash
 Cinder/Klein: Step Sisters
 Cinder/Lionheart: Burning Mane
@@ -1705,40 +1706,40 @@ Cinder/Flynt Coal: Cherry Pie
 Cinder/Neon Katt: Apocolypse Meow
 Cinder/Tukson: Kindling
 Cinder/Lisa Lavender: Conspiracy Theory
-Cinder/Amber: Fall Maiden
+Cinder/Amber: Fall Maiden;Trojan War;Target Practice;Blazing Angels
 Cinder/Zwei: Hellhound;Andiron
 Cinder/Shopkeeper: Fire Sale
 Cinder/Kali: Opposing Side
 Cinder/Ghira: Ashen Panther
 Cinder/Ilia: Falling Rainbow
-Cinder/An Ren: Structural Integrity
+Cinder/An Ren: Structural Integrity;Falling Fates
 Cinder/Li Ren: Sombra
 Cinder/Henry Marigold: Life of the Party
 Cinder/Corsac Albain: Still Alive Fighters
 Cinder/Fennec Albain: Fox Fur Coats
-Cinder/Sienna Khan: The Girls Who Wanted Power
-Cinder/Vernal: Equinox
+Cinder/Sienna Khan: Fire Tiger
+Cinder/Vernal: Equinox;False Names;The Spring and The Fall
 Mercury/Mercury: Swift Planet
-Mercury/Emerald: Thief and Butcher;Emercury;Jaded;Smoke
-Mercury/Neopolitan: Para-Soles
-Mercury/Roman: Hermes
+Mercury/Emerald: Thief and Butcher;Emercury;Jaded;Partners in Crime
+Mercury/Neopolitan: Para-Soles;NeoMerc
+Mercury/Roman: Hermes;Mad Hatter
 Mercury/Adam: Silver Bull;An Arm and a Leg
 Mercury/Hazel: Butcher Buds
 Mercury/Tyrian: Mad Hatter
 Mercury/Dr Watts: Leg Maker
 Mercury/Junior: Better Minion
-Mercury/Melanie: Tango
+Mercury/Melanie: Tango;Pumped Up Kicks
 Mercury/Miltiades: Persian Defeat
 Mercury/White Fang LT: Butchered and Battered
 Mercury/Dr Merlot: Leg Doctor
-Mercury/Glynda: Point and Kick
+Mercury/Glynda: Point and Kick;Bart Simpson
 Mercury/Ozpin: Speedsters
 Mercury/Port: Pepper Shaker
 Mercury/Oobleck: Poision Coffee
 Mercury/Summer: High Temperature
 Mercury/Taiyang: Bad Dad Begone
 Mercury/Raven: Butcher's Blade
-Mercury/Qrow: Silver Feathers
+Mercury/Qrow: Silver Feathers;MerQrow
 Mercury/Ironwood: Robocop
 Mercury/Winter: Absolute Zero
 Mercury/Jacques: Low Temperatures
@@ -1760,7 +1761,7 @@ Mercury/Flynt Coal: Ain't that a Kick in the head
 Mercury/Neon Katt: Dance Dance Revolution
 Mercury/Tukson: False Advertising;Shotgun
 Mercury/Lisa Lavender: Crime Spot
-Mercury/Amber: Fire Proof;Iron Maiden
+Mercury/Amber: Iron Maiden;Stolen Soul
 Mercury/Zwei: Murder Mutt
 Mercury/Shopkeeper: Face-Off
 Mercury/Kali: Mercury Cougar
@@ -1772,11 +1773,11 @@ Mercury/Henry Marigold: Silver Tongue
 Mercury/Sienna Khan: Silver Stripes
 Mercury/Vernal: Flower Stompers
 Emerald/Emerald: Chaos
-Emerald/Neopolitan: Spumoni;Mint Chip;Spumone;Partners in Crime
-Emerald/Roman: Sticky Fingers
+Emerald/Neopolitan: Mint Chocolate Chip
+Emerald/Roman: Sticky Fingers;Honor Among Thieves
 Emerald/Adam: Green Horn
 Emerald/Hazel: Breaking And Entry
-Emerald/Tyrian: Schizophrenia
+Emerald/Tyrian: Schizophrenia;Spitting Image
 Emerald/Junior: Chartreuse
 Emerald/Melanie: Hitched Heels
 Emerald/Miltiades: Tricky Fingers
@@ -1791,7 +1792,7 @@ Emerald/Taiyang: Daddies Little Thief
 Emerald/Raven: Born Bandit
 Emerald/Qrow: Green Fairy
 Emerald/Ironwood: Emerwood
-Emerald/Winter: Chrome Tourmaline
+Emerald/Winter: Chrome Tourmaline;Acquisition Specialist
 Emerald/Jacques: Corporate Thief
 Emerald/Klein: Stole the Silverware
 Emerald/Lionheart: Stolen Pride
@@ -1823,10 +1824,10 @@ Emerald/Henry Marigold: Stolen Identity
 Emerald/Sienna Khan: Stolen Position
 Emerald/Vernal: Snake in the Grass
 Neopolitan/Neopolitan: Double Scoop
-Neopolitan/Roman: Romeo
-Neopolitan/Adam: Neo-politcs;Corpse Party
+Neopolitan/Roman: Creaminals;Partners in Cream;Orange Sherbert;Gelato
+Neopolitan/Adam: Corpse Party
 Neopolitan/Hazel: Hazel Nut Ice Cream
-Neopolitan/Tyrian: Psycho Killers
+Neopolitan/Tyrian: Psycho Killers;Psych Ward
 Neopolitan/Dr Watts: Electric Chair
 Neopolitan/Junior: Junior Cone
 Neopolitan/Melanie: Vanilla Ice
@@ -1834,13 +1835,13 @@ Neopolitan/Miltiades: Raspberry Fudge
 Neopolitan/White Fang LT: Mini Bosses
 Neopolitan/Dr Merlot: All Mad Here
 Neopolitan/Glynda: Whipped Cream
-Neopolitan/Ozpin: Mint Chip
+Neopolitan/Ozpin: Rocky Road
 Neopolitan/Port: Milkstache
-Neopolitan/Oobleck: Mint Ice Cream
+Neopolitan/Oobleck: Hot Chocolate and Ice Cream
 Neopolitan/Summer: Summer Supreme
 Neopolitan/Taiyang: Sundae Schools
 Neopolitan/Raven: Bloody Sundae;Ice Cream Anti-Social
-Neopolitan/Qrow: Rum & Raisins
+Neopolitan/Qrow: Rum & Raisins;Sugarholic
 Neopolitan/Ironwood: Scoop
 Neopolitan/Winter: Snowcone
 Neopolitan/Jacques: Luxury Toppings
@@ -1867,7 +1868,7 @@ Neopolitan/Zwei: Hushpuppy;Unspeakables
 Neopolitan/Shopkeeper: Ice Cream Parlour
 Neopolitan/Kali: Kalico
 Neopolitan/Ghira: Silent Protest
-Neopolitan/Ilia: Over the Rainbow;Chameneo;Cosplayers;Wrong Tree
+Neopolitan/Ilia: Skittles Ice Cream;Rainbow Poppers;Cosplayers
 Neopolitan/An Ren: NeopolitAn
 Neopolitan/Henry Marigold: Artifical Sweetner
 Neopolitan/Sienna Khan: Multi-layers
@@ -1877,13 +1878,13 @@ Roman/Adam: Business Venture
 Roman/Hazel: Destruction of Property
 Roman/Tyrian: Clockwork Violet
 Roman/Dr Watts: Fuse
-Roman/Junior: Magic Mike;Dark and Stormy;Nutcracker
+Roman/Junior: Magic Mike;Dark and Stormy;Crime Dads
 Roman/Melanie: Cheat, Steal
 Roman/Miltiades: And Survive
 Roman/White Fang LT: Narcissism
 Roman/Dr Merlot: Rossese
 Roman/Glynda: UnRoyal;Torchwitch
-Roman/Ozpin: Clockwork Orange;Torchpin;Crime Dads
+Roman/Ozpin: Clockwork Orange;Torchpin;Pumpkin
 Roman/Port: Illegal Shipping;Betting Men
 Roman/Oobleck: 500 Hats
 Roman/Summer: Old Enemies;Summer Romance
@@ -1915,18 +1916,18 @@ Roman/Amber: Tomb Raider
 Roman/Zwei: Bloodhound
 Roman/Shopkeeper: Dust Sale
 Roman/Kali: Marriage Breaker
-Roman/Ghira: Cat Burglar
+Roman/Ghira: Cat Burglar 
 Roman/Ilia: Criminal Colors
-Roman/An Ren: RomAn
+Roman/An Ren: Rerorerorerorero
 Roman/Li Ren: Los Muertos
 Roman/Henry Marigold: Inside Man
 Roman/Corsac Albain: La Volpe
-Roman/Fennec Albain: Tail Gunner
-Roman/Sienna Khan: Crooked Khan
+Roman/Fennec Albain: Tail Gunner;Shoot The Messenger
+Roman/Sienna Khan: Crooked Khan;Khanning Crooks;Roman Khandle
 Roman/Vernal: Among Thieves
-Adam/Adam: Gives you Wings;Adamcest;Chain of commands;Bull fighter;Incelluar Division;Tartarus
+Adam/Adam: Chain of commands;Bull fighter;Incelluar Division
 Adam/Hazel: Super Smash
-Adam/Tyrian: Taxidermy
+Adam/Tyrian: Bull by the Tail
 Adam/Dr Watts: Terror Built
 Adam/Junior: Blood Bull
 Adam/Melanie: Horned Heels
@@ -1943,7 +1944,7 @@ Adam/Raven: Ronin;Siths
 Adam/Qrow: Stag Party
 Adam/Ironwood: Iron Bull
 Adam/Winter: Battering Ram
-Adam/Jacques: Worst of Enemies
+Adam/Jacques: On Brand;Good Branding
 Adam/Klein: On The Blacklist
 Adam/Lionheart: Heart of the Beast
 Adam/Arslan: The Lion and the Bull
@@ -1951,7 +1952,7 @@ Adam/Bolin: Splintered Staff
 Adam/Reese: Terror Rider
 Adam/Nadir: Shiko Shank
 Adam/Brawnz: Bronze Bull
-Adam/Roy: Centaur;Mira
+Adam/Roy: Mira
 Adam/Nolan: Shock Torture
 Adam/May: Bulls Eye
 Adam/Nebula: Taurus
@@ -1962,12 +1963,12 @@ Adam/Flynt Coal: Bull Horn
 Adam/Neon Katt: Party Animal
 Adam/Tukson: Animal Farm
 Adam/Lisa Lavender: Most Wanted
-Adam/Amber: Fall Moon
+Adam/Amber: Harvest Moon
 Adam/Zwei: Bulldog
 Adam/Shopkeeper: China Shop
 Adam/Kali: Captured Grace
 Adam/Ghira: Wasn't Necessary;Horns vs Claws
-Adam/Ilia: Extremists
+Adam/Ilia: Camo Bull;Rainbow Bull
 Adam/Li Ren: Genji
 Adam/Henry Marigold: The 1%
 Adam/Corsac Albain: Inside Informant
@@ -1992,7 +1993,7 @@ Hazel/Raven: Bulking Bandit
 Hazel/Qrow: Frangelico;Dusty Crow
 Hazel/Ironwood: Military Training
 Hazel/Winter: Haselnuss
-Hazel/Jacques: Dust Dealer;Armsful of Dust;Qrowin
+Hazel/Jacques: Dust Dealer;Armsful of Dust;Dusty Men
 Hazel/Klein: Angry
 Hazel/Lionheart: Inner Strength
 Hazel/Arslan: Atlas
@@ -2009,7 +2010,7 @@ Hazel/Neon Katt: Roller Derby Brawler
 Hazel/Tukson: Man's Guide
 Hazel/Lisa Lavender: Break in the Story
 Hazel/Amber: Sister Hunter
-Hazel/Zwei: Pitbull
+Hazel/Zwei: Mr. WorldWide
 Hazel/Shopkeeper: Smashed Prices
 Hazel/Ghira: Grizzly
 Hazel/Ilia: All of the Colors
@@ -2017,13 +2018,13 @@ Hazel/Li Ren: Roadhog
 Hazel/Henry Marigold: Fake Strength
 Hazel/Sienna Khan: Havana Cat
 Hazel/Vernal: Sprig of Hazel
-Tyrian/Tyrian: Lannister
-Tyrian/Dr Watts: Nuts and Volts;Poison Shock;Mecanical Sting;Thunder Sting
+Tyrian/Tyrian: Purple Insanity
+Tyrian/Dr Watts: Nuts and Volts;Poison Shock;Mecanical Sting;Thunder Sting;Elegant Psychosis
 Tyrian/Junior: Club Craziness
 Tyrian/Melanie: Dance floor Mayhem
 Tyrian/Miltiades: Quad Claw
 Tyrian/White Fang LT: Saw and Claw
-Tyrian/Dr Merlot: Fringe Science
+Tyrian/Dr Merlot: Mad Science
 Tyrian/Glynda: Not Mad, Furious
 Tyrian/Ozpin: Fractured Mind
 Tyrian/Port: Fractured Fables
@@ -2031,7 +2032,7 @@ Tyrian/Oobleck: Speed Demon
 Tyrian/Summer: Summer Thorns
 Tyrian/Taiyang: Forever Wounded
 Tyrian/Raven: Quote the Raven;Spring Chase
-Tyrian/Qrow: Alcohol Poisoning
+Tyrian/Qrow: With Friends Like These
 Tyrian/Ironwood: War Crimes
 Tyrian/Winter: Killer Frost
 Tyrian/Jacques: Violent  Retaliation
@@ -2075,10 +2076,10 @@ Dr Watts/Summer: Soul Breaker
 Dr Watts/Taiyang: Tactless Coach
 Dr Watts/Raven: Noer de Well Negotiator
 Dr Watts/Qrow: Livewire
-Dr Watts/Ironwood: Military Funding;IronWatts
-Dr Watts/Winter: Elektrizit�t
-Dr Watts/Jacques: Upper Class
-Dr Watts/Klein: Personality Disorder
+Dr Watts/Ironwood: IronWatts
+Dr Watts/Winter: Elektrizität
+Dr Watts/Jacques: Affluenza
+Dr Watts/Klein: Doc
 Dr Watts/Lionheart: Elastic Heart
 Dr Watts/Arslan: Electric Dart
 Dr Watts/Bolin: Scratch My Back
@@ -2089,7 +2090,7 @@ Dr Watts/Nebula: Houston
 Dr Watts/Dew: Artifical Twister
 Dr Watts/Gwen: Witholding Cards
 Dr Watts/Octavia: Electric Heater
-Dr Watts/Flynt Coal: Electric Boogaloo
+Dr Watts/Flynt Coal: The Mind Electric
 Dr Watts/Neon Katt: Neon Lights
 Dr Watts/Tukson: Weapon X
 Dr Watts/Lisa Lavender: Thunderstorm Warning
@@ -2113,9 +2114,9 @@ Junior/Oobleck: Bailey's
 Junior/Summer: Last Dance
 Junior/Taiyang: Informed Friend
 Junior/Raven: Missing Person
-Junior/Qrow: Bearly Sober
+Junior/Qrow: Bearly Sober;Qrowbar
 Junior/Ironwood: General Manager
-Junior/Winter: Icebomb
+Junior/Winter: Icebomb;Frostbite
 Junior/Jacques: Business Partners
 Junior/Klein: All The Boys
 Junior/Lionheart: Lions and Bears
@@ -2134,7 +2135,7 @@ Junior/Octavia: Burnt Twice
 Junior/Flynt Coal: Houseband
 Junior/Neon Katt: Rainbow Sangria
 Junior/Tukson: The Godfather
-Junior/Lisa Lavender: Lavendou
+Junior/Lisa Lavender: Lavendou 
 Junior/Amber: Fallen Customer
 Junior/Zwei: Party Dog
 Junior/Shopkeeper: Unwanted Business
@@ -2249,8 +2250,8 @@ White Fang LT/Tukson: Slasher Novel
 White Fang LT/Lisa Lavender: Unnamed Source
 White Fang LT/Amber: Comatosed
 White Fang LT/Zwei: Sensitive Side
-White Fang LT/Shopkeeper: Deals to Kill For
-White Fang LT/Ghira: Failed Apprentice
+White Fang LT/Shopkeeper: Cutting prices in half
+White Fang LT/Ghira: Failed Apprentice 
 White Fang LT/Ilia: The Elite
 White Fang LT/Henry Marigold: Personal Trainer
 White Fang LT/Sienna Khan: Organized Attacks
@@ -2295,15 +2296,15 @@ Dr Merlot/Henry Marigold: Frankeneptune
 Dr Merlot/Sienna Khan: Experimential Reigme
 Dr Merlot/Vernal: Substitue
 Glynda/Glynda: Too good
-Glynda/Ozpin: OzGlyn;Sips and whips;Yellow Bricks;Pumpkin
+Glynda/Ozpin: OzGlyn;Sips and whips;Yellow Bricks;Spectacles
 Glynda/Port: Witch Hunter
 Glynda/Oobleck: Whiplash;Gluebleck
 Glynda/Summer: Summer School
 Glynda/Taiyang: Hot for Teacher
-Glynda/Raven: Familiar;Death Witch;Spectacles;Death Witch
+Glynda/Raven: Familiar;Death Witch;Portal Magic
 Glynda/Qrow: Crop Harvesting
-Glynda/Ironwood: GoodWood;Iron Wand;IronWitch;Due Discipline;Disciplinary Process;Pistol Whip
-Glynda/Winter: Cold Lessons;Queens of Arendelle;Military Discipline
+Glynda/Ironwood: Due Discipline;Disciplinary Process;Pistol Whip
+Glynda/Winter: Winterspell
 Glynda/Jacques: Parent Teacher Conference
 Glynda/Klein: Seven Worst Punishments
 Glynda/Lionheart: Wardrobe
@@ -2320,9 +2321,9 @@ Glynda/Dew: Spear Headed
 Glynda/Gwen: Strict Instructor
 Glynda/Octavia: Flying Fire
 Glynda/Flynt Coal: Jazz Teacher
-Glynda/Neon Katt: Never miss a Beat
+Glynda/Neon Katt: Never miss a Beat;Whipped Neon
 Glynda/Tukson: Required Reading
-Glynda/Lisa Lavender: School Scoop
+Glynda/Lisa Lavender: LavenderCrown
 Glynda/Amber: Sleeping Student
 Glynda/Zwei: Toto
 Glynda/Shopkeeper: Whipped Noodles
@@ -2333,14 +2334,14 @@ Glynda/Li Ren: Mercy
 Glynda/Henry Marigold: Home Schooled
 Glynda/Sienna Khan: Strict Stripes
 Glynda/Vernal: Better Instruction
-Ozpin/Ozpin: The Wizards of OZ
+Ozpin/Ozpin: The Wizards of OZ;Oz Couple;Inception
 Ozpin/Port: Two Old Men;Masters of the Fleet
-Ozpin/Oobleck: Double Shot;Coffee Lovers
+Ozpin/Oobleck: Caffe Mocha;Mocha Chocolate
 Ozpin/Summer: Legends Scatter
-Ozpin/Taiyang: Day and Night Will Sever
-Ozpin/Raven: Munin
-Ozpin/Qrow: Time Flies
-Ozpin/Ironwood: Metal Gear;Clockwork;Huginn
+Ozpin/Taiyang: Taiger king
+Ozpin/Raven: Trust Issues
+Ozpin/Qrow: Bad Timing;Broken Clock;Cloqwork
+Ozpin/Ironwood: Metal Gear;Clockwork;I'll Give You A Heart
 Ozpin/Winter: Frozen In Time;Man behind the White Curtain
 Ozpin/Jacques: Class of Old Days
 Ozpin/Klein: Lollipop Guild
@@ -2361,24 +2362,24 @@ Ozpin/Flynt Coal: Tick-Tock
 Ozpin/Neon Katt: Somewhere over the rainbow
 Ozpin/Tukson: Beacon; A History
 Ozpin/Lisa Lavender: Old News
-Ozpin/Amber: Prized Possession
+Ozpin/Amber: Prized Possession 
 Ozpin/Zwei: WatchDog
 Ozpin/Shopkeeper: Around the Clock
 Ozpin/Kali: Wizard's Familiar
 Ozpin/Ghira: Kingdom Leaders
-Ozpin/Ilia: Misguided Few;Colourful Minds
+Ozpin/Ilia: Misguided Few;Colourful Minds;Grey Rainbows
 Ozpin/An Ren: Cosmic Lotus
 Ozpin/Li Ren: Overwatch
 Ozpin/Henry Marigold: Pinhead
 Ozpin/Sienna Khan: Forced to Resign
 Ozpin/Vernal: Green Man
 Port/Port: Harbor Frieght;Port to Port
-Port/Oobleck: What's This?;Mario Brothers;Tenured;One Last Bet
+Port/Oobleck: What's This?;Mario Brothers;Tenured;One Last Bet;Poobleck
 Port/Summer: Summer Stories
 Port/Taiyang: How I Met Your Mother
 Port/Raven: Bandit Fights
 Port/Qrow: Drunken Sailor
-Port/Ironwood: Iron fleet
+Port/Ironwood: Iron fleet 
 Port/Winter: Winter und der wolf
 Port/Jacques: Moustache Daddies
 Port/Klein: Chubby
@@ -2409,11 +2410,12 @@ Port/Henry Marigold: Online Class
 Port/Fennec Albain: Brother, Pour the Wine
 Port/Sienna Khan: Tales of Tradegies
 Port/Vernal: Spring Stories
-Oobleck/Oobleck: Need for Speed
+Oobleck/Oobleck: Need for Speed;Twoobleck
 Oobleck/Summer: Scatterbrain
 Oobleck/Taiyang: Light Roast
 Oobleck/Raven: Genghis Khan
-Oobleck/Qrow: Bird Watching;Champagne;GasolineOobleck/Ironwood: Rapid Assault
+Oobleck/Qrow: Bird Watching;Champagne ;Gasoline;Cocaine
+Oobleck/Ironwood: Rapid Assault
 Oobleck/Winter: Overnight Frost
 Oobleck/Jacques: Frozen Latte
 Oobleck/Klein: Doc
@@ -2430,12 +2432,12 @@ Oobleck/Nebula: Space Goo
 Oobleck/Dew: Wind Tossed Hair
 Oobleck/Gwen: Sharp Taste Hair
 Oobleck/Octavia: Double Flames
-Oobleck/Flynt Coal: Bepop;Fast Jazz;Hello
+Oobleck/Flynt Coal: Bepop;Fast Jazz
 Oobleck/Neon Katt: HyperActive
 Oobleck/Tukson: History
 Oobleck/Lisa Lavender: News Ticker
 Oobleck/Amber: Sticky Sap
-Oobleck/Zwei: Zwoobleck;Zoologist;Unauthorized Cuddles
+Oobleck/Zwei: Zwoobleck;Zoologist;A GENIUS!
 Oobleck/Shopkeeper: Everything Must Go
 Oobleck/Kali: Tea Sets and Gasoline
 Oobleck/Ilia: Espio
@@ -2443,11 +2445,11 @@ Oobleck/Henry Marigold: Latte Run
 Oobleck/Sienna Khan: History Repeats
 Oobleck/Vernal: Bandit Brew
 Summer/Summer: Vacation
-Summer/Taiyang: Summer Lovin';Tiamat
-Summer/Raven: Black Rose
-Summer/Qrow: Hummingbird;Hunter's Dream;Broken Wings;Silverbird
+Summer/Taiyang: Puns 'n' Roses
+Summer/Raven: Black Rose;A Midsummer's night dream;Lenore;Nevermore;Summertime Sadness;Rosebird
+Summer/Qrow: Flown North;Hunter's Dream
 Summer/Ironwood: Cookies for Soldiers
-Summer/Winter: Seasons;May-December;Military Discipline
+Summer/Winter: Seasons;May-December;Maiden Names
 Summer/Jacques: Cold Touch
 Summer/Klein: Scattered Mind
 Summer/Lionheart: Ghost of the Former Self
@@ -2479,8 +2481,8 @@ Summer/Henry Marigold: Fake Remberance
 Summer/Sienna Khan: The Burial She Deserves
 Summer/Vernal: Next to Come
 Taiyang/Taiyang: Lemon;Fire with Fire
-Taiyang/Raven: Elder Bird;Phoenix
-Taiyang/Qrow: Fireball;Teacher's Conference;Bad Luck Dragon
+Taiyang/Raven: FeatheredDragon;Yin and Taiyang
+Taiyang/Qrow: Qry
 Taiyang/Ironwood: Taiger Woods
 Taiyang/Winter: Daddy Issues
 Taiyang/Jacques: Fairly Odd Parents;The Good, The Dad and the Schneedy
@@ -2506,16 +2508,16 @@ Taiyang/Amber: Mega Aerodactyl
 Taiyang/Zwei: ZweiYang
 Taiyang/Shopkeeper: Tai Food
 Taiyang/Kali: Your Mom, My Dad
-Taiyang/Ghira: Cool Dads;Dad Night;Your Dad, My Dad
+Taiyang/Ghira: Cool Dads;Dad Night;Your Dad, My Dad;Cat Dad
 Taiyang/Ilia: Tai-Dye
 Taiyang/Li Ren: Daddy 76
 Taiyang/Henry Marigold: Proper Raising
 Taiyang/Sienna Khan: Dragon vs Tiger
 Taiyang/Vernal: Spring Dragon
-Raven/Raven: Spring Chicken;Telltale Heart;Rosebird
-Raven/Qrow: Feathers
+Raven/Raven: Spring Chicken;Telltale Heart;Conspiracy
+Raven/Qrow: Feathers;Love Birds;Black Birds;Birds of a Feather;A Qarven For Murder;Corvidae;Corvidcest;Attempted Murder
 Raven/Ironwood: Warbird
-Raven/Winter: Kenjutsu;Winter Migration
+Raven/Winter: Kenjutsu ;Winter Migration
 Raven/Jacques: Bad Parenting;Parents of the Year
 Raven/Klein: Black Butler
 Raven/Lionheart: Unmatched
@@ -2542,10 +2544,10 @@ Raven/An Ren: Mother Dearest
 Raven/Li Ren: Shooting Down Ravens
 Raven/Henry Marigold: Sherrif of Nottingham
 Raven/Sienna Khan: Tiger Moms
-Raven/Vernal: Season Commander;Decoy;Mating Season;Doom and Bloom;The Spring and The Fall
+Raven/Vernal: Season Commander;Decoy;Mating Season;Doom and Bloom
 Qrow/Qrow: Murder
-Qrow/Ironwood: Wood Pecker;Gears of War;IronQrow;Misfire;I'll Give You A Heart
-Qrow/Winter: Snowbird
+Qrow/Ironwood: Skarmory
+Qrow/Winter: Articuno
 Qrow/Jacques: Bar Fight
 Qrow/Klein: The Eaker
 Qrow/Lionheart: Drunk Bravery
@@ -2565,10 +2567,10 @@ Qrow/Flynt Coal: Freebird
 Qrow/Neon Katt: Rainbow Vomit
 Qrow/Tukson: Drunken Bookclub
 Qrow/Lisa Lavender: Wine and Cheap Perfume
-Qrow/Amber: Scareqrow;Migatory Animals;Amber Ale;Blazing Angels
+Qrow/Amber: Scareqrow;Migatory Animals;Amber Ale;Honey Cider
 Qrow/Zwei: Hair of the Dog
 Qrow/Shopkeeper: Liquor License
-Qrow/Kali: Qali
+Qrow/Kali: Qali;Drinking in Kali
 Qrow/Ghira: Grumpy Cat
 Qrow/Ilia: Qrowmeleon
 Qrow/An Ren: Drinking to Forget
@@ -2576,7 +2578,7 @@ Qrow/Li Ren: SAKE
 Qrow/Henry Marigold: Free Food and Drink
 Qrow/Corsac Albain: Drink the Kool-Aid
 Qrow/Fennec Albain: Oath Wine
-Qrow/Sienna Khan: Out of Luck
+Qrow/Sienna Khan: Poor Unfortunate Souls
 Qrow/Vernal: Vernal Vodka
 Ironwood/Ironwood: Heartless
 Ironwood/Winter: Winter Soldier;Winter Wood
@@ -2596,9 +2598,9 @@ Ironwood/Dew: Tornado Proof
 Ironwood/Gwen: Body Armour
 Ironwood/Octavia: Heated Debate
 Ironwood/Flynt Coal: Taps
-Ironwood/Neon Katt: Mistakes on Leave
+Ironwood/Neon Katt: Mistakes on Leave;Rainbow 6
 Ironwood/Tukson: Wolverine
-Ironwood/Lisa Lavender: War Correspondent
+Ironwood/Lisa Lavender: War Correspondent 
 Ironwood/Amber: Iron Maiden
 Ironwood/Zwei: Dogs of War
 Ironwood/Shopkeeper: Military Surplus
@@ -2632,7 +2634,7 @@ Winter/Lisa Lavender: Winter Advisary
 Winter/Amber: Season's Greeting
 Winter/Zwei: Winter Coat
 Winter/Shopkeeper: Diamond Store
-Winter/Ghira: Panserbj�rn
+Winter/Ghira: Panserbjørn
 Winter/Ilia: Atlas Drop Out
 Winter/Henry Marigold: The Other Sister
 Winter/Sienna Khan: Siberian Tiger;White Tiger
@@ -2678,11 +2680,11 @@ Klein/Flynt Coal: Jazzy
 Klein/Neon Katt: Rainbow Persona
 Klein/Tukson: Box Set
 Klein/Lisa Lavender: Mixed Signals;Changing Channels
-Klein/Zwei: Twenty Seven
+Klein/Zwei: Twenty Seven;Fourteen
 Klein/Shopkeeper: Seven for One
 Klein/Kali: Fommy
 Klein/Ghira: Only Best Father Figures
-Klein/Ilia: Multi-Coloured
+Klein/Ilia: Multi-Coloured;Indigo;7 Colored Dwarves
 Klein/Henry Marigold: Only to serve
 Klein/Sienna Khan: Seven Stripes
 Klein/Vernal: Seven Seasons
@@ -2713,9 +2715,9 @@ Lionheart/Li Ren: Balderich von Adler
 Lionheart/Henry Marigold: False Fears
 Lionheart/Sienna Khan: Lion and Tiger
 Lionheart/Vernal: Lost Responsibility
-Arslan/Arslan: Inner Self
+Arslan/Arslan: Inner Self;Narnia
 Arslan/Bolin: Kung-Fu Fighters
-Arslan/Reese: Leader Board
+Arslan/Reese: Leader Board;Green Lion;Pride Halfpipe
 Arslan/Nadir: Leonotis
 Arslan/Brawnz: Bronze Lion
 Arslan/Roy: Griffin
@@ -2762,7 +2764,7 @@ Bolin/Ilia: Rain Whip
 Bolin/Henry Marigold: Broken Stick
 Bolin/Sienna Khan: Back Unwatched
 Bolin/Vernal: Spring Rain
-Reese/Reese: Cool Boarders!;Wipeout;Pride Halfpipe
+Reese/Reese: Cool Boarders!;Wipeout;Wipeout Omega
 Reese/Nadir: Newbie on Board
 Reese/Brawnz: Scratch Marks
 Reese/Roy: Horse Power
@@ -2804,10 +2806,10 @@ Nadir/Amber: Taken Down
 Nadir/Zwei: Hush Puppy
 Nadir/Shopkeeper: First Time Customer
 Nadir/Kali: New Mother
-Nadir/Ghira: Rookie Chief
+Nadir/Ghira: Rookie Chief 
 Nadir/Ilia: Green Player
 Nadir/Li Ren: Rank Zero
-Nadir/Henry Marigold: Inexperienced
+Nadir/Henry Marigold: Inexperienced 
 Nadir/Sienna Khan: Eternal Mistakes
 Nadir/Vernal: Spring Flowers
 Brawnz/Brawnz: Third Place
@@ -2954,15 +2956,15 @@ Octavia/Henry Marigold: Fauxire
 Octavia/Sienna Khan: Burnt Hyde
 Octavia/Vernal: Warm Days
 Flynt Coal/Flynt Coal: Get Funky
-Flynt Coal/Neon Katt: Disco Remix;Funky Friends;Uptown Funk
+Flynt Coal/Neon Katt: Disco Remix;Funky Friends;Uptown Funk;Funfetti
 Flynt Coal/Tukson: Elegy
 Flynt Coal/Lisa Lavender: MTV
 Flynt Coal/Amber: Sweet Amber
 Flynt Coal/Zwei: Who Let The Dogs Out
 Flynt Coal/Shopkeeper: Record Store
-Flynt Coal/Kali: Mother Like Mine;Bad Omen;Funfetti
+Flynt Coal/Kali: Mother Like Mine;Bad Omen
 Flynt Coal/Ghira: Daddy's Hands
-Flynt Coal/Ilia: Quadruple Rainbow;Bismuth;7 Colored Dwarves
+Flynt Coal/Ilia: Quadruple Rainbow;Bismuth
 Flynt Coal/Li Ren: Drop The Beat
 Flynt Coal/Henry Marigold: Haters Gonna Hate
 Flynt Coal/Sienna Khan: Eye of the Tiger
@@ -2975,7 +2977,7 @@ Neon Katt/Zwei: Chasing Rainbows
 Neon Katt/Shopkeeper: Party City
 Neon Katt/Kali: Littermates;Disco Mom
 Neon Katt/Ghira: Nyan Dad
-Neon Katt/Ilia: Taste The Rainbow
+Neon Katt/Ilia: Taste The Rainbow;Double Rainbow
 Neon Katt/Henry Marigold: False Rainbow
 Neon Katt/Sienna Khan: Rainbow Stripes
 Neon Katt/Vernal: Spring Party
@@ -3014,7 +3016,7 @@ Amber/Ilia: Fall Colors
 Amber/Henry Marigold: Preserved Looks
 Amber/Sienna Khan: Souless
 Amber/Vernal: Spring and Fall
-Zwei/Zwei: Doggy Style
+Zwei/Zwei: Doggy Style;Vier
 Zwei/Shopkeeper: Pet Shop
 Zwei/Kali: Kukur Tihar
 Zwei/Ghira: Natural Enemy
@@ -3040,17 +3042,17 @@ Kali/Corsac Albain: Designed Killing
 Kali/Fennec Albain: Assigned Assassins
 Kali/Sienna Khan: Khali;Cougars Together
 Kali/Vernal: Hunting Time
-Ghira/Ghira: Bara
+Ghira/Ghira: Ghira Deli
 Ghira/Ilia: Strength in Forgiveness
 Ghira/Corsac Albain: Back Stabber
 Ghira/Fennec Albain: Crushed Orders
 Ghira/Sienna Khan: Fickle Love
 Ghira/Vernal: Staghorn and Claws
-Ilia/Ilia: Karma Chameleon
+Ilia/Ilia: Karma Chameleon;Tetris
 Ilia/Corsac Albain: It's Whats Best
 Ilia/Fennec Albain: Necessary Sacrifice
 Ilia/Sienna Khan: Stealth Betrayer
-Ilia/Vernal: Spring Rainbow
+Ilia/Vernal: Spring Rainbow;Charmelon Day
 An Ren/An Ren: Fallen Lotus
 An Ren/Li Ren: Ana
 An Ren/Vernal: Flowers and Feathers
@@ -3059,7 +3061,7 @@ Li Ren/Corsac Albain: Okami
 Li Ren/Vernal: Li in April
 Henry Marigold/Henry Marigold: Cheap Knockoff
 Henry Marigold/Sienna Khan: Faux Stripes
-Henry Marigold/Vernal: Stand in Spring
+Henry Marigold/Vernal: Stand in Spring;Fakers Unite
 Corsac Albain/Corsac Albain: Sack of Foxes
 Corsac Albain/Fennec Albain: Brother of Mine
 Corsac Albain/Sienna Khan: Brutus
@@ -3070,114 +3072,9 @@ Fennec Albain/Vernal: Spiralling Wind
 Sienna Khan/Sienna Khan: KHAAAAAAAN!!!;The Royal We
 Sienna Khan/Vernal: Never True
 Vernal/Vernal: Sprung
-Saphron Cotta-Arc/Saphron Cotta-Arc: Saffron Crocus
+Saphron Cotta-Arc/Saphron Cotta-Arc: ArCotta
 Terra Cotta-Arc/Terra Cotta-Arc: Terracotta Army
-Jaune/Saphron Cotta-Arc: Arccest
-Coco/Terra Cotta-Arc: Terra Coco
-Fox/Maria: We Can't See;Blind Buddies
-Fox/Saphron Cotta-Arc: Mother Fox
-Fox/Cordovin: Blind Glory
-Velvet/Terra Cotta-Arc: Terra Bunny
-Yatsuhashi/An Ren: Mountain Son
-Yatsuhashi/Maria: Grandma's Treats
-Yatsuhashi/Saphron Cotta-Arc: Spice Mountain
-Yatsuhashi/Cordovin: Mountain Shoes
-Cardin/Port: thik boiz
-Cardin/Brawnz: Mine Robbery
-Cardin/Nolan: Bird Sheppard
-Cardin/An Ren: Everything's Gonna Be Fine
-Cardin/Li Ren: Bird Talons
-Cardin/Fennec Albain: Inquisitors
-Cardin/Cordovin: Furry Haters;Cardovin
-Russel/Miltiades: Rash and Sore
-Russel/Oobleck: Tweaking
-Russel/Jacques: That's a BIG Wallet
-Russel/Roy: Spreaders of Seed
-Russel/Maria: Reaper Thrush;Eye Changes
-Dove/Melanie: White Olives
-Dove/Dr Merlot: Wedding Glassware
-Dove/Brawnz: Brawnzwing
-Dove/An Ren: Flight of Peace
-Dove/Corsac Albain: Shall We?
-Dove/Cordovin: Peacekeeper
-Sky/Miltiades: Blood Moon
-Sky/Brawnz: Homer
-Sky/Ghira: Sky Panther
-Sky/Fennec Albain: Aircraft Carrier
-Sky/Maria: Sky Skull
-Sky/Terra Cotta-Arc: TerraSpin
-Sun/Corsac Albain: Stopped Your Fire
-Sun/Terra Cotta-Arc: Stone Monkey
-Scarlet/Saphron Cotta-Arc: Pirate Queen
-Scarlet/Cordovin: Boot Strap
-Sage/Saphron Cotta-Arc: Sage and Saffron
-Neptune/Terra Cotta-Arc: Terra and Aqua
-Penny/Saphron Cotta-Arc: Robo Lesbos
-Penny/Cordovin: Superior Atlesian Engineering;Metal Shoes
-Ciel Soleil/Saphron Cotta-Arc: Mother Time
-Ciel Soleil/Cordovin: Time Boots
-Whitley/Maria: Blind Ambition
-Oscar/Saphron Cotta-Arc: Herbal Garden
-Salem/Saphron Cotta-Arc: Death Arc
-Salem/Cordovin: Witch Slippers
-Cinder/Maria: Missing Eyes;Blind Love
-Cinder/Terra Cotta-Arc: Kilm
-Mercury/Cordovin: Iron Boots
-Emerald/Terra Cotta-Arc: Garbled Transmission
-Emerald/Cordovin: Cobbler and the Thief
-Neopolitan/Maria: Color me Impressed;Eye Scream;Sugar Skull
-Roman/Maria: Roman Reaper
-Roman/Terra Cotta-Arc: Roman Pottery
-Roman/Cordovin: Stealing From The Elderly
-Adam/Saphron Cotta-Arc: Spice Bull
-Adam/Terra Cotta-Arc: Red Earth
-Hazel/Kali: Animalistic Nature
-Hazel/Saphron Cotta-Arc: Strong Arc
-Hazel/Cordovin: Breadcrumbs and Boots
-Tyrian/Maria: Poison Blades
-Tyrian/Terra Cotta-Arc: Scorpio Cotta
-Dr Watts/Saphron Cotta-Arc: Whistling Gold
-Melanie/Maria: Grandma's Claws
-Melanie/Cordovin: Lady in a Heel;What are thoooooose
-White Fang LT/Maria: Reap and Cleave
-Glynda/Cordovin: Schooling Kids
-Ozpin/Maria: Immortal Forces;Cheating Death;Life and Death;A Grimm Soul
-Port/Cordovin: Tales of Glory
-Summer/Maria: Summer's Guardian;Petals Passed Away;Death in the Breeze;Fallen Eyes;Deathly Eyes;Grimm Summer
-Summer/Cordovin: Protective B****es
-Taiyang/Maria: Father's Mother
-Raven/Nolan: Thunder Bird?
-Ironwood/Maria: Cyborgs
-Ironwood/Cordovin: The Glory of Atlas;Suck up;The Lil General;Bootlicking;Military Might;Insecurities
-Winter/Kali: Cold Cat
-Jacques/Brawnz: Cold Steel
-Jacques/Fennec Albain: Fox Business
-Jacques/Maria: Corperate Killer
-Jacques/Saphron Cotta-Arc: Spice Traders
-Jacques/Cordovin: Corporate Backing;Military Industrial Complex;Corporate Kickbacks
-Lionheart/An Ren: Dead
-Lionheart/Maria: Coward Skull
-Bolin/Maria: Grim Rain
-Nadir/Maria: Blind Rookie
-Roy/Maria: Reaping Steer;Seesaw
-May/Maria: Blind Shooter
-Dew/Maria: Whirlwind Granny
-Octavia/Maria: Burning Eyes
-Neon Katt/Maria: Party Skull
-Neon Katt/Terra Cotta-Arc: Glow In the Dark Pot
-Tukson/Maria: The Book Of Life
-Lisa Lavender/Cordovin: Fake News
-Amber/Maria: Fallen Legend
-Zwei/Maria: Big Bad Wolves
-Zwei/Saphron Cotta-Arc: Dog Statue
-Shopkeeper/Maria: Peanut Seller;Graveyard Shift
-Ilia/Henry Marigold: False Colors
-An Ren/Saphron Cotta-Arc: Play Date
-Li Ren/Maria: Lotus Skull
-Henry Marigold/Terra Cotta-Arc: Gold Pottery
-Sienna Khan/Maria: Eight Lives
-Vernal/Maria: Spring Reaping
-Saphron Cotta-Arc/Terra Cotta-Arc: Stone Arch;Argus LivingAdam/Cinder/Ruby: Blood Pact
+Adam/Cinder/Ruby: Blood Pact
 Adam/Blake/Sun: Crimsun Eclipse
 Adam/Sun/Yang: Blake Screwed Us Over
 Amber/Jaune/Pyrrha: Beyond Two Souls
@@ -3277,7 +3174,7 @@ Neo/Salem/Taiyang: The Lion, The Witch, The Wardrobe
 Neon/Nora/Penny: Electric Avenue
 Neptune/Ruby/Sun: Sailor's Delight
 Neptune/Sage/Sun: Seasuning
-Neptune/Sage/Shopkeeper: Seaweed Cabbages
+Neptune/Sage/Shopkeeper: Seaweed Cabbages 
 Neptune/Velvet/Weiss: Weissberg Lettuce
 Nora/Penny/Yang: Beep, Boop! Explosion!
 Nora/Pyrrha/Ruby: Maple Sugar Rush
@@ -3295,7 +3192,7 @@ Pyrrha/Ruby/Sun: Olympics
 Qrow/Raven/Summer: Odin
 Qrow/Raven/Winter: Three Eyed Raven
 Raven/Summer/Taiyang: A Family Again
-Roman/Ruby/Summer: Bouquetwick
+Roman/Ruby/Summer:  Bouquetwick
 Ruby/Weiss/Winter: Crimson Blizzard
 Ruby/Taiyang/Yang: Daddy's little girls
 Ruby/Weiss/Yang: Strawberry Shortcake
@@ -3367,4 +3264,4 @@ Yang/Blake/Ruby/Weiss/Melanie/Miltiades/Velvet/Coco/Pyrrha/Raven: The Dragon's H
 Yang/Junior/White Fang LT/Yatsuhashi: Goldilocks and the Three Bears
 Yang/Yang/Yang/Yang: YangBang
 Yang/Sun/Ilia/Blake: Sunshine and Rainbows
-Blake/Adam/Yang/Ilia/Su: Blake's Harem
+Blake/Adam/Yang/Ilia/Sun: Blake's Harem
