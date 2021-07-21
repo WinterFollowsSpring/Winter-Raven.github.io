@@ -19,12 +19,11 @@ rows.forEach(element => {
     shipdatadict[display] = new Ship(chars, names, namesdisplay);
 });
 
-populateTable("-!-")
+//populateTable("-!-")
 
 function populateTable(search) {
     search = search.toLowerCase();
     let searchTerms = search.split(/[\s/]+/g);
-    console.log(searchTerms);
 
     let newTable = document.createElement('table');
     newTable.id = "shipTable";

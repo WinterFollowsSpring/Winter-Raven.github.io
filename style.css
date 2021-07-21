@@ -1,5 +1,35 @@
+.button {
+  background-color: #d1d1d1;
+  box-shadow: 0 5px 0 #909090;
+  color: #505050;
+  padding: 0.2em 0.5em;
+  position: relative;
+  text-decoration: none;
+}
+
+.site {
+  background-color: #f8f8f8;
+}
+
+.button:hover {
+  background-color: #b0b0b0;
+  cursor: pointer;
+}
+
+.button:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.text {
+  font-family: verdana;
+}
+
+h1 {
+  background-color: #f1f1f1;
+}
+
 #searchInput {
-  background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
   background-repeat: no-repeat; /* Do not repeat the icon image */
   width: 50%; /* Full-width */
@@ -8,6 +38,7 @@
   border: 1px solid #ddd; /* Add a grey border */
   margin-bottom: 12px; /* Add some space below the input */
   float: left;
+  font-family: verdana;
 }
 
 #shipTable {
@@ -15,21 +46,25 @@
   width: 100%; /* Full-width */
   border: 1px solid #ddd; /* Add a grey border */
   font-size: 18px; /* Increase font-size */
+  font-family: verdana;
 }
 
 #shipTable th, #shipTable td {
   text-align: left; /* Left-align text */
   padding: 12px; /* Add padding */
+  font-family: verdana;
 }
 
 #shipTable tr {
   /* Add a bottom border to all table rows */
   border-bottom: 1px solid #ddd;
+  font-family: verdana;
 }
 
 #shipTable tr.header, #shipTable tr:hover {
   /* Add a grey background color to the table header and on hover */
   background-color: #f1f1f1;
+  font-family: verdana;
 }
 
 .loader {
@@ -40,6 +75,7 @@
   height: 30px;
   animation: spin 2s linear infinite;
   float: left;
+  font-family: verdana;
 }
 
 #wrapper {
