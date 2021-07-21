@@ -5,6 +5,7 @@ class Ship {
         this.chars = chars;
         this.names = names;
         this.namesdisplay = namesdisplay;
+        this.ao3tag = '';
     }
 }
 
@@ -18,6 +19,15 @@ rows.forEach(element => {
     let namesdisplay = section[1].replace(/;/g, ', ');
     shipdatadict[display] = new Ship(chars, names, namesdisplay);
 });
+
+let lines = ao3data.split('\n')
+lines.forEach(element => {
+    let sec = element.split(': ');
+    let dis = sec[0];
+    let tag = sec[1] + '/works';
+    shipdatadict[dis].ao3tag = tag;
+});
+console.log(shipdatadict);
 
 //populateTable("-!-")
 
@@ -34,10 +44,13 @@ function populateTable(search) {
     first_cell.style = "width:40%;";
     let second_cell = first_row.insertCell();
     second_cell.outerHTML = "<th>Names</th>";
-    second_cell.style = "width:59%;";
+    second_cell.style = "width:58%;";
     let third_cell = first_row.insertCell();
     third_cell.outerHTML = "<th></th>";
     third_cell.style = "width:1%;";
+    let fourth_cell = first_row.insertCell();
+    fourth_cell.outerHTML = "<th></th>";
+    fourth_cell.style = "width:1%;";
     Object.entries(shipdatadict).forEach(([key, ship]) => {
         let matches = 0;
         matchloop:
@@ -64,11 +77,26 @@ function populateTable(search) {
             let namescell = row.insertCell();
             let text2 = document.createTextNode(ship.namesdisplay);
             namescell.appendChild(text2);
+            
+            if (shipdatadict[key].ao3tag.length > 0) {
+                let ao3cell = row.insertCell();
+                let a3 = document.createElement('a');
+                let link3 = document.createTextNode("Ao3");
+                a3.appendChild(link3);
+                a3.title = key + " Ao3 Relationship Page ";
+                a3.href = shipdatadict[key].ao3tag;
+                a3.className = "b2";
+                ao3cell.appendChild(a3);
+            } else {
+                let ao3cell = row.insertCell();
+            }
+            
             let suggestcell = row.insertCell();
             let a = document.createElement('a');
             let link = document.createTextNode("*");
             a.appendChild(link);
             a.title = "Suggest a name for " + key;
+            a.className = "b2";
             a.href = "https://docs.google.com/forms/d/e/1FAIpQLScVaXvrx-dHQIigk5CHL94fJSuWRQaYWq4L6m1QxT0ae6Ou4w/viewform?usp=pp_url&entry.1666039153=" + key;
             suggestcell.appendChild(a);
         }
