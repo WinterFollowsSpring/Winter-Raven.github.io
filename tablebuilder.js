@@ -86,6 +86,8 @@ function populateTable(search) {
                 a3.title = key + " Ao3 Relationship Page ";
                 a3.href = shipdatadict[key].ao3tag;
                 a3.className = "b2";
+                a3.setAttribute('target', '_blank');
+                a3.setAttribute('rel', 'noopener noreferrer');
                 ao3cell.appendChild(a3);
             } else {
                 let ao3cell = row.insertCell();
@@ -97,6 +99,8 @@ function populateTable(search) {
             a.appendChild(link);
             a.title = "Suggest a name for " + key;
             a.className = "b2";
+            a.setAttribute('target', '_blank');
+            a.setAttribute('rel', 'noopener noreferrer');
             a.href = "https://docs.google.com/forms/d/e/1FAIpQLScVaXvrx-dHQIigk5CHL94fJSuWRQaYWq4L6m1QxT0ae6Ou4w/viewform?usp=pp_url&entry.1666039153=" + key;
             suggestcell.appendChild(a);
         }
