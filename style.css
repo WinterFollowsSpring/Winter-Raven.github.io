@@ -17,13 +17,10 @@
   background-color: #d1d1d1;
   box-shadow: 0 5px 0 #909090;
   color: #505050;
+  font-family: verdana;
   padding: 0.2em 0.5em;
   position: relative;
   text-decoration: none;
-}
-
-.site {
-  background-color: #f8f8f8;
 }
 
 .button:hover {
@@ -36,12 +33,40 @@
   top: 5px;
 }
 
+.button3 {
+  background-color: #ececec;
+  box-shadow: 0 5px 0 #d6d6d6;
+  color: #707070;
+  font-family: verdana;
+  padding: 0.2em 0.5em;
+  position: relative;
+  text-decoration: none;
+}
+
+.button3:hover {
+  background-color: #dbdbdb;
+  cursor: pointer;
+}
+
+.button3:active {
+  box-shadow: none;
+  top: 5px;
+}
+
+.site {
+  background-color: #f8f8f8;
+}
+
 .text {
   font-family: verdana;
 }
 
 h1 {
   background-color: #f1f1f1;
+}
+
+h2 {
+  background-color: #eeeeee;
 }
 
 #searchInput {
