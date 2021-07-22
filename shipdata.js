@@ -339,7 +339,7 @@ Jaune/Ciel Soleil: Straight Outta Time;Chevaliers Du Ciel
 Jaune/Whitley: Corporate Fraud;Weiss's Nightmare Pt 2
 Jaune/Oscar: Hedge Knight
 Jaune/Salem: At the Stake
-Jaune/Cinder: Arc welding;Knightfall;Arcfall;Arcine
+Jaune/Cinder: Arc welding;Knightfall;Arcfall;Arcine;Arc Furnace
 Jaune/Mercury: Melted Metal;Male Bees;Comic Buddies;Silver and Steel
 Jaune/Emerald: Topaz;Link;Lightning Thief
 Jaune/Neopolitan: Mountain Climber;Awkward Silence
@@ -2032,7 +2032,7 @@ Tyrian/Oobleck: Speed Demon
 Tyrian/Summer: Summer Thorns
 Tyrian/Taiyang: Forever Wounded
 Tyrian/Raven: Quote the Raven;Spring Chase
-Tyrian/Qrow: With Friends Like These;Alcohol Poisoning
+Tyrian/Qrow: With Friends Like These;Alcohol Poisoning;Little Shrikethrush
 Tyrian/Ironwood: War Crimes
 Tyrian/Winter: Killer Frost
 Tyrian/Jacques: Violent  Retaliation
@@ -3294,4 +3294,6 @@ Qrow Branwen/Clover Ebi/James Ironwood/Taiyang Xiao Long: The Bootlicker's Daddi
 Qrow Branwen/Summer Rose/Taiyang Xiao Long: Summer's Boys
 Saphron Cotta-Arc/Terra Cotta-Arc: Argus Living;Marriage;Stone Arch
 Weiss Schnee/Willow Schnee: Frosty Mommy Issues
-Tyrian Callows/Arthur Watts: Nuts and Volts`;
+Tyrian Callows/Arthur Watts: Nuts and Volts
+Tock/Jaune: Crocwork Knight
+Tock/Tyrian: Apex Predators`;
