@@ -3268,7 +3268,7 @@ Blake/Adam/Yang/Ilia/Sun: Blake's Harem
 Winter/Robyn: Snowbyrd;Icebyrd;Schneewood Forest
 Robyn/Fiona/May Marigold/Joanna: Very Happy Huntresses;Direct Action
 Winter/May Marigold: Black Ice
-Winter/Robyn/Fiona/May Marigold/Joanna: Frosty Happy Huntresses
+Winter/Robyn/Fiona/May Marigold/Joanna: Frosty Happy Huntresses;Very Very Happy Huntresses
 May Marigold/Joanna: Goldleaf
 May Marigold/Robyn: Invisibird
 May Marigold/Fiona: Maythyme

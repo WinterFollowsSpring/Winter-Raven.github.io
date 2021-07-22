@@ -2,11 +2,17 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="style.css">
+		<link rel="shortcut icon" type="image/png" href="/favicon.png">
+		<title>RWBY Shipping Database</title>
 	</head>
 	<body>
-		<div class="site">
+		<div class="site" id="back">
 		<h1 class="text">RWBY Shipping Database</h1>
-		<p class="text"><a class="button" target="_blank" rel="noopener noreferrer" href="https://forms.gle/Y1pmnmfRt8ztjU8t5">Suggest a name</a> <a class="button" target="_blank" rel="noopener noreferrer" href="https://forms.gle/W5YrbBCAeM87maDm8">Report an issue</a></p>
+		<p class="text">
+			<a class="button" target="_blank" rel="noopener noreferrer" href="https://forms.gle/Y1pmnmfRt8ztjU8t5">Suggest Ship</a> 
+			<a class="button" target="_blank" rel="noopener noreferrer" href="https://forms.gle/jFitWh3fdSd5dVpA7">Suggest AO3 Tag</a>
+			<a class="button" target="_blank" rel="noopener noreferrer" href="https://forms.gle/W5YrbBCAeM87maDm8">Report</a>
+		</p>
 		<input type="text" id="searchInput" onkeyup="search(this)" placeholder="Search for ships..">
 		
 		<div id="wrapper">
@@ -14,7 +20,8 @@
 		</div>
 		<table id="shipTable"></table>
 		</div>
-		<p class="text">Built by Winter Raven with data primarily from the <a href="https://docs.google.com/spreadsheets/d/1_bnr68pepImz1RDq7uJiQraVnDjU2D0vqmrSE85sF_U/edit#gid=1295997636">old shipchart</a></p>
+		<p class="text">Built by Winter Raven with data primarily from the <a href="https://docs.google.com/spreadsheets/d/1_bnr68pepImz1RDq7uJiQraVnDjU2D0vqmrSE85sF_U/edit#gid=1295997636">RWBY Shipchart</a>. 
+		Characters from the show <a href="https://roosterteeth.com/channel/rwby-universe">RWBY</a> by RoosterTeeth.</p>
 		<script src="shipdata.js"></script>
 		<script src="ao3data.js"></script>
 		<script src="tablebuilder.js"></script>

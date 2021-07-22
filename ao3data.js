@@ -184,4 +184,6 @@ Qrow Branwen/Clover Ebi/James Ironwood/Taiyang Xiao Long: https://archiveofourow
 Qrow Branwen/Summer Rose/Taiyang Xiao Long: https://archiveofourown.org/tags/Qrow%20Branwen*s*Summer%20Rose*s*Taiyang%20Xiao%20Long
 Saphron Cotta-Arc/Terra Cotta-Arc: https://archiveofourown.org/tags/Saphron%20Cotta-Arc*s*Terra%20Cotta-Arc
 Weiss Schnee/Willow Schnee: https://archiveofourown.org/tags/Weiss%20Schnee*s*Willow%20Schnee
-Tyrian Callows/Arthur Watts: https://archiveofourown.org/tags/Tyrian%20Callows*s*Arthur%20Watts`
+Tyrian Callows/Arthur Watts: https://archiveofourown.org/tags/Tyrian%20Callows*s*Arthur%20Watts
+Winter/Robyn/Fiona/May Marigold/Joanna: https://archiveofourown.org/tags/Happy%20Huntresses*s*Winter%20Schnee%20(RWBY)
+Ruby/Ruby: https://archiveofourown.org/tags/Ruby%20Rose*s*Ruby%20Rose%20(RWBY)`
