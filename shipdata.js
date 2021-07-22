@@ -83,7 +83,7 @@ Ruby/Maria: The Silver Reapers;Silver Eyed
 Weiss/Weiss: Mirror Image;Frozen Mirror;HAP HAP;Mirror Mirror;Tweiss
 Weiss/Blake: Monochrome;Checkmate;Bliss;Snow Clones
 Weiss/Yang: Freezerburn;A Song of Weiss and Fire;Snowdragon;Little Miss Tsunshine;White Gold;The Concordat;Weiss Crispies
-Weiss/Jaune: White Knight;Weissgold;Snow Angel;Natural Blond;Schnarc;Yellow Snow;Re-Jeckted;Daisy
+Weiss/Jaune: White Knight;Weissgold;Snow Angel;Natural Blond;Schnarc;Yellow Snow;Re-Jeckted;Daisy;York
 Weiss/Nora: Nordic Winter;Frozen Heart;Crushed Ice
 Weiss/Pyrrha: North Pole;White Gold;Schneekos;Star Students
 Weiss/Ren: White Lotus;Combat Sleeves
@@ -339,7 +339,7 @@ Jaune/Ciel Soleil: Straight Outta Time;Chevaliers Du Ciel
 Jaune/Whitley: Corporate Fraud;Weiss's Nightmare Pt 2
 Jaune/Oscar: Hedge Knight
 Jaune/Salem: At the Stake
-Jaune/Cinder: Arc welding
+Jaune/Cinder: Arc welding;Knightfall;Arcfall;Arcine
 Jaune/Mercury: Melted Metal;Male Bees;Comic Buddies;Silver and Steel
 Jaune/Emerald: Topaz;Link;Lightning Thief
 Jaune/Neopolitan: Mountain Climber;Awkward Silence
@@ -1607,7 +1607,7 @@ Oscar/Fennec Albain: Burnt Forest
 Oscar/Sienna Khan: Sucessor
 Oscar/Vernal: Planting Time
 Salem/Salem: The End
-Salem/Cinder: Burnt at the Stake
+Salem/Cinder: Burnt at the Stake;WitchFire
 Salem/Mercury: Double Black
 Salem/Emerald: Toil and Trouble
 Salem/Neopolitan: Grimm Silence
@@ -2032,7 +2032,7 @@ Tyrian/Oobleck: Speed Demon
 Tyrian/Summer: Summer Thorns
 Tyrian/Taiyang: Forever Wounded
 Tyrian/Raven: Quote the Raven;Spring Chase
-Tyrian/Qrow: With Friends Like These
+Tyrian/Qrow: With Friends Like These;Alcohol Poisoning
 Tyrian/Ironwood: War Crimes
 Tyrian/Winter: Killer Frost
 Tyrian/Jacques: Violent  Retaliation
