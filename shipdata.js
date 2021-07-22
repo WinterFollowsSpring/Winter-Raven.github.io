@@ -397,7 +397,7 @@ Jaune/Sienna Khan: Religious Leaders
 Jaune/Vernal: Rogue Knight
 Jaune/Maria: Skull Knight
 Nora/Nora: SMASHING
-Nora/Pyrrha: Electromagnetism;Love & War;Fastball Special;Valkros;Legion of Boop;Farabae
+Nora/Pyrrha: Electromagnetism;Love & War;Fastball Special;Valkros;Legion of Boop;Farabae;Pomegrenade
 Nora/Ren: ReNora;Noren;SlothFlower;Boop;Sloths;Flower Power;Watermelon;Calming Storm
 Nora/Coco: Loco;Chocolate Thunder;Shocklate
 Nora/Fox: Jolteon;Thunderfox
@@ -3187,7 +3187,7 @@ Penny/Ruby/Weiss: Dolts and Bolts
 Penny/Mercury/Yang: Quadraplegic
 Pyrrha/Neo/Weiss: Greek Fro-Yo
 Pyrrha/Ruby/Weiss: Platinum Rose
-Pyrrha/Weiss/Yang: Permafrost;Global Warming
+Pyrrha/Weiss/Yang: Permafrost;Global Warming;Trojan Fire and Ice
 Pyrrha/Ruby/Sun: Olympics
 Qrow/Raven/Summer: Odin
 Qrow/Raven/Winter: Three Eyed Raven
@@ -3266,7 +3266,7 @@ Yang/Yang/Yang/Yang: YangBang
 Yang/Sun/Ilia/Blake: Sunshine and Rainbows
 Blake/Adam/Yang/Ilia/Sun: Blake's Harem
 Winter/Robyn: Snowbyrd;Icebyrd;Schneewood Forest
-Robyn/Fiona/May Marigold/Joanna: Very Happy Huntresses;Direct Action
+Robyn/Fiona/May Marigold/Joanna: Very Happy Huntresses;Direct Action;Connect Four
 Winter/May Marigold: Black Ice
 Winter/Robyn/Fiona/May Marigold/Joanna: Frosty Happy Huntresses;Very Very Happy Huntresses
 May Marigold/Joanna: Goldleaf
@@ -3284,7 +3284,7 @@ Jaune Arc/Blake Belladonna/Ruby Rose/Weiss Schnee/Yang Xiao Long: Male Gaze
 Jaune Arc/Ruby Rose/Yang Xiao Long: Objectification
 Jaune Arc/Willow Schnee: Milf Boy
 Marrow Amin/Clover Ebi: Wishbone
-Marrow Amin/Jaune Arc: Jaune of Barc;C'mon Juan
+Marrow Amin/Jaune Arc: Jaune of Barc;C'mon Juan;Guard Dogs
 Marrow Amin/May Marigold: Marrowgold
 Ozma/Salem: Fairetale
 Qrow Branwen/Arthur Watts: Qrowatts
@@ -3296,4 +3296,7 @@ Saphron Cotta-Arc/Terra Cotta-Arc: Argus Living;Marriage;Stone Arch
 Weiss Schnee/Willow Schnee: Frosty Mommy Issues
 Tyrian Callows/Arthur Watts: Nuts and Volts
 Tock/Jaune: Crocwork Knight
-Tock/Tyrian: Apex Predators`;
+Tock/Tyrian: Apex Predators
+Tock/Maria: Silver Clocks
+Octavia/Olive: Smarties
+Ciel Soleil/Tock: Clockodile`;
