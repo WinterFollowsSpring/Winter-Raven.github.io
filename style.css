@@ -1,3 +1,20 @@
+.wikilink {
+  text-decoration: none;
+  color: #000000;
+}
+
+.wikilink:hover {
+  color: #808080;
+}
+
+.wikilink:active {
+  color: #808080;
+}
+
+.derp {
+  color: #000000;
+}
+
 .b2:link, .b2:visited {
   background-color: #f1f1f1;
   color: black;

@@ -6,6 +6,14 @@ class Ship {
         this.names = names;
         this.namesdisplay = namesdisplay;
         this.ao3tag = '';
+        this.linkname = '<div class="derp">'
+        let beg = '<a class="wikilink" target="_blank" rel="noopener noreferrer" href="https://rwby.fandom.com/wiki/'
+        let mid = '">'
+        let end = '</a>/'
+        chars.forEach(char => {
+            this.linkname += beg + char.replace(' ', '_') + mid + char + end;
+        });
+        this.linkname = this.linkname.substr(0, this.linkname.length - 1) + '</div>';
     }
 }
 
@@ -78,8 +86,9 @@ function populateTable(search) {
         if (searchTerms.length == matches.length) {
             let row = newTable.insertRow();
             let displaycell = row.insertCell();
-            let text1 = document.createTextNode(key);
-            displaycell.appendChild(text1);
+            displaycell.innerHTML = ship.linkname;
+            // let text1 = document.createTextNode(ship.linkname);
+            // displaycell.appendChild(text1);
             let namescell = row.insertCell();
             let text2 = document.createTextNode(ship.namesdisplay);
             namescell.appendChild(text2);
