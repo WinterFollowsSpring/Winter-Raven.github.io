@@ -3195,7 +3195,7 @@ Raven Branwen/Summer Rose/Taiyang Xiao Long: A Family Again
 Roman Torchwick/Ruby Rose/Summer Rose:  Bouquetwick
 Ruby Rose/Weiss Schnee/Winter Schnee: Crimson Blizzard
 Ruby Rose/Taiyang Xiao Long/Yang Xiao Long: Daddy's little girls
-Ruby Rose/Weiss Schnee/Yang Xiao Long: Strawberry Shortcake
+Ruby Rose/Weiss Schnee/Yang Xiao Long: Strawberry Shortcake;Sugar, Spice, and Everything Ice
 Ruby Rose/Weiss Schnee/Zwei: Zweit Rose
 Ruby Rose/Velvet Scarlatina/Yang Xiao Long: Wildflower Hare
 Taiyang Xiao Long/Weiss Schnee/Winter Schnee: Icy Fire
@@ -3251,7 +3251,7 @@ Salem/Ozpin/Cinder Fall/Pyrrha Nikos/Ruby Rose: Chess Pieces
 Salem/Ozpin/James Ironwood/Glynda Goodwitch: Triple Check
 Salem/Ozpin/James Ironwood/Glynda Goodwitch/Qrow Branwen/Pyrrha Nikos: Quintuple Check
 Shopkeep/Blake Belladonna/Velvet Scarlatina/Sun Wukong/Neon Katt/Adam Taurus/Tukson: Pet Store
-Summer Rose/Taiyang Xiao Long/Raven Branwen/Qrow Branwen: STRQ Naked
+Summer Rose/Taiyang Xiao Long/Raven Branwen/Qrow Branwen: STRQ Naked;Entire Team
 Summer Rose/Sun Wukong/Scarlet David/Sage Ayana/Neptune Vasilias: Summer's Beach Party
 Summer Rose/Willow/An/Raven Branwen/Kali Belladonna: Milf City
 Sun Wukong/Neptune Vasilias/Sage Ayana/Scarlet David: Story Time
@@ -3267,7 +3267,7 @@ Yang Xiao Long/Sun Wukong/Ilia Amitola/Blake Belladonna: Sunshine and Rainbows
 Blake Belladonna/Adam Taurus/Yang Xiao Long/Ilia Amitola/Sun Wukong: Blake's Harem
 Winter Schnee/Robyn Hill: Snowbyrd;Icebyrd;Schneewood Forest
 Robyn Hill/Fiona Thyme/May Marigold/Joanna Greenleaf: Very Happy Huntresses;Direct Action;Connect Four
-Winter Schnee/May Marigold: Black Ice
+Winter Schnee/May Marigold: Black Ice;Breaking the Ice
 Winter Schnee/Robyn Hill/Fiona Thyme/May Marigold/Joanna Greenleaf: Frosty Happy Huntresses;Very Very Happy Huntresses
 May Marigold/Joanna Greenleaf: Goldleaf
 May Marigold/Robyn Hill: Invisibird
@@ -3299,4 +3299,5 @@ Tock/Jaune Arc: Crocwork Knight
 Tock/Tyrian Callows: Apex Predators
 Tock/Maria Calavera: Silver Clocks
 Octavia Ember/Olive: Smarties
-Ciel Soleil/Tock: Clockodile`;
+Ciel Soleil/Tock: Clockodile
+Ruby Rose/May Marigold: Merry Rose`;
