@@ -848,4 +848,25 @@ Ruby Rose/Weiss Schnee/Winter Schnee: https://archiveofourown.org/tags/Ruby%20Ro
 Ruby Rose/Taiyang Xiao Long/Yang Xiao Long: https://archiveofourown.org/tags/Ruby%20Rose*s*Taiyang%20Xiao%20Long*s*Yang%20Xiao%20Long
 Ruby Rose/Weiss Schnee/Yang Xiao Long: https://archiveofourown.org/tags/Ruby%20Rose*s*Weiss%20Schnee*s*Yang%20Xiao%20Long
 Ruby Rose/Velvet Scarlatina/Yang Xiao Long: https://archiveofourown.org/tags/Ruby%20Rose*s*Velvet%20Scarlatina*s*Yang%20Xiao%20Long
-Weiss Schnee/Blake Belladonna/Winter Schnee: https://archiveofourown.org/tags/Weiss%20Schnee*s*Blake%20Belladonna*s*Winter%20Schnee`
+Weiss Schnee/Blake Belladonna/Winter Schnee: https://archiveofourown.org/tags/Weiss%20Schnee*s*Blake%20Belladonna*s*Winter%20Schnee
+Winter Schnee/May Marigold: https://archiveofourown.org/tags/May%20Marigold*s*Winter%20Schnee
+May Marigold/Joanna Greenleaf: https://archiveofourown.org/tags/May%20Marigold*s*Joanna%20Greenleaf
+May Marigold/Robyn Hill: https://archiveofourown.org/tags/Robyn%20Hill*s*May%20Marigold
+May Marigold/Fiona Thyme: https://archiveofourown.org/tags/May%20Marigold*s*Fiona%20Thyme
+Fiona Thyme/Marrow Amin: https://archiveofourown.org/tags/Fiona%20Thyme*s*Marrow%20Amin
+Fiona Thyme/Joanna Greenleaf: https://archiveofourown.org/tags/Fiona%20Thyme*s*Joanna%20Greenleaf
+Tock/Jaune Arc: https://archiveofourown.org/tags/Jaune%20Arc*s*Tock
+Tock/Maria Calavera: https://archiveofourown.org/tags/Maria%20Calavera*s*Tock
+Ruby Rose/May Marigold: https://archiveofourown.org/tags/Ruby%20Rose*s*May%20Marigold
+Blake Belladonna/Yang Xiao Long/Weiss Schnee/Ilia Amitola: https://archiveofourown.org/tags/Weiss%20Schnee*s*Blake%20Belladonna*s*Yang%20Xiao%20Long*s*Ilia%20Amitola
+Cardin Winchester/Russel Thrush/Dove Bronzewing/Sky Lark: https://archiveofourown.org/tags/Dove%20Bronzewing*s*Sky%20Lark*s*Russel%20Thrush*s*Cardin%20Winchester
+Coco Adel/Ruby Rose/Nora Valkyrie/Yang Xiao Long: https://archiveofourown.org/tags/Coco%20Adel*s*Ruby%20Rose*s*Nora%20Valkyrie*s*Yang%20Xiao%20Long
+Neopolitan/Blake Belladonna/Yang Xiao Long/Weiss Schnee: https://archiveofourown.org/tags/Blake%20Belladonna*s*Neopolitan*s*Weiss%20Schnee*s*Yang%20Xiao%20Long
+Neptune Vasilias/Yang Xiao Long/Blake Belladonna/Sun Wukong: https://archiveofourown.org/tags/Yang%20Xiao%20Long*s*Blake%20Belladonna*s*Sun%20Wukong*s*Neptune%20Vasilias
+Qrow Branwen/Raven Branwen/Yang Xiao Long/Blake Belladonna: https://archiveofourown.org/tags/Raven%20Branwen*s*Yang%20Xiao%20Long*s*Blake%20Belladonna*s*Qrow%20Branwen
+Ruby Rose/Summer Rose/Yang Xiao Long/Raven Branwen: https://archiveofourown.org/tags/Ruby%20Rose*s*Yang%20Xiao%20Long*s*Summer%20Rose*s*Raven%20Branwen
+Ruby Rose/Weiss Schnee/Pyrrha Nikos/Jaune Arc: https://archiveofourown.org/tags/Jaune%20Arc*s*Pyrrha%20Nikos*s*Ruby%20Rose*s*Weiss%20Schnee
+Ruby Rose/Nora Valkyrie/Jaune Arc/Lie Ren: https://archiveofourown.org/tags/Jaune%20Arc*s*Lie%20Ren*s*Ruby%20Rose*s*Nora%20Valkyrie
+Summer Rose/Taiyang Xiao Long/Raven Branwen/Qrow Branwen: https://archiveofourown.org/tags/Summer%20Rose*s*Taiyang%20Xiao%20Long*s*Raven%20Branwen*s*Qrow%20Branwen
+Sun Wukong/Neptune Vasilias/Sage Ayana/Scarlet David: https://archiveofourown.org/tags/Sage%20Ayana*s*Scarlet%20David*s*Neptune%20Vasilias*s*Sun%20Wukong
+Weiss Schnee/Pyrrha Nikos/Yang Xiao Long/Blake Belladonna: https://archiveofourown.org/tags/Weiss%20Schnee*s*Blake%20Belladonna*s*Yang%20Xiao%20Long*s*Pyrrha%20Nikos`
