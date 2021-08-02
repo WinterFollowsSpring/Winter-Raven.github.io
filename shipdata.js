@@ -18,7 +18,7 @@ Ruby Rose/Sun Wukong: Sunset;Red Sun;Suns and Roses;Strawbana
 Ruby Rose/Scarlet David: Scarlet Rose;Shades of Red
 Ruby Rose/Sage Ayana: Danshen;Sugar and Spice;Christmas;Paprika
 Ruby Rose/Neptune Vasilias: Red Tide;Red Sea;Rosewater;Roll Tide;Crimson Tide;Gun and Moses
-Ruby Rose/Penny Polendina: Guts and Dolts
+Ruby Rose/Penny Polendina: Guts and Dolts;Nuts and Dolts;Nuts & Dolts
 Ruby Rose/Ciel Soleil: Stopwatch;Red vs BLue;Mile a Minute
 Ruby Rose/Whitley Schnee: Wild Rose;Rose Medow;Country Rose
 Ruby Rose/Oscar Pine: Rose Garden;Silver Avacodo;Rose Farm;Redwood;RosePine;Country Rose
@@ -1823,7 +1823,7 @@ Emerald Sustrai/Li Ren: Reaping
 Emerald Sustrai/Henry Marigold: Stolen Identity
 Emerald Sustrai/Sienna Khan: Stolen Position
 Emerald Sustrai/Vernal: Snake in the Grass
-Neopolitan/Neopolitan: Double Scoop
+Neopolitan/Neopolitan: Double Scoop;Neo's Neo
 Neopolitan/Roman Torchwick: Creaminals;Partners in Cream;Orange Sherbert;Gelato
 Neopolitan/Adam Taurus: Corpse Party
 Neopolitan/Hazel Rainart: Hazel Nut Ice Cream
@@ -3085,7 +3085,6 @@ Blake Belladonna/Summer Rose/Raven Branwen: A MIdsummer's night dream
 Blake Belladonna/Emerald Sustrai/Ruby Rose: Purrloined Petals
 Blake Belladonna/Cardin Winchester/Yang Xiao Long: Birds and Bees
 Blake Belladonna/Coco Adel/Bed: Dreamin' of a Cat-Nap
-Blake Belladonna/Neopolitan/Yang Xiao Long: Neopollination
 Blake Belladonna/Neon Katt/Tukson: Cat-Trick
 Blake Belladonna/Penny Polendina/Ruby Rose: Mechanical Ladybug
 Blake Belladonna/Pyrrha Nikos/Yang Xiao Long: Greek Honeys
@@ -3183,7 +3182,7 @@ Nora Valkyrie/Penny Polendina/Ruby Rose: Rosequartz Hammer
 Bartholomew Oobleck/Peter Port/Yang Xiao Long: Edgy Moustache Humour
 Penny Polendina/Roman Torchwick/Pyrrha Nikos: Deadheads
 Penny Polendina/Pyrrha Nikos/Ruby Rose: Cinnamon Rolls
-Penny Polendina/Ruby Rose/Weiss Schnee: Dolts and Bolts
+Penny Polendina/Ruby Rose/Weiss Schnee: Dolts and Bolts;Frosen Steel
 Penny Polendina/Mercury Black/Yang Xiao Long: Quadraplegic
 Pyrrha Nikos/Neopolitan/Weiss Schnee: Greek Fro-Yo
 Pyrrha Nikos/Ruby Rose/Weiss Schnee: Platinum Rose
@@ -3199,14 +3198,12 @@ Ruby Rose/Weiss Schnee/Yang Xiao Long: Strawberry Shortcake;Sugar, Spice, and Ev
 Ruby Rose/Weiss Schnee/Zwei: Zweit Rose
 Ruby Rose/Velvet Scarlatina/Yang Xiao Long: Wildflower Hare
 Taiyang Xiao Long/Weiss Schnee/Winter Schnee: Icy Fire
-Yang Xiao Long/Weiss Schnee/Yang Xiao Long: Twinkie
 Blake Belladonna/Weiss Schnee/Kali Belladonna: Oreo
 Weiss Schnee/Blake Belladonna/Winter Schnee: Reverse Oreo
 Li Ren/Yatsu/Li Ren: Ryuu Ga Waga Teki Wo Kurau
 2 Winters/2 Ironwood/2 Cinder/2 Weiss/2 Qrows/1 Jaune: Jaune's Ark
 Adam Taurus/Cinder Fall/James Ironwood/Qrow Branwen/Raven Branwen: The Non-Teen Titans
 Arslan Altan/Bolin Hori/Reese Chloris/Nadir Shiko: Lion's Pride
-Arslan Altan/Adam Taurus/Adam Taurus/Adam Taurus: The Lion and Three Bulls
 Blake Belladonna/Weiss Schnee/Yang Xiao Long/Velvet Scarlatina/Ruby Rose/Cinder Fall: Kitten's Pride
 Blake Belladonna/Yang Xiao Long/Weiss Schnee/Ilia Amitola: Bees & Ps
 Cardin Winchester/Russel Thrush/Dove Bronzewing/Sky Lark: Sins
@@ -3217,7 +3214,6 @@ Cinder Fall/Amber/Pyrrha Nikos/Coco Adel: Fall Collection
 Coco Adel/Ruby Rose/Nora Valkyrie/Yang Xiao Long: Soviet Bloc
 Coco Adel/Fox Alistair/Velvet Scarlatina/Yatsuhashi Daichi/Cinder Fall/Roman Torchwick/Emerald Sustrai/Mercury Black: No Sugar
 Coco Adel/Velvet Scarlatina/Fox Alistair/Yatsuhashi Daichi: Dessert Cart
-Flynt Coal/Flynt Coal/Neon Katt/Neon Katt: Dancing with myself
 Glynda Goodwitch/Beowolf/Beowolf/Beowolf: Witch of the Wolves
 Jaune Arc/Yang Xiao Long/Sun Wukong/Taiyang Xiao Long: Blonde Fourgy
 Jaune Arc/Blake Belladonna/Velvet Scarlatina/Sun Wukong/Neon Katt/Adam Taurus/Tukson: Beastmaster
@@ -3225,10 +3221,8 @@ Neopolitan/Ruby Rose/Weiss Schnee/Blake Belladonna/Yang Xiao Long: Neo-Pollinati
 Neopolitan/Blake Belladonna/Yang Xiao Long/Weiss Schnee: Oreo Blaked Alaska
 Neptune Vasilias/Yang Xiao Long/Blake Belladonna/Sun Wukong: Sea Dragon of the Black Sun
 Nora Valkyrie/Pyrrha Nikos/Velvet Scarlatina/Glynda Goodwitch/Penny Polendina: Valhalla's Valkyries
-Nora Valkyrie/Lie Ren/Lie Ren/Lie Ren/Lie Ren/Lie Ren/Lie Ren/Lie Ren/Lie Ren/Lie Ren: Nora's Ha-Ren
 Ozpin/Qrow Branwen/Glynda Goodwitch/James Ironwood/Nebula Violette: Guardians of the Galaxy
 Ozpin/James Ironwood/Qrow Branwen/Taiyang Xiao Long/Jacques Schnee: Fullest House
-Penny Polendina/Penny Polendina/Penny Polendina/Penny Polendina/Penny Polendina/Penny Polendina/Penny Polendina/Penny Polendina/Penny Polendina/Penny Polendina: Dime
 Pyrrha Nikos/Yang Xiao Long/Weiss Schnee/Ruby Rose/Blake Belladonna/Nora Valkyrie/Cinder Fall: Sappho's Phalanx
 Qrow Branwen/Raven Branwen/Cardin Winchester/Russel Thrush/Dove Bronzewing/Sky Lark: The Flock
 Qrow Branwen/Raven Branwen/Yang Xiao Long/Blake Belladonna: Forbidden Birds and Bees
@@ -3258,11 +3252,9 @@ Sun Wukong/Neptune Vasilias/Sage Ayana/Scarlet David: Story Time
 Sun Wukong/Blake Belladonna/Pyrrha Nikos/Ruby Rose: No Luca No
 Taiyang Xiao Long/Winter Schnee/Ruby Rose/Jaune Arc: Taiwin Lancaster
 Taiyang Xiao Long/Yang Xiao Long/Weiss Schnee/Jacques Schnee: Dad Trading
-Weiss Schnee/Weiss Schnee/Weiss Schnee/Weiss Schnee: 8 Feet of Snow
 Weiss Schnee/Pyrrha Nikos/Yang Xiao Long/Blake Belladonna: Powerades
 Yang Xiao Long/Blake Belladonna/Ruby Rose/Weiss Schnee/Melanie Malachite/Miltia Malachite/Velvet Scarlatina/Coco Adel/Pyrrha Nikos/Raven Branwen: The Dragon's Hoard
 Yang Xiao Long/Junior/White Fang Lieutenant/Yatsuhashi Daichi: Goldilocks and the Three Bears
-Yang Xiao Long/Yang Xiao Long/Yang Xiao Long/Yang Xiao Long: YangBang
 Yang Xiao Long/Sun Wukong/Ilia Amitola/Blake Belladonna: Sunshine and Rainbows
 Blake Belladonna/Adam Taurus/Yang Xiao Long/Ilia Amitola/Sun Wukong: Blake's Harem
 Winter Schnee/Robyn Hill: Snowbyrd;Icebyrd;Schneewood Forest
@@ -3279,7 +3271,6 @@ Clover Ebi/James Ironwood: Ebiwood
 Clover Ebi/Taiyang Xiao Long: My Lucky Dad
 Elm Ederne/Vine Zeki: Flora Fun
 Jacques Schnee/Willow Schnee: Divorce Already
-James Ironwood/Arthur Watts: Ironwatts
 Jaune Arc/Blake Belladonna/Ruby Rose/Weiss Schnee/Yang Xiao Long: Male Gaze
 Jaune Arc/Ruby Rose/Yang Xiao Long: Objectification
 Jaune Arc/Willow Schnee: Milf Boy
@@ -3287,17 +3278,16 @@ Marrow Amin/Clover Ebi: Wishbone
 Marrow Amin/Jaune Arc: Jaune of Barc;C'mon Juan;Guard Dogs
 Marrow Amin/May Marigold: Marrowgold
 Ozma/Salem: Fairetale
-Qrow Branwen/Arthur Watts: Qrowatts
 Qrow Branwen/Clover Ebi: Fair Game
 Qrow Branwen/Clover Ebi/James Ironwood: Fair Fight
 Qrow Branwen/Clover Ebi/James Ironwood/Taiyang Xiao Long: The Bootlicker's Daddies
 Qrow Branwen/Summer Rose/Taiyang Xiao Long: Summer's Boys
 Saphron Cotta-Arc/Terra Cotta-Arc: Argus Living;Marriage;Stone Arch
 Weiss Schnee/Willow Schnee: Frosty Mommy Issues
-Tyrian Callows/Arthur Watts: Nuts and Volts
 Tock/Jaune Arc: Crocwork Knight
 Tock/Tyrian Callows: Apex Predators
 Tock/Maria Calavera: Silver Clocks
 Octavia Ember/Olive: Smarties
 Ciel Soleil/Tock: Clockodile
-Ruby Rose/May Marigold: Merry Rose`;
+Ruby Rose/May Marigold: Merry Rose
+Nora Valkyrie/Elm Ederne: Thunder Thighs`;

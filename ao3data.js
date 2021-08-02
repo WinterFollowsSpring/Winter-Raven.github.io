@@ -869,4 +869,5 @@ Ruby Rose/Weiss Schnee/Pyrrha Nikos/Jaune Arc: https://archiveofourown.org/tags/
 Ruby Rose/Nora Valkyrie/Jaune Arc/Lie Ren: https://archiveofourown.org/tags/Jaune%20Arc*s*Lie%20Ren*s*Ruby%20Rose*s*Nora%20Valkyrie
 Summer Rose/Taiyang Xiao Long/Raven Branwen/Qrow Branwen: https://archiveofourown.org/tags/Summer%20Rose*s*Taiyang%20Xiao%20Long*s*Raven%20Branwen*s*Qrow%20Branwen
 Sun Wukong/Neptune Vasilias/Sage Ayana/Scarlet David: https://archiveofourown.org/tags/Sage%20Ayana*s*Scarlet%20David*s*Neptune%20Vasilias*s*Sun%20Wukong
-Weiss Schnee/Pyrrha Nikos/Yang Xiao Long/Blake Belladonna: https://archiveofourown.org/tags/Weiss%20Schnee*s*Blake%20Belladonna*s*Yang%20Xiao%20Long*s*Pyrrha%20Nikos`
+Weiss Schnee/Pyrrha Nikos/Yang Xiao Long/Blake Belladonna: https://archiveofourown.org/tags/Weiss%20Schnee*s*Blake%20Belladonna*s*Yang%20Xiao%20Long*s*Pyrrha%20Nikos
+Nora Valkyrie/Elm Ederne: https://archiveofourown.org/tags/Elm%20Ederne*s*Nora%20Valkyrie`
