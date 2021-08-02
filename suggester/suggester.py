@@ -104,7 +104,10 @@ with open(os.path.dirname(__file__) + '/suggestions.csv', 'r', encoding='utf8') 
         else:
             ship.names = []
             suggestions.append(Suggestion(ship, name, True))
-    
+
+if len(suggestions) == 0:
+    print('No new suggestions!')
+
 for suggestion in suggestions:
     print(suggestion)
     inp = input('Approve (y/n): ')
@@ -116,5 +119,7 @@ for suggestion in suggestions:
         print('Denied!')
 
 with open(os.path.dirname(__file__) + '/../ships.txt', 'w', encoding='utf8') as f:
+    out = ''
     for ship in _ships:
-        f.write(f'{ship}\n')
+        out += f'{ship}\n'
+    f.write(out[:-1])
