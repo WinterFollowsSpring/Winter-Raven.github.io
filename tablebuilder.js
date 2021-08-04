@@ -33,7 +33,9 @@ lines.forEach(element => {
     let sec = element.split(': ');
     let dis = sec[0];
     let tag = sec[1] + '/works';
-    shipdatadict[dis].ao3tag = tag;
+    if (shipdatadict[dis] != null) {
+        shipdatadict[dis].ao3tag = tag;
+    }
 });
 
 function populateTable(search) {
@@ -128,4 +130,12 @@ function populateTable(search) {
 
     loader = document.getElementById("ldr");
 	loader.style.display = "none";
+}
+
+let queryString = window.location.search;
+if (queryString.length > 0) {
+	qry = queryString.substr(1);
+    qry = qry.replace(/%20/g, " ");
+    console.log(qry);
+	setTimeout(() => populateTable(qry), 50);
 }
