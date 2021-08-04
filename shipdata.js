@@ -688,7 +688,7 @@ Coco Adel/Zwei: Fashion Animal
 Coco Adel/Shopkeep: Favourite Customer
 Coco Adel/Kali Belladonna: Kalifornia Girl
 Coco Adel/Ghira Belladonna: Ghiradeli Chocolate
-Coco Adel/Ilia Amitola: Colour Coordinated
+Coco Adel/Ilia Amitola: Colour Coordinated;Ammouflage
 Coco Adel/An Ren: Whoopers
 Coco Adel/Li Ren: Bastion
 Coco Adel/Henry Marigold: Designer Style
