@@ -3086,7 +3086,7 @@ Blake Belladonna/Emerald Sustrai/Ruby Rose: Purrloined Petals
 Blake Belladonna/Cardin Winchester/Yang Xiao Long: Birds and Bees
 Blake Belladonna/Coco Adel/Bed: Dreamin' of a Cat-Nap
 Blake Belladonna/Neon Katt/Tukson: Cat-Trick
-Blake Belladonna/Penny Polendina/Ruby Rose: Mechanical Ladybug
+Blake Belladonna/Penny Polendina/Ruby Rose: Mechanical Ladybug;Notes & Dolts
 Blake Belladonna/Pyrrha Nikos/Yang Xiao Long: Greek Honeys
 Blake Belladonna/Pyrrha Nikos/Jaune Arc: Darkos
 Blake Belladonna/Ruby Rose/Weiss Schnee: Newspaper

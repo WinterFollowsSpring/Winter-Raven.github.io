@@ -118,8 +118,11 @@ for suggestion in suggestions:
         suggestion.deny()
         print('Denied!')
 
+out = ''
 with open(os.path.dirname(__file__) + '/../ships.txt', 'w', encoding='utf8') as f:
-    out = ''
     for ship in _ships:
         out += f'{ship}\n'
     f.write(out[:-1])
+
+with open(os.path.dirname(__file__) + '/../shipdata.js', 'w', encoding='utf8') as f:
+    f.write(f'var shipdata = `{out[:-1]}`;')
