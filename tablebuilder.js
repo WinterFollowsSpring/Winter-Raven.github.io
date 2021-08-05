@@ -136,6 +136,7 @@ let queryString = window.location.search;
 if (queryString.length > 0) {
 	qry = queryString.substr(1);
     qry = qry.replace(/%20/g, " ");
-    console.log(qry);
+    // console.log(qry);
+    document.getElementById("searchInput").value = qry;
 	setTimeout(() => populateTable(qry), 50);
 }
