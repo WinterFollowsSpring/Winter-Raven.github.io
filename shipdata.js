@@ -4,7 +4,7 @@ Ruby Rose/Blake Belladonna: Ladybug;Black Rose;Maroon
 Ruby Rose/Yang Xiao Long: Enabler;Strawberry Sunrise (platonic);Burning Rose;Rose Before Bows;Orange;Yellow Rose;Puns and Roses;Lannister
 Ruby Rose/Jaune Arc: Lancaster;Crater Face;Rose Knight;Rosy Arc;Lunar Rose;Dork Knight;Dorks;York
 Ruby Rose/Nora Valkyrie: Sugar Rush;Heavy Weapons;Communism;Rosehammer;Sugar Shock;Hammer and Sickle;Pink Rose;Comrade of Skirts;Red Queen;Crimson Bolt
-Ruby Rose/Pyrrha Nikos: Milk and Cereal;Scarlet Duo;Victory Rose;Pole Control;Scarlet fever;Destiny's Child;Milk and Cookies;Red Autumn;Marshmellows;Magnetic Rose;Smol Red/Tol Red
+Ruby Rose/Pyrrha Nikos: Milk and Cereal;Scarlet Duo;Victory Rose;Pole Control;Scarlet fever;Destiny's Child;Milk and Cookies;Red Autumn;Marshmellows;Magnetic Rose;Smol Red/Tol Red;Pyrruby
 Ruby Rose/Lie Ren: Crimson Lotus;Lotus Petals;Crimson Dragon;Red Lotus;Flower Bouquet;Mulan Rogue;Cherry Blossum
 Ruby Rose/Coco Adel: Cherry Cordial;Chocolate Milk;Strawberry Chocolate;Guns and Roses;Passion
 Ruby Rose/Fox Alistair: Vulpes;Scarlet Fox;Blind Bullet;Madra Rua;Fleetfoot;Fox On The Run
