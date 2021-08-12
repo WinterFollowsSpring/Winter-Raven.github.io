@@ -3290,4 +3290,5 @@ Tock/Maria Calavera: Silver Clocks
 Octavia Ember/Olive: Smarties
 Ciel Soleil/Tock: Clockodile
 Ruby Rose/May Marigold: Merry Rose
-Nora Valkyrie/Elm Ederne: Thunder Thighs`;
+Nora Valkyrie/Elm Ederne: Thunder Thighs
+Qrow Branwen/Harriet Bree: Watership Down`;
